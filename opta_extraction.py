@@ -12,16 +12,22 @@ if response.status_code == 200:
     # Parse the HTML content
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Find the relevant data
-    rankings = soup.find_all('div', class_='rankings')  # Update class name based on the actual HTML structure
+    # Initialize a list to store the team names and points
+    team_rankings = []
 
-    # Open a text file to write the rankings
+    # Find all the elements that contain the rankings
+    ranking_items = soup.find_all('div', class_='rankings__team')
+
+    # Loop through each item and extract the team name and points
+    for item in ranking_items:
+        team_name = item.find('div', class_='rankings__team-name').text.strip()
+        points = item.find('div', class_='rankings__team-score').text.strip()
+        team_rankings.append(f"{team_name} {points}")
+
+    # Write the extracted data to a text file
     with open('opta_rankings.txt', 'w') as file:
-        for ranking in rankings:
-            team_name = ranking.find('h2').text.strip()  # Update the tag/class as necessary
-            points = ranking.find('span', class_='points').text.strip()  # Update class name based on the actual HTML structure
-            # Write to the file
-            file.write(f"{team_name} {points}\n")
+        for team in team_rankings:
+            file.write(f"{team}\n")
 
     print("Rankings have been extracted and saved to opta_rankings.txt.")
 else:
