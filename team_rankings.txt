@@ -1,0 +1,1285 @@
+Manchester City, 2127
+Real Madrid, 2053
+Inter Milan, 1986
+Arsenal, 1969
+Liverpool FC, 1938
+Bayer Leverkusen, 1921
+Barcelona, 1918
+Paris Saint-Germain, 1886
+RB Leipzig, 1885
+Borussia Dortmund, 1873
+Bayern München, 1870
+Sporting, 1867
+Atalanta, 1856
+Atlético Madrid, 1853
+PSV Eindhoven, 1844
+FC Porto, 1825
+Girona, 1822
+VfB Stuttgart, 1804
+Juventus, 1803
+Feyenoord, 1802
+Chelsea FC, 1796
+Newcastle United, 1778
+Benfica, 1776
+Villarreal, 1765
+Monaco, 1760
+AC Milan, 1758
+Aston Villa, 1756
+Slavia Prague, 1751
+Sparta Prague, 1750
+Fenerbahçe, 1748
+Tottenham Hotspur, 1743
+Lazio, 1743
+Galatasaray, 1738
+Roma, 1737
+Torino, 1736
+Athletic Bilbao, 1735
+Bologna, 1735
+FK Red Star Belgrade, 1721
+Manchester United, 1718
+Lille, 1717
+Olympiakos, 1716
+Marseille, 1713
+Celtic, 1713
+Brighton & Hove Albion, 1710
+The New Saints, 1705
+Red Bull Salzburg, 1705
+Crystal Palace, 1701
+Real Sociedad, 1697
+Shakhtar Donetsk, 1697
+Real Betis, 1695
+Fiorentina, 1694
+SSC Napoli, 1694
+PFC Ludogorets 1945 Razgrad, 1692
+Flora Tallinn, 1690
+Dinamo Zagreb, 1689
+Lens, 1689
+Eintracht Frankfurt, 1687
+Zenit St. Petersburg, 1685
+PAOK FC, 1684
+West Ham United, 1671
+Mainz 05, 1671
+Braga, 1670
+Fulham, 1669
+Rangers, 1668
+AFC Bournemouth, 1667
+FCI Levadia Tallinn, 1666
+Club Brugge, 1664
+AZ Alkmaar, 1663
+Dynamo Kyiv, 1662
+Maccabi Tel Aviv, 1662
+AEK, 1659
+Brentford FC, 1659
+FC Twente, 1658
+1. FC Heidenheim, 1650
+Nice, 1648
+Union St.Gilloise, 1648
+Lyon, 1648
+Werder Bremen, 1644
+Ajax Amsterdam, 1644
+Genoa, 1641
+Brest, 1639
+Hoffenheim, 1639
+Freiburg, 1639
+Deportivo Alaves, 1634
+Udinese, 1632
+Rennes, 1630
+Viktoria Plzeň, 1627
+Celta Vigo, 1624
+Mallorca, 1619
+RSC Anderlecht, 1619
+Osasuna, 1617
+Bodø / Glimt, 1614
+Qarabağ, 1612
+Levante, 1612
+Partizan Beograd, 1611
+Young Boys, 1608
+Maccabi Haifa FC, 1607
+Leganes, 1604
+Borussia Mönchengladbach, 1603
+Hellas Verona, 1603
+Empoli FC, 1602
+Everton FC, 1601
+Dinamo Minsk, 1600
+Panathinaikos, 1600
+Nottingham Forest, 1599
+Slovan Bratislava, 1597
+Vitória Guimarães, 1597
+FC Sheriff, 1596
+Sevilla, 1593
+København, 1593
+Ferencváros, 1590
+Valencia, 1588
+Sturm Graz, 1587
+Wolfsburg, 1586
+Gent, 1583
+AC Monza, 1583
+Wolverhampton Wanderers, 1579
+Leicester City, 1579
+1. FC Union Berlin, 1573
+Litex Lovech, 1573
+CSKA Moskva, 1572
+PFC CSKA Sofia, 1569
+Reims, 1568
+APOEL Nicosia, 1568
+Dinamo Moskva, 1567
+Dacia Chisinau, 1567
+FC Utrecht, 1565
+AEK Larnaca, 1564
+Getafe, 1564
+Malmö FF, 1562
+Rayo Vallecano, 1561
+FC Midtjylland, 1561
+Levski Sofia, 1557
+Toulouse, 1557
+CFR Cluj, 1556
+İstanbul Başakşehir, 1555
+SC Dnipro-1, 1554
+SD Huesca, 1553
+Hajduk Split, 1553
+Molde FK, 1552
+RC Strasbourg, 1552
+Beşiktaş, 1549
+RCD Espanyol, 1548
+Augsburg, 1548
+Montpellier, 1548
+Cherno More Varna, 1546
+NEC Nijmegen, 1545
+Lokomotiv Moskva, 1544
+Trabzonspor, 1544
+Real Valladolid, 1542
+KuPS, 1542
+FC Krasnodar, 1541
+Fortuna Düsseldorf, 1541
+Sparta Rotterdam, 1540
+KRC Genk, 1539
+Hamburger SV, 1539
+Maribor, 1536
+Dnipro Dnipropetrovsk, 1536
+Lecce, 1535
+HJK Helsinki, 1533
+Royal Antwerp FC, 1532
+Ingolstadt, 1532
+Pafos FC, 1531
+Nomme Kalju FC (EST), 1531
+Omonia Nicosia, 1530
+Spartak Moskva, 1530
+PFC Sochi, 1530
+Carpi, 1528
+Rijeka, 1528
+Cádiz CF, 1527
+1. FC Köln, 1527
+Shamrock Rovers, 1526
+Stoke City, 1526
+Aris Limassol, 1525
+Steaua Bucureşti, 1525
+Apollon Limassol, 1524
+Zrinjski Mostar, 1523
+Elche, 1522
+FC Famalicão, 1522
+Cagliari, 1521
+Hapoel Be'er Sheva, 1520
+Olimpija Ljubljana, 1520
+Lokomotiv Astana, 1519
+CS Universitatea Craiova, 1517
+Eibar, 1517
+Swansea City, 1515
+Dunajska Streda, 1515
+Wigan Athletic, 1515
+Schalke 04, 1514
+Zalgiris Vilnius, 1514
+Moreirense, 1513
+Elfsborg, 1513
+Aris Thessaloniki FC, 1511
+Hammarby IF, 1511
+Djurgården, 1510
+DSC Arminia Bielefeld, 1508
+Sporting Gijón, 1504
+Lech Poznań, 1503
+Neman Grodno, 1503
+NK Celje, 1502
+Timişoara, 1502
+Leeds United, 1502
+Neath Athletic, 1501
+Burnley, 1499
+Birmingham City, 1498
+Las Palmas, 1497
+Kairat Almaty, 1496
+Ipswich Town F.C., 1496
+Frosinone, 1496
+Nantes, 1494
+Como 1907, 1494
+Bochum, 1494
+Catania, 1494
+Derry City, 1494
+Le Havre AC, 1492
+Deportivo Xerez, 1491
+Connah's Quay, 1491
+Hertha BSC, 1491
+Arouca, 1490
+Sochaux, 1490
+Legia Warszawa, 1488
+Nordsjælland, 1487
+Zorya Luhansk, 1486
+Deportivo La Coruña, 1486
+Paide Linnameeskond, 1485
+Topolski Sportski Club, 1484
+Brøndby, 1483
+Čukarički, 1483
+Servette, 1482
+US Cremonese, 1482
+Almería, 1482
+CS Petrocub, 1481
+BATE Borisov, 1481
+Rio Ave, 1480
+FC Zürich, 1478
+West Brom, 1478
+FC Infonet Tallinn, 1476
+FC Basel, 1476
+ASD Spezia Calcio 2008, 1475
+Bolton Wanderers, 1475
+Rigas Futbola skola, 1475
+Rapid Wien, 1474
+BK Häcken, 1473
+Osijek, 1473
+Cercle Brugge, 1473
+Cardiff City, 1472
+LASK Linz, 1472
+Puskás FC, 1471
+Rubin Kazan, 1471
+Real Zaragoza, 1470
+Hull City, 1470
+Sassuolo, 1470
+KS Raków Częstochowa, 1470
+Holstein Kiel, 1470
+Lugano, 1470
+Rukh Vynnyky, 1469
+Blackpool, 1469
+Baník Ostrava, 1469
+Spartak Trnava, 1469
+Kryvbas, 1469
+Lorient, 1468
+Anorthosis, 1468
+Linfield, 1467
+Slovácko, 1467
+Torpedo Zhodino, 1466
+Luton Town F.C., 1466
+Riga FC, 1465
+Tenerife, 1465
+SC Bastia, 1464
+Sporting Fingal, 1463
+FK Akhmat Grozny, 1463
+Sillamäe Kalev, 1462
+Vojvodina, 1461
+FC CSKA 1948 Sofia, 1460
+Polissya Zhytomyr, 1460
+Oleksandriya, 1460
+Shakhtyor Soligorsk, 1459
+Pogoń Szczecin, 1459
+Blackburn Rovers F.C., 1459
+KF Shkendija, 1458
+Lokomotiv Plovdiv, 1457
+FC St. Gallen 1879, 1457
+AIK, 1457
+Olympiakos Volos, 1457
+Novara, 1456
+FC Vaslui, 1456
+Viking FK, 1455
+Siena, 1455
+Eintracht Braunschweig, 1454
+Tiraspol, 1452
+SC Paderborn 07, 1451
+Granada, 1450
+KV Mechelen, 1449
+FK Desna Chernihiv, 1449
+Budućnost, 1448
+Queens Park Rangers, 1448
+Nîmes Olympique, 1447
+Gil Vicente FC, 1446
+Clermont Foot, 1446
+Málaga, 1446
+Neftçi, 1445
+Mladá Boleslav, 1445
+Ordabasy Shymkent, 1444
+Žilina, 1443
+Middlesbrough, 1443
+Borac Banja Luka, 1442
+AGF, 1442
+Iskra-Stal, 1441
+Honka, 1440
+FK Rostov, 1440
+Sivasspor, 1439
+Alanyaspor, 1439
+Kasımpaşa, 1439
+Nancy, 1439
+Rapid Bucureşti, 1439
+Evian TG, 1439
+Southampton, 1438
+GFC Ajaccio, 1438
+Bala Town FC, 1438
+Tobol Kostanay, 1437
+SK Brann, 1437
+FC Milsami Orhei, 1435
+Dinamo Tbilisi, 1434
+Auxerre, 1433
+Metalurh Donetsk, 1432
+Bangor City, 1432
+Sunderland, 1432
+Rosenborg BK, 1432
+Shelbourne, 1431
+FK Sarajevo, 1431
+Reading, 1431
+Hércules, 1431
+MOL Fehérvár FC, 1430
+Venezia FC, 1430
+St Patrick's, 1430
+Hannover 96, 1429
+Larne FC, 1428
+Portsmouth, 1428
+Farul Constanța, 1427
+SC Heerenveen, 1427
+Konyaspor, 1427
+Amiens SC, 1426
+Ružomberok, 1426
+Go Ahead Eagles, 1426
+Heart of Midlothian, 1426
+Sporting Charleroi, 1426
+Oud-Heverlee Leuven, 1425
+Györi ETO, 1425
+Krylya Sovetov Samara, 1425
+FC Ural, 1425
+Piast Gliwice, 1424
+Paksi SE, 1424
+Metz, 1424
+Jablonec, 1424
+SK Sigma Olomouc, 1422
+FC Dinamo Batumi, 1422
+Slovan Liberec, 1422
+FC Arda Kardzhali, 1421
+Hradec Králové, 1421
+Koper, 1421
+Bordeaux, 1420
+Sutjeska, 1420
+Kaiserslautern, 1419
+Aktobe, 1418
+Mjällby AIF, 1418
+Ilves, 1418
+Fatih Karagümrük, 1418
+Wolfsberger AC, 1417
+Austria Wien, 1416
+Moskva, 1416
+FC Ruh Brest, 1416
+Parma Calcio 1913, 1416
+Crotone, 1416
+Guingamp, 1415
+Adana Demirspor, 1415
+Watford, 1413
+Viitorul Constanţa, 1412
+Jagiellonia Białystok, 1411
+Amkar Perm', 1411
+Botev Plovdiv, 1409
+Aberdeen, 1409
+Luzern, 1408
+Benevento, 1408
+Gazişehir Gaziantep FK, 1408
+Isloch, 1408
+Sampdoria, 1407
+Kuban' Krasnodar, 1406
+Sepsi OSK, 1406
+Le Mans, 1406
+Fortuna Sittard, 1406
+Casa Pia, 1405
+Seinaejoen JK, 1405
+NŠ Mura, 1405
+Debrecen, 1404
+Saint-Étienne, 1403
+MP Antalyaspor, 1402
+Gomel, 1400
+Saturn, 1399
+Samsunspor, 1399
+Grenoble, 1399
+FC Inter Turku (FIN), 1399
+VPS, 1398
+St. Pauli, 1398
+Sirius, 1398
+U.S. Salernitana 1919, 1398
+Bari, 1398
+FC Brest, 1397
+Palermo, 1397
+Vorskla Poltava, 1396
+Greuther Fürth, 1396
+Bohemian FC, 1396
+Lokomotiva, 1396
+LNZ Cherkasy, 1395
+Astra Ploieşti, 1395
+Mura 05, 1394
+Boulogne, 1394
+NK Bravo, 1394
+Caen, 1394
+Tromsø IL, 1394
+Sint-Truiden, 1392
+CD Santa Clara, 1392
+AEL Limassol, 1392
+Nürnberg, 1391
+AVS Futebol SAD, 1390
+FC Orenburg, 1390
+PEC Zwolle, 1390
+Cliftonville, 1390
+Universitatea Cluj, 1390
+Polonia Warszawa, 1390
+Slavia Sofia, 1390
+FC Ufa, 1389
+Willem II, 1389
+Bohemians 1905, 1387
+Valenciennes, 1387
+Darmstadt, 1386
+Chernomorets Burgas, 1386
+Racing Santander, 1385
+Boavista, 1385
+Oţelul Galaţi, 1385
+Dundalk FC, 1385
+Gornik Zabrze, 1384
+Kavala, 1384
+Norwich City, 1382
+Śląsk Wrocław, 1381
+Lobos B.U.A.P., 1381
+Cracovia Kraków, 1381
+Hapoel Haifa, 1381
+IFK Norrköping, 1380
+Kecskeméti TE, 1380
+Željezničar, 1380
+F.C.V. Dender E.H., 1379
+Westerlo, 1379
+Rizespor, 1377
+Chievo Verona, 1377
+Bursaspor, 1376
+Dila Gori, 1376
+AFC Herrmannstadt Sibiu, 1376
+Eyüpspor, 1376
+Shkupi Skopje, 1376
+Standard Liège, 1375
+Brescia, 1375
+Crusaders, 1375
+Sabah FK, 1375
+Zimbru, 1374
+Arsenal Tula, 1374
+Osmanlıspor FK, 1373
+FC Haka J, 1373
+Waterford FC, 1373
+Glentoran, 1372
+SC Farense, 1372
+Vitória Setúbal, 1371
+Sheffield United FC, 1371
+Radnički 1923 Kragujevac, 1371
+FC Torpedo Moscow, 1370
+Pandurii Târgu Jiu, 1370
+FK Zirka Kirovohrad, 1370
+Sligo Rovers, 1370
+Ankaragücü, 1370
+IFK Göteborg, 1369
+Vålerenga, 1369
+Silkeborg, 1369
+FC Struga Trim-Lum, 1369
+FK Pardubice, 1367
+Iraklis, 1367
+Irtysh Pavlodar, 1367
+FK Kauno Zalgiris, 1367
+FC Veris, 1366
+Sarpsborg 08, 1366
+Thun, 1366
+Valmiera FK, 1365
+Kayserispor, 1365
+Beitar Jerusalem FC, 1365
+TSV Hartberg, 1363
+Córdoba CF, 1363
+Portimonense, 1361
+Mouscron-Péruwelz, 1361
+Kalmar FF, 1361
+C.F. Estrela da Amadora, 1361
+Hegelmann Litauen Kaunas, 1361
+Motherwell, 1360
+CS Marítimo Madeira, 1360
+Estoril, 1359
+Randers FC, 1359
+Xanthi FC, 1359
+Cesena, 1359
+Huddersfield Town, 1358
+FC Nizhny Novgorod, 1357
+Kilmarnock, 1357
+Hatayspor Kulübü, 1357
+FC Skonto Riga, 1357
+Almere City FC, 1357
+OFI Crete, 1356
+Troyes, 1356
+Belenenses, 1356
+Elazığspor, 1356
+FC Vizela, 1355
+Newtown, 1355
+Viborg, 1354
+Velež Mostar, 1354
+Port Talbot, 1353
+SK Austria Klagenfurt, 1353
+Zagłębie Lubin, 1353
+Athens Kallithea F.C., 1353
+FK Mladost Lučani, 1352
+RKC Waalwijk, 1352
+Široki Brijeg, 1352
+Vitesse, 1351
+Lillestrøm, 1351
+Domžale, 1351
+FC Krumovgrad, 1351
+FC Energetik-BGU Minsk, 1351
+Bnei Sakhnin, 1350
+Uniao da Madeira, 1350
+Dukla Banska Bystrica, 1349
+Torpedo Kutaisi, 1349
+Cardiff Met University, 1349
+Penybont FC, 1348
+Hibernian, 1348
+Roda JC Kerkrade, 1348
+Trenčín, 1348
+FK Panevėžys, 1347
+Ironi Kiryat Schmona, 1347
+St. Mirren, 1347
+Livyi Bereh Kyiv, 1347
+Zalaegerszegi TE, 1347
+AFC UTA Arad, 1346
+Slavia-Mozyr, 1346
+Eskişehirspor, 1346
+Spartak Myjava, 1345
+Akhisar Belediye, 1345
+Bnei Yehuda Tel Aviv FC, 1345
+IFK Värnamo, 1345
+Llanelli, 1345
+Paços de Ferreira, 1344
+Újpest, 1344
+Arles, 1344
+Zaria Bălți, 1344
+MTK Budapest, 1344
+Beira-Mar, 1343
+FC Iberia 1999, 1343
+Kisvárda Master Good, 1342
+Erzurum BB, 1342
+PFC Lokomotiv Sofia 1929, 1342
+FC Emmen, 1342
+Vysočina Jihlava, 1341
+Strømsgodset, 1341
+Diósgyör, 1341
+Teplice, 1341
+Fredrikstad, 1340
+HNK Gorica, 1340
+Khazar Lankaran FK, 1340
+Tondela, 1340
+Chaves, 1340
+Sloboda Užice, 1340
+Livorno, 1339
+Mordovia Saransk, 1339
+De Graafschap, 1339
+Zirə, 1339
+Dijon, 1339
+Beroe, 1338
+Suduva Marijampole, 1338
+Excelsior, 1338
+Hapoel Jerusalem, 1338
+Heracles, 1338
+Maccabi Netanya, 1338
+FC Ashdod, 1337
+Naval 1º de Maio, 1337
+Dečić, 1336
+Khimki, 1336
+Nea Salamis, 1336
+Widzew Łódz, 1336
+SPAL 2013, 1336
+Honvéd, 1335
+NK Istra 1961, 1335
+FC Kolos Kovalivka, 1335
+Bodrum F.K., 1335
+Atromitos, 1334
+Pendikspor, 1334
+Sion, 1334
+Zavrč, 1333
+KS Warta Poznań, 1332
+Maccabi Bnei Reineh, 1332
+Petrolul Ploieşti, 1332
+NK Varaždin, 1331
+Stal Kamianske, 1331
+Asteras Tripolis, 1331
+Znojmo, 1331
+Kristiansund BK, 1331
+KFUM-Kameratene Oslo, 1331
+MyPa, 1330
+Ventspils, 1330
+Bakı, 1330
+FK Inhulets' Petrove, 1329
+FC Voluntari, 1329
+Braşov, 1329
+Volos New Football Club, 1329
+Olhanense, 1329
+Inverness CT, 1329
+FC Arsenal Kiev, 1328
+Galway United FC, 1328
+Novi Pazar, 1328
+Sevastopol, 1328
+Rhyl, 1328
+Royal Excel Mouscron Péruwelz, 1328
+Ethnikos Achnas, 1327
+FC Groningen, 1326
+Sfîntul Gheorghe, 1326
+Panionios, 1326
+Ionikos, 1325
+Grasshopper Club Zürich, 1325
+Roeselare, 1325
+Orduspor, 1325
+Balıkesirspor, 1325
+Odense Boldklub, 1325
+St. Louis City, 1324
+FK Slutsk, 1324
+Odds Ballklubb, 1324
+Pars Jonoubi Jam, 1324
+FK Gorodeya, 1324
+Hajduk Kula, 1323
+Pécsi MFC, 1323
+IF Gnistan, 1323
+Simurq, 1323
+Lechia Gdańsk, 1323
+FK Haugesund, 1322
+Académica, 1322
+AaB, 1321
+Spartak Nal'chik, 1321
+FK Rotor Volgograd, 1320
+Karpaty Lviv, 1320
+Kayseri Erciyesspor, 1319
+Metalist Kharkiv, 1319
+FK Vitebsk, 1319
+Yenisey Krasnoyarsk, 1319
+Radnički Niš, 1319
+Voždovac, 1319
+Leixões, 1318
+HamKam, 1318
+Korona Kielce, 1318
+Gençlerbirligi, 1318
+Hapoel Tel Aviv, 1318
+Manisaspor, 1318
+Deportivo Sanarate, 1318
+GAIS, 1318
+Coleraine, 1317
+Cork City, 1317
+Altay S.K., 1317
+FK Tosno, 1316
+Grödig, 1316
+Balmazújváros, 1316
+FK Spartak Subotica, 1316
+AC Ajaccio (FRA), 1315
+ŠKF Sereď, 1315
+Kaisar Kyzylorda, 1315
+Monaghan United, 1315
+Wisła Płock, 1315
+Unirea Urziceni, 1314
+Veres Rivne, 1314
+Dinamo Bucureşti, 1314
+FC Winterthur, 1314
+Puszcza Niepołomice, 1314
+Yverdon-Sport FC, 1314
+Podbrezová, 1313
+Qäbälä, 1313
+Blau-Weiß Linz, 1313
+Panetolikos, 1312
+Botoşani, 1312
+FKS Stal Mielec, 1312
+FC U Craiova 1948, 1311
+FK IMT, 1311
+Zhetysu Taldykorgan, 1311
+Tampere United, 1311
+Sibir Novosibirsk, 1311
+AC Oulu, 1311
+Radomiak Radom, 1310
+Železničar Pančevo, 1310
+Chornomorets Odesa, 1310
+Mons, 1310
+Lamia, 1310
+FC Unirea 2004 Slobozia, 1309
+FC Minsk, 1309
+Wisła Kraków, 1308
+Mattersburg, 1308
+Vardar Skopje, 1308
+Keşlə Futbol Klubu, 1308
+FC Tsarsko Selo Sofia 2015, 1308
+Ümraniyespor, 1307
+FK Mariupol Illichivets', 1307
+Angers, 1306
+Atyrau, 1306
+Neuchâtel Xamax, 1305
+FK Spartak 1918 Varna, 1304
+Olimpik Donetsk, 1304
+Göztepe AŞ, 1303
+FC Arsenal Dzerzhinsk, 1303
+GKS Katowice, 1303
+Ironi Tiberias F.C., 1303
+Szombathelyi Haladás, 1303
+Ergotelis, 1303
+Lučko, 1303
+Minyor Pernik, 1302
+Larisa Ael, 1302
+Caernarfon, 1302
+Narva Trans, 1302
+Zawisza Bydgoszcz, 1302
+FC Daugava, 1302
+Gefle, 1302
+Turnu Severin, 1301
+FC Zbrojovka Brno, 1301
+OFK Titograd, 1301
+Zeta, 1301
+Motor Lublin, 1300
+FC Chindia Târgovişte, 1300
+Joenkoepings Soedra, 1299
+Pescara, 1299
+Waterford United FC, 1299
+AZAL PFC Baku, 1299
+Radomlje, 1299
+Alaniya, 1299
+Omonia Aradippou, 1299
+Kladno, 1298
+FC Zlin, 1298
+Assyriska, 1298
+Penafiel, 1298
+Kyzylzhar Petropavlovsk, 1298
+Panserraikos FC, 1298
+MFK Karviná, 1298
+NK Rogaška, 1297
+Grazer AK, 1297
+FC Minaj, 1297
+MZKS Arka Gdynia, 1296
+Alki Oroklinis, 1296
+FC Samgurali Tskhaltubo, 1295
+Săgeata Năvodari, 1295
+Argeș Pitești, 1295
+Maccabi Petah Tikva, 1295
+Sogndal, 1294
+FK Tekstilac Odžaci, 1294
+FC Anzhi Makhachkala, 1294
+FC Vaduz, 1294
+Feirense, 1294
+Shakhter Karagandy, 1294
+FK Riteriai, 1294
+Stabæk, 1294
+OFK Beograd, 1294
+FC Dordrecht, 1294
+FK Tuzla City, 1294
+Hapoel Hadera, 1294
+Ruch Chorzów, 1294
+Ekranas, 1293
+Bucaspor, 1292
+Lokeren, 1292
+FA Šiauliai, 1291
+Olympiakos Nicosia, 1291
+A.D. Municipal Santa Ana, 1291
+PAC Omonia 29M, 1291
+Gaziantepspor, 1291
+Dundee FC, 1290
+Viktoria Žižkov, 1290
+Slaven, 1289
+KFC Komárno, 1289
+Haverfordwest County, 1289
+Adanaspor, 1289
+Napredak, 1289
+Jagodina, 1289
+Sandefjord Football, 1288
+Lierse, 1288
+Västerås SK, 1288
+Öster, 1288
+NK Krka, 1288
+União de Leiria, 1288
+NAC Breda, 1287
+SCR Altach, 1287
+Drogheda United, 1287
+ADO Den Haag, 1287
+Halmstads BK, 1287
+Dukla Praha, 1287
+Karlovac, 1287
+SV Roeselare, 1286
+Vestsjælland, 1286
+RWD Molenbeek, 1286
+Örebro, 1286
+Zulte Waregem, 1286
+Internaţional Curtea de Argeş, 1286
+AOK Kerkyra, 1286
+Hønefoss, 1285
+Taraz, 1285
+Chikhura, 1285
+KV Oostende, 1285
+HŠK Posušje, 1285
+Lokomotiv Mezdra, 1285
+Degerfors IF, 1285
+Ranheim, 1285
+Kortrijk, 1284
+Vasas Budapest, 1284
+Sumqayıt, 1284
+Pirin Blagoevgrad, 1284
+Nacional, 1284
+Skenderbeu, 1284
+Veria FC, 1284
+VVV-Venlo, 1284
+FF Jaro, 1284
+FC Buzău, 1284
+Primorje, 1284
+Skalica, 1283
+Hapoel Rishon LeZion, 1283
+Åtvidaberg, 1283
+Polonia Bytom, 1283
+A.E. Kifisia F.C., 1282
+Turku PS, 1282
+Rabotnički, 1282
+Barry Town United FC, 1282
+FK Liepājas Metalurgs, 1282
+Dundee United, 1282
+FC Lahti, 1282
+FK Sileks, 1282
+FK Auda, 1282
+SC Austria Lustenau, 1281
+Volyn, 1280
+Örgryte, 1280
+Falkirk, 1280
+Enosis Paralimni, 1280
+Aluminij, 1279
+WSG Tirol, 1279
+FC Dunărea Călăraşi, 1279
+Granit, 1279
+Ironi Ramat HaSharon, 1278
+FK Tambov, 1278
+Petrovac, 1278
+NK Tabor Sežana, 1278
+Metalist 1925 Kharkiv, 1278
+Čelik Nikšić, 1278
+Mezőkövesd-Zsóry, 1278
+FK Proleter Novi Sad, 1277
+RNK Split, 1277
+Costuleni, 1277
+Brommapojkarna, 1277
+FK Kolubara, 1277
+Târgu Mureş, 1277
+Carmarthen, 1277
+Akademija Pandev, 1276
+Bekescsaba, 1276
+Diyarbakirspor, 1276
+FC Yelimay, 1276
+FK Jedinstvo Ub, 1276
+Grbalj Radanovici, 1276
+Guadalupe FC, 1276
+Renova, 1276
+Sandecja Nowy Sącz, 1275
+Universitatea Craiova, 1275
+PAS Giannina, 1275
+Waasland-Beveren, 1275
+Partick Thistle, 1275
+Gyirmót SE, 1274
+FK Iskra, 1274
+Politehnica Iaşi, 1274
+Voinţa Sibiu, 1274
+FK Mladost Novi Sad, 1274
+Bełchatów, 1274
+IFK Mariehamn, 1273
+CSMS Iaşi, 1273
+ACS Poli Timişoara, 1272
+Lausanne Sport, 1272
+Drava, 1271
+Muğan, 1271
+FC Rapid Ghidighici, 1271
+Cambuur, 1271
+Mersin İdmanyurdu, 1271
+KPV, 1271
+Javor, 1271
+FC Luch Minsk, 1270
+Dalkurd FF, 1270
+RoPS Rovaniemi, 1270
+Lokomotiv Gorna Oryahovitsa, 1270
+Šibenik, 1270
+Oestersunds FK, 1270
+Radnik Bijeljina, 1270
+FC Volendam, 1270
+FC Pyunik, 1269
+Esbjerg fB, 1269
+Dunav Ruse, 1269
+FC Hebar 1918, 1269
+Odra Wodzisław, 1269
+SV Ried, 1268
+Granit Mikashevichi, 1268
+Vendsyssel FF, 1268
+Volga Nyzhnyi, 1268
+FC Maktaaral, 1268
+Gorica, 1268
+České Budějovice, 1268
+SKA-Khabarovsk, 1268
+F91 Dudelange, 1268
+FK Zemun, 1267
+SønderjyskE, 1267
+FK Jezero Plav, 1267
+Karmiotissa Pano Polemidion, 1267
+Košice, 1266
+Turan Tovuz, 1266
+Akritas Chlorakas, 1266
+Botev Vratsa, 1266
+Dubnica, 1266
+CD das Aves, 1266
+Athlone Town, 1266
+Aarau, 1266
+Termalica Nieciecza, 1265
+Podbeskidzie Bielsko-Biala, 1265
+Dunaújváros Pálhalma SE, 1265
+NK Zadar, 1265
+Wiener Neustadt, 1264
+Medimurje, 1264
+Levadiakos, 1264
+Zemplin Michalovce, 1264
+Lyngby, 1264
+Othellos Athienou FC, 1263
+FK Donji Srem, 1263
+Hapoel Nof HaGalil, 1263
+Dinamo-Auto, 1262
+Vejle Boldklub, 1262
+Nyíregyháza Spartacus, 1262
+AEL Kalloni FC, 1261
+FC Wacker Innsbruck, 1261
+Ústí nad Labem, 1261
+St. Johnstone, 1260
+FK Krupa, 1260
+Victoria Branesti, 1260
+BSK Borča, 1260
+Ermis Aradippou, 1260
+FC Tskhinvali, 1260
+Llandudno FC, 1259
+Siófok, 1259
+Tavriia, 1259
+GFK Tikvesh, 1259
+Unirea Alba Iulia, 1259
+Akzhaiyk Uralsk, 1259
+Příbram, 1259
+Petržalka, 1259
+Tammeka, 1259
+FK Metalac, 1258
+C.D. Cacahuatique, 1258
+FK Arsenal Tivat, 1258
+Hobro, 1258
+FK Septemvri Sofia, 1258
+Čelik Zenica, 1257
+FK Horizont Turnovo, 1257
+Neftochimic Burgas 1962, 1257
+FC Stade Lausanne-Ouchy, 1257
+Siquinalá FC, 1256
+Admira Wacker Mödling, 1256
+Sepidrood Rasht SC, 1256
+Helsingborgs IF, 1256
+Kongsvinger, 1256
+Denizlispor, 1256
+Okzhetpes Kokshetau, 1256
+Tallinna JK Legion, 1255
+Sandnes, 1255
+Makedonija Gjorče Petrov, 1255
+Mladi Radnik, 1255
+FK Sloga Doboj, 1254
+Varbergs BoIS, 1254
+Dacia Buiucani, 1254
+Víkingur Reykjavik, 1254
+FC Noah, 1254
+FK Otrant-Olympic, 1254
+Ankaran Hrvatini, 1254
+Ceahlăul Piatra, 1254
+Mogren, 1254
+Doxa Dramas, 1254
+FK Bokelj, 1254
+Flint Town United, 1254
+Dinamo Vranje, 1253
+Sportul Studentesc, 1253
+Gornik Leczna, 1253
+Panthrakikos Komotini, 1253
+Partizani Tirana, 1253
+APOP / Kinyras, 1253
+Tom' Tomsk, 1252
+Sloboda Tuzla, 1252
+Rad Beograd, 1252
+Zagłębie Sosnowiec, 1252
+Tsholotsho, 1252
+Hapoel Kfar Saba, 1252
+Ħamrun Spartans, 1251
+Limerick, 1251
+Breiðablik, 1251
+SKN Sankt Pölten, 1251
+Lincoln Red Imps FC, 1251
+Kokand 1912, 1251
+FK Turan Turkistan, 1251
+Marek Dupnitsa, 1251
+Social Sol, 1251
+Budafoki MTE, 1250
+Rudar Velenje, 1250
+Yeni Malatyaspor, 1250
+FK Šilas, 1250
+Doxa Katokopia, 1250
+Ekenäs Idrottsförening, 1249
+Sunkar, 1249
+KF Tirana, 1249
+Gaz Metan Mediaş, 1249
+Ararat-Armenia FC, 1249
+İstanbulspor, 1249
+FC Alashkert, 1249
+Eupen, 1249
+Miedź Legnica, 1248
+Sliven, 1248
+Metalleghe BSI, 1248
+FK Kom Podgorica, 1248
+Zestafoni, 1248
+Tamme Auto, 1248
+KF Besa Dobërdoll, 1248
+Nafta, 1248
+CS Fola Esch, 1247
+Warrior, 1247
+Obolon' Kyiv, 1247
+Surkhon-2011, 1247
+Platanias, 1247
+Krumkachy Minsk, 1247
+Stjarnan, 1247
+FK Jerv, 1246
+APEP, 1246
+Akademik Sofia, 1246
+FC Pasching, 1246
+Flame Lilly, 1245
+Differdange 03, 1245
+Hvidovre IF, 1245
+AD Grecia FC, 1245
+Pontypridd Town, 1245
+NK Igman Konjic, 1244
+Mornar, 1244
+Mjøndalen IF, 1244
+FC Kuressaare, 1244
+FK Aksu, 1244
+Kukesi, 1243
+Szolnoki MÁV, 1243
+Vostok, 1243
+FK Kaspiy Aktau, 1243
+FK Mladost Doboj Kakanj, 1242
+Ross County, 1242
+FK Gorno Lisice, 1242
+Concordia Chiajna, 1242
+CD Audaz, 1242
+Interblock, 1242
+Haskovo 2009, 1242
+NK Zagreb, 1241
+Kazakhmys, 1241
+FH Hafnarfjordur, 1241
+Aberystwyth, 1241
+FK Radnik Surdulica, 1241
+Partizan Minsk, 1241
+FC Spicul Chișcăreni, 1241
+Sportist Svoge, 1241
+FC Telavi, 1241
+Standard Sumgayit, 1241
+Etar, 1240
+Araz PFK, 1240
+PAEEK Kyrenia, 1240
+Dunfermline Athletic, 1240
+Glenavon, 1240
+NK Krsko, 1240
+FK Atlantas, 1240
+Wexford Youths, 1240
+Zhenis, 1239
+FK Zlatibor Čajetina, 1238
+Cibalia, 1237
+AFC Eskilstuna, 1237
+Lyn, 1237
+Bellinzona, 1237
+Sektzia Ness Ziona FC, 1237
+Bray Wanderers, 1237
+Briton Ferry Llansawel, 1236
+Prestatyn Town FC, 1236
+AC Horsens, 1235
+Dongo, 1235
+Hamilton Academical, 1235
+Hapoel Petah Tikva FC, 1235
+Speranţa Crihana, 1234
+HIFK, 1234
+Jyvaskyla JK, 1234
+FC Helsingør, 1234
+ND Triglav, 1233
+Olimpik Sarajevo, 1233
+Hapoel Ramat Gan, 1233
+Gloria Bistrita, 1233
+Kapfenberger SV, 1233
+Səbail FK, 1233
+FK TransINVEST, 1232
+Hapoel Ra'anana, 1232
+Hapoel Ironi Akko, 1232
+Lovćen, 1232
+Maccabi Ahi Nazareth, 1231
+Trelleborgs FF, 1231
+FC Smorgon, 1231
+PK-35 Vantaa, 1231
+FK Senica, 1230
+Start, 1230
+FK Borec Veles, 1230
+Syrianska, 1229
+Grobiņas Sporta Centrs, 1229
+Hrvatski Dragovoljac, 1228
+Slavija Sarajevo, 1228
+R.F.C. Seraing, 1227
+OFK Mladost Donja Gorica, 1227
+FC Nõmme United, 1227
+Pirin Gotse Delchev, 1227
+Colwyn Bay F.C., 1227
+Nitra, 1227
+FK Podgorica, 1227
+GIF Sundsvall, 1226
+Harju Jalgpallikool, 1226
+FK Pohronie, 1226
+FC Kapaz, 1226
+FC Academia Chisinau, 1225
+Apollon Smyrnis, 1225
+Finn Harps, 1225
+Porthmadog, 1225
+Hoverla Uzhhorod, 1225
+Kruoja Pakruojis, 1225
+Rudar Pljevlja, 1224
+Mladost Velika, 1224
+FC Gagra, 1224
+PS Kemi, 1224
+Revan Baku, 1224
+Johvi FC Lokomotiv, 1223
+SK Babīte, 1223
+Livingston FC, 1223
+Montana, 1223
+FK Bregalnica Stip, 1222
+FK Zvijezda 09, 1222
+FB Gulbene, 1222
+Belshina Bobruisk, 1221
+FK Inđija, 1221
+AE Kouklion, 1221
+Vidima-Rakovski, 1221
+MFK Tatran Liptovský Mikuláš, 1221
+Germinal Beerschot, 1221
+Karabükspor, 1221
+Smederevo, 1220
+Opava, 1220
+FC Merani Tbilisi, 1220
+Karvan, 1219
+Eger, 1219
+KF Gostivari, 1219
+Borac Čačak, 1218
+Welshpool Town, 1218
+NK Zvijezda Gradacac, 1218
+FK Spartaks, 1217
+Hapoel Ashkelon, 1217
+FC Dnyapro Mogilev, 1217
+Talinna Kalev, 1217
+Corona Braşov, 1217
+Naftan Novopolotsk, 1216
+Anagennisi Deryneia, 1216
+Tulevik Viljandi, 1216
+Kaliakra, 1215
+Travnik, 1214
+Kozara Gradiška, 1214
+CF Ungheni, 1213
+Lootus, 1213
+FK Utenis Utena, 1213
+FC Stumbras, 1212
+Rudar Prijedor, 1212
+MOIK, 1212
+Gagauziya, 1212
+GOŠK Gabela, 1211
+Austria Kärnten, 1211
+FC Saxan, 1209
+Croatia Sesvete, 1209
+Jedinstvo BP, 1209
+Juventus Bucureşti, 1209
+Svetkavitsa, 1208
+FC Sioni Bolnisi, 1207
+Falkenbergs FF, 1206
+Aalesund, 1206
+FK Skopje, 1206
+Airbus UK Broughton FC, 1205
+WhaWha, 1205
+FC Lviv, 1204
+Sapovnela, 1204
+Fk Metalurg Skopje, 1203
+FC Rustavi, 1203
+Lokomotivi Tbilisi, 1203
+Lyubimets, 1203
+FK Turon Yaypan, 1202
+Pápa, 1202
+ACS FC Academica Clinceni, 1200
+Smolevichy, 1200
+FK Drina Zvornik, 1200
+Maardu Linnameeskond, 1199
+Banga Gargzdai, 1198
+FK Palanga, 1198
+Zaprešić, 1197
+Dinamo Bender, 1197
+FK Leotar, 1196
+FC Samtredia, 1196
+Gradina Srebrenik, 1196
+FC KTP, 1195
+Caersws, 1195
+Džiugas Telšiai, 1195
+Alki, 1194
+Ballymena United, 1194
+Pelister, 1193
+Vitez, 1193
+FK Belasica Strumica, 1193
+Kaposvári Rákóczi, 1193
+FC Guria Lanchkhuti, 1192
+Noah Jūrmala, 1190
+CS Mioveni, 1190
+Napredok, 1190
+Łódzki KS, 1190
+Rakvere JK Tarvas, 1190
+HB Køge, 1189
+Klaipedos Granitas, 1189
+FK Teteks, 1189
+Ballinamallard United, 1187
+Afan Lido, 1185
+Zlate Moravce, 1184
+Pärnu JK Vaprus, 1184
+Tatran Prešov, 1183
+Ilukstes NSS, 1183
+Mladost CD, 1183
+Nistru, 1181
+FK Sputnik Rechytsa, 1180
+WIT Georgia Tbilisi, 1180
+Vitosha Bistritsa, 1179
+Paernu Linnameeskond, 1177
+Ayia Napa, 1175
+FK Tauras Taurage, 1174
+Berane, 1174
+Institute FC, 1174
+Ards, 1174
+FC Kolkheti-1913 Poti, 1174
+Ajax Lasnamäe, 1173
+Merani Martvili, 1172
+Nevėžis Kėdainiai, 1171
+Cefn Druids AFC, 1170
+Vereya, 1169
+FK Jelgava, 1168
+FK Tukums 2000, 1166
+Niki Volou, 1166
+Mačva Šabac, 1166
+Dainava Alytus, 1165
+FC Zugdidi, 1164
+Carrick Rangers, 1161
+Longford Town, 1161
+AEZ Zakakiou, 1161
+FC Floreşti, 1161
+Dnepr Mogilev, 1160
+Siauliai, 1159
+FK Bačka Palanka, 1158
+BFC Daugavpils, 1158
+Dungannon Swifts, 1157
+FC Torpedo Minsk, 1156
+NK Rudeš, 1156
+FC Jurmala, 1149
+Portadown FC, 1148
+FC Shukura Kobuleti, 1138
+FC Codru Lozova, 1138
+Pobeda, 1138
+Lietava Jonava, 1136
+Metalurh Zaporizhya, 1130
+University College Dublin, 1120
+SK Super Nova, 1119
+Warrenpoint Town, 1116
+Newry City AFC, 1109
+FK Metta, 1094
