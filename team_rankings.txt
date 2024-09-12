@@ -2,7 +2,7 @@ Manchester City, 2127
 Real Madrid, 2053
 Inter Milan, 1986
 Arsenal, 1969
-Liverpool FC, 1938
+Liverpool, 1938
 Bayer Leverkusen, 1921
 Barcelona, 1918
 Paris Saint-Germain, 1886
@@ -18,8 +18,8 @@ Girona, 1822
 VfB Stuttgart, 1804
 Juventus, 1803
 Feyenoord, 1802
-Chelsea FC, 1796
-Newcastle United, 1778
+Chelsea, 1796
+Newcastle, 1778
 Benfica, 1776
 Villarreal, 1765
 Monaco, 1760
@@ -28,7 +28,7 @@ Aston Villa, 1756
 Slavia Prague, 1751
 Sparta Prague, 1750
 Fenerbahçe, 1748
-Tottenham Hotspur, 1743
+Tottenham, 1743
 Lazio, 1743
 Galatasaray, 1738
 Roma, 1737
@@ -41,7 +41,7 @@ Lille, 1717
 Olympiakos, 1716
 Marseille, 1713
 Celtic, 1713
-Brighton & Hove Albion, 1710
+Brighton, 1710
 The New Saints, 1705
 Red Bull Salzburg, 1705
 Crystal Palace, 1701
@@ -57,21 +57,21 @@ Lens, 1689
 Eintracht Frankfurt, 1687
 Zenit St. Petersburg, 1685
 PAOK FC, 1684
-West Ham United, 1671
+West Ham, 1671
 Mainz 05, 1671
 Braga, 1670
 Fulham, 1669
 Rangers, 1668
-AFC Bournemouth, 1667
+Bournemouth, 1667
 FCI Levadia Tallinn, 1666
 Club Brugge, 1664
 AZ Alkmaar, 1663
 Dynamo Kyiv, 1662
 Maccabi Tel Aviv, 1662
 AEK, 1659
-Brentford FC, 1659
+Brentford, 1659
 FC Twente, 1658
-1. FC Heidenheim, 1650
+FC Heidenheim, 1650
 Nice, 1648
 Union St.Gilloise, 1648
 Lyon, 1648
@@ -89,7 +89,7 @@ Celta Vigo, 1624
 Mallorca, 1619
 RSC Anderlecht, 1619
 Osasuna, 1617
-Bodø / Glimt, 1614
+Bodo Glimt, 1614
 Qarabağ, 1612
 Levante, 1612
 Partizan Beograd, 1611
@@ -98,8 +98,8 @@ Maccabi Haifa FC, 1607
 Leganes, 1604
 Borussia Mönchengladbach, 1603
 Hellas Verona, 1603
-Empoli FC, 1602
-Everton FC, 1601
+Empoli, 1602
+Everton, 1601
 Dinamo Minsk, 1600
 Panathinaikos, 1600
 Nottingham Forest, 1599
@@ -114,9 +114,9 @@ Sturm Graz, 1587
 Wolfsburg, 1586
 Gent, 1583
 AC Monza, 1583
-Wolverhampton Wanderers, 1579
+Wolves, 1579
 Leicester City, 1579
-1. FC Union Berlin, 1573
+FC Union Berlin, 1573
 Litex Lovech, 1573
 CSKA Moskva, 1572
 PFC CSKA Sofia, 1569
@@ -168,7 +168,7 @@ PFC Sochi, 1530
 Carpi, 1528
 Rijeka, 1528
 Cádiz CF, 1527
-1. FC Köln, 1527
+FC Köln, 1527
 Shamrock Rovers, 1526
 Stoke City, 1526
 Aris Limassol, 1525
@@ -205,7 +205,7 @@ Burnley, 1499
 Birmingham City, 1498
 Las Palmas, 1497
 Kairat Almaty, 1496
-Ipswich Town F.C., 1496
+Ipswich, 1496
 Frosinone, 1496
 Nantes, 1494
 Como 1907, 1494
@@ -224,7 +224,7 @@ Zorya Luhansk, 1486
 Deportivo La Coruña, 1486
 Paide Linnameeskond, 1485
 Topolski Sportski Club, 1484
-Brøndby, 1483
+Brondby, 1483
 Čukarički, 1483
 Servette, 1482
 US Cremonese, 1482
