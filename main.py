@@ -73,16 +73,25 @@ class EloRatingSystem:
 # Initialize the EloRatingSystem
 elo_system = EloRatingSystem()
 
-# List of match results (team_a, team_b, result)
-match_results = [
-    ("Southampton", "Man United", "win_b"),
-]
+# # List of match results (team_a, team_b, result)
+# match_results = [
+#     ("Fulham", "Arsenal", "win_b"),
+# ]
 
-# Update Elo ratings for each match
-for team_a, team_b, result in match_results:
-    elo_system.update_ratings(team_a, team_b, result)
+# # Update Elo ratings for each match
+# for team_a, team_b, result in match_results:
+#     elo_system.update_ratings(team_a, team_b, result)
 
-# Check updated ratings after processing all match results
-print("Updated Premier League Elo Ratings:")
-for team, rating in elo_system.ratings.items():
-    print(f"{team}: {rating}")
+# # Check updated ratings after processing all match results
+# print("Updated Premier League Elo Ratings:")
+# for team, rating in elo_system.ratings.items():
+#     print(f"{team}: {rating}")
+
+# Predict the outcome of a match 
+match_prediction = elo_system.predict_match("Man City", "Liverpool")
+
+# Print the predicted probabilities for each outcome
+print(f"Predicted outcome probabilities :")
+print(f"Home team win: {match_prediction['win_a']:.2%}")
+print(f"Draw: {match_prediction['draw']:.2%}")
+print(f"Away team win: {match_prediction['win_b']:.2%}")
