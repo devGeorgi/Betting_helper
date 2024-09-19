@@ -1,85 +1,88 @@
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score, classification_report
+class EloRatingSystem:
+    def __init__(self, k_factor=30, file_path="teams.txt"):
+        self.k_factor = k_factor
+        self.ratings = {}
+        self.file_path = file_path
+        self.load_ratings()
 
-# Step 1: Read team rankings from the text file
-def load_team_rankings(file_path):
-    team_scores = {}
-    with open(file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-            team, score = line.strip().split(', ')
-            team_scores[team] = int(score)  # Store team name and its score as integer
-    return team_scores
+    def load_ratings(self):
+        """Load team ratings from a text file"""
+        try:
+            with open(self.file_path, 'r') as file:
+                for line in file:
+                    # Split team name and rating correctly
+                    team, rating = line.rsplit(' ', 1)
+                    self.ratings[team] = float(rating)
+        except FileNotFoundError:
+            print(f"File {self.file_path} not found. Please create it with team ratings.")
 
-# Step 2: Calculate the score difference between two teams
-def calculate_score_diff(team1, team2, team_scores):
-    score1 = team_scores.get(team1, 0)  # If team not found, assume score 0
-    score2 = team_scores.get(team2, 0)
-    return score1 - score2  # Return score difference
+    def save_ratings(self):
+        """Save team ratings to a text file"""
+        with open(self.file_path, 'w') as file:
+            for team, rating in self.ratings.items():
+                file.write(f"{team} {int(rating)}\n")
 
-# Step 3: Prepare data for training
-def prepare_training_data(matches, team_scores):
-    X = []  # Features (score differences)
-    y = []  # Target (match outcome: w1, d, w2)
+    def get_rating(self, team):
+        """Get rating for a team, initialize to 1500 if not present"""
+        if team not in self.ratings:
+            self.ratings[team] = 1500  # Default rating for new teams
+        return self.ratings[team]
 
-    for match in matches:
-        team1, team2 = match['team1'], match['team2']
-        score_diff = calculate_score_diff(team1, team2, team_scores)
+    def expected_score(self, team_a, team_b):
+        """Calculate expected score for two teams based on their ratings"""
+        rating_a = self.get_rating(team_a)
+        rating_b = self.get_rating(team_b)
+        expected_a = 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
+        expected_b = 1 - expected_a
+        return expected_a, expected_b
 
-        X.append([score_diff])  # The feature is score difference
-        y.append(match['result'])  # The target is the result (w1, d, w2)
+    def update_ratings(self, team_a, team_b, result):
+        """Update Elo ratings for two teams based on the match result"""
+        expected_a, expected_b = self.expected_score(team_a, team_b)
+        
+        if result == "win_a":
+            score_a, score_b = 1, 0
+        elif result == "win_b":
+            score_a, score_b = 0, 1
+        elif result == "draw":
+            score_a, score_b = 0.5, 0.5
+        
+        rating_a = self.get_rating(team_a)
+        rating_b = self.get_rating(team_b)
+        
+        # Update ratings
+        new_rating_a = rating_a + self.k_factor * (score_a - expected_a)
+        new_rating_b = rating_b + self.k_factor * (score_b - expected_b)
+        
+        self.ratings[team_a] = new_rating_a
+        self.ratings[team_b] = new_rating_b
+        
+        # Save updated ratings to file
+        self.save_ratings()
 
-    # Convert to DataFrame for convenience
-    X = pd.DataFrame(X, columns=['score_diff'])
-    return X, y
+    def predict_match(self, team_a, team_b):
+        """Predict probabilities for match outcome"""
+        expected_a, expected_b = self.expected_score(team_a, team_b)
+        
+        draw_prob = 0.1  # Adjust based on real-world data if needed
+        win_a_prob = expected_a * (1 - draw_prob)
+        win_b_prob = expected_b * (1 - draw_prob)
+        
+        return {"win_a": win_a_prob, "draw": draw_prob, "win_b": win_b_prob}
 
-# Step 4: Train the classification model
-def train_model(X, y):
-    # Split data into training and test sets
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Initialize the EloRatingSystem
+elo_system = EloRatingSystem()
 
-    # Use a Random Forest Classifier for classification
-    model = RandomForestClassifier()
+# List of match results (team_a, team_b, result)
+match_results = [
+    ("Southampton", "Man United", "win_b"),
+]
 
-    # Fit the model
-    model.fit(X_train, y_train)
+# Update Elo ratings for each match
+for team_a, team_b, result in match_results:
+    elo_system.update_ratings(team_a, team_b, result)
 
-    # Make predictions on the test set
-    y_pred = model.predict(X_test)
-
-    # Evaluate the model
-    accuracy = accuracy_score(y_test, y_pred)
-    print(f"Model accuracy: {accuracy * 100:.2f}%")
-    print("\nClassification Report:\n", classification_report(y_test, y_pred))
-
-    return model
-
-# Main function to run the process
-def main():
-    # Load team rankings from file
-    team_scores = load_team_rankings('team_rankings.txt')
-
-    # Example matches with teams and results (w1 = team1 wins, d = draw, w2 = team2 wins)
-    matches = [
-        {'team1': 'Manchester United', 'team2': 'Fulham', 'result': 'w1'},
-        {'team1': 'Ipswich', 'team2': 'Liverpool', 'result': 'w2'},
-        {'team1': 'Arsenal', 'team2': 'Wolves', 'result': 'w1'},
-        {'team1': 'Everton', 'team2': 'Brighton', 'result': 'w2'},
-        {'team1': 'Newcastle', 'team2': 'Southampton', 'result': 'w1'},
-        {'team1': 'Nottingham Forest', 'team2': 'Bournemouth', 'result': 'd'},
-        {'team1': 'West Ham', 'team2': 'Aston Villa', 'result': 'w2'},
-        {'team1': 'Brentford', 'team2': 'Crystal Palace', 'result': 'w1'},
-        {'team1': 'Chelsea', 'team2': 'Manchester City', 'result': 'w2'},
-        {'team1': 'Leicester City', 'team2': 'Tottenham', 'result': 'd'},
-    ]
-
-    # Prepare data for training
-    X, y = prepare_training_data(matches, team_scores)
-
-    # Train the model
-    model = train_model(X, y)
-
-# Run the main function
-if __name__ == '__main__':
-    main()
+# Check updated ratings after processing all match results
+print("Updated Premier League Elo Ratings:")
+for team, rating in elo_system.ratings.items():
+    print(f"{team}: {rating}")
