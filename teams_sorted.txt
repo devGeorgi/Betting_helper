@@ -1,0 +1,49 @@
+Man City 1772
+Barcelona 1682
+Arsenal 1679
+Liverpool 1675
+Ath Madrid 1665
+Real Madrid 1656
+Man United 1644
+Newcastle 1635
+Sociedad 1620
+Aston Villa 1595
+Brentford 1588
+Villarreal 1582
+Brighton 1572
+Tottenham 1558
+Betis 1545
+Girona 1520
+Sevilla 1501
+Osasuna 1499
+Crystal Palace 1498
+Mallorca 1492
+Ath Bilbao 1491
+Alaves 1491
+Chelsea 1488
+Fulham 1475
+West Ham 1474
+Ipswich Town 1471
+Nottingham Forest 1470
+Wolves 1469
+Getafe 1458
+Vallecano 1456
+Everton 1455
+Cadiz 1455
+Valencia 1453
+Celta 1448
+Espanol 1442
+Valladolid 1442
+Bournemouth 1441
+Leicester City 1440
+Almeria 1430
+Burnley 1429
+Las Palmas 1412
+Elche 1403
+Leeds United 1392
+West Brom 1377
+Sheffield Utd 1358
+Southampton 1351
+Norwich City 1343
+Watford 1336
+Granada 1335

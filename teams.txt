@@ -24,3 +24,26 @@ Sheffield Utd 1358
 Burnley 1429
 Watford 1336
 Norwich City 1343
+Almeria 1430
+Vallecano 1456
+Sevilla 1501
+Valencia 1453
+Sociedad 1620
+Girona 1520
+Las Palmas 1412
+Mallorca 1492
+Ath Bilbao 1491
+Real Madrid 1656
+Celta 1448
+Osasuna 1499
+Villarreal 1582
+Betis 1545
+Getafe 1458
+Barcelona 1682
+Cadiz 1455
+Alaves 1491
+Ath Madrid 1665
+Granada 1335
+Espanol 1442
+Valladolid 1442
+Elche 1403
