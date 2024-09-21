@@ -33,8 +33,8 @@ class DomesticEloRatingSystem:
 
     def expected_score(self, team_a, team_b):
         """Calculate expected score for two teams based on their ratings"""
-        rating_a = self.get_rating(team_a)[0]  # Get only the rating (ignoring matches played)
-        rating_b = self.get_rating(team_b)[0]
+        rating_a = self.get_rating(team_a)[0] # Get only the rating (ignoring matches played)
+        rating_b = self.get_rating(team_b)[0] # Get only the rating (ignoring matches played)
         expected_a = 1 / (1 + 10 ** ((rating_b - rating_a) / 400))
         expected_b = 1 - expected_a
         return expected_a, expected_b
@@ -111,14 +111,14 @@ elo_system = DomesticEloRatingSystem()
 # for team, (rating, matches) in elo_system.ratings.items():
 #     print(f"{team}: {rating} after {matches} matches")
 
-# Predict the outcome of a match 
-match_prediction = elo_system.predict_match("Betis", "Getafe")
+# # Predict the outcome of a match 
+# match_prediction = elo_system.predict_match("Crystal Palace", "Man United")
 
-# Only print predictions if both teams exist (i.e., match_prediction is not None)
-if match_prediction:
-    print(f"Predicted outcome probabilities:")
-    print(f"Home team win: {match_prediction['win_a']:.2%}")
-    print(f"Draw: {match_prediction['draw']:.2%}")
-    print(f"Away team win: {match_prediction['win_b']:.2%}")
-else:
-    print("Match prediction could not be performed due to missing team(s).")
+# # Only print predictions if both teams exist (i.e., match_prediction is not None)
+# if match_prediction:
+#     print(f"Predicted outcome probabilities:")
+#     print(f"Home team win: {match_prediction['win_a']:.2%}")
+#     print(f"Draw: {match_prediction['draw']:.2%}")
+#     print(f"Away team win: {match_prediction['win_b']:.2%}")
+# else:
+#     print("Match prediction could not be performed due to missing team(s).")
