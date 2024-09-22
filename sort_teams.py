@@ -16,8 +16,8 @@ def sort_teams_by_rating(input_file_path, output_file_path):
             file.write(f"{team} {int(rating)} {matches_played}\n")
 
 # Specify the file paths
-input_file_path = 'domestic_teams.txt'  # Input file (original file with team data)
-output_file_path = 'domestic_teams_sorted.txt'  # Output file (sorted version)
+input_file_path = 'teams.txt'  # Input file (original file with team data)
+output_file_path = 'teams_sorted.txt'  # Output file (sorted version)
 
 # Call the function to sort by rating and update the output file
 sort_teams_by_rating(input_file_path, output_file_path)
