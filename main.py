@@ -97,26 +97,26 @@ class EloRatingSystem:
 # Initialize the EloRatingSystem
 elo_system = EloRatingSystem()
 
-# # Example match results (team_a, team_b, result)
-# match_results = [
-#     ("Almeria", "Vallecano", "win_b"),
-# ]
+# Example match results (team_a, team_b, result)
+match_results = [
+    ("Brighton", "Man City", "win_a"),
+]
 
-# # Update Elo ratings for each match
-# for team_a, team_b, result in match_results:
-#     elo_system.update_ratings(team_a, team_b, result)
+# Update Elo ratings for each match
+for team_a, team_b, result in match_results:
+    elo_system.update_ratings(team_a, team_b, result)
 
-# # Check updated ratings after processing match results
-# print("Updated Elo Ratings:")
+# Check updated ratings after processing match results
+print("Updated Elo Ratings:")
 # for team, (rating, matches) in elo_system.ratings.items():
 #     print(f"{team}: {rating} after {matches} matches")
 
-# Predict the outcome of a match
-match_prediction = elo_system.predict_match("Crystal Palace", "Man United")
+# # Predict the outcome of a match
+# match_prediction = elo_system.predict_match("Crystal Palace", "Man United")
 
-# Only print predictions if both teams exist (i.e., match_prediction is not None)
-if match_prediction:
-    print("Predicted outcome probabilities:")
-    print(f"Home team win: {match_prediction['win_a']:.2%}")
-    print(f"Draw: {match_prediction['draw']:.2%}")
-    print(f"Away team win: {match_prediction['win_b']:.2%}")
+# # Only print predictions if both teams exist (i.e., match_prediction is not None)
+# if match_prediction:
+#     print("Predicted outcome probabilities:")
+#     print(f"Home team win: {match_prediction['win_a']:.2%}")
+#     print(f"Draw: {match_prediction['draw']:.2%}")
+#     print(f"Away team win: {match_prediction['win_b']:.2%}")

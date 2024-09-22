@@ -1,2 +1,2 @@
-Man City -12.74
-Watford 12.74
+Barcelona -13.48 7.05
+Granada 13.48 -7.05

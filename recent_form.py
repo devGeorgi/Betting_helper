@@ -16,15 +16,17 @@ class FormRatingSystem:
                 for line in file:
                     line = line.strip()
                     if line:
-                        team, *form_history = line.split()
+                        # Split the team name and recent form history correctly
+                        team, *form_history = line.rsplit(' ', 1)
                         self.recent_form_history[team] = [float(f) for f in form_history]
         except FileNotFoundError:
             print(f"File {self.form_file} not found. Starting with empty form data.")
 
     def save_form(self):
-        """Save updated recent form history to a text file."""
+        """Save updated recent form history to a text file, ensuring no duplicate entries."""
         with open(self.form_file, 'w') as file:
             for team, form_history in self.recent_form_history.items():
+                # Convert the form history back to a space-separated string
                 form_str = ' '.join([f"{f:.2f}" for f in form_history])
                 file.write(f"{team} {form_str}\n")
 
@@ -140,7 +142,7 @@ if __name__ == "__main__":
 
     # Example match results
     match_results = [
-        ("Man City", "Watford", "win_a"),
+        ("Barcelona", "Granada", "win_a"),
     ]
 
     # Update form and Elo for each match
