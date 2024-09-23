@@ -51,6 +51,10 @@ class EloRatingSystem:
             score_a, score_b = 0, 1
         elif result == "draw":
             score_a, score_b = 0.5, 0.5
+        else:
+            # Handle invalid result by logging and skipping this update
+            print(f"Invalid result '{result}' for match between {team_a} and {team_b}. Skipping.")
+            return
         
         # Get current ratings and match counts for both teams
         rating_a, matches_a = self.get_rating(team_a)
@@ -99,7 +103,7 @@ elo_system = EloRatingSystem()
 
 # Example match results (team_a, team_b, result)
 match_results = [
-    ("Brighton", "Man City", "win_a"),
+    ("Brighton", "Man City", "win_"),
 ]
 
 # Update Elo ratings for each match

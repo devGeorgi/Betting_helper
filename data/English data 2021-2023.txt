@@ -1,1140 +1,1140 @@
-("Fulham", "Arsenal", "win_b"),
-("Crystal Palace", "Southampton", "win_a"),
-("Liverpool", "Leeds United", "win_a"),
-("West Ham", "Newcastle", "win_b"),
-("West Brom", "Leicester City", "win_b"),
-("Tottenham", "Everton", "win_b"),
-("Sheffield Utd", "Wolves", "win_b"),
-("Brighton", "Chelsea", "win_b"),
-("Everton", "West Brom", "win_a"),
-("Leeds United", "Fulham", "win_a"),
-("Man United", "Crystal Palace", "win_b"),
-("Arsenal", "West Ham", "win_a"),
-("Southampton", "Tottenham", "win_b"),
-("Newcastle", "Brighton", "win_b"),
-("Chelsea", "Liverpool", "win_b"),
-("Leicester City", "Burnley", "win_a"),
-("Aston Villa", "Sheffield Utd", "win_a"),
-("Wolves", "Man City", "win_b"),
-("Brighton", "Man United", "win_b"),
-("Crystal Palace", "Everton", "win_b"),
-("West Brom", "Chelsea", "draw"),
-("Burnley", "Southampton", "win_b"),
-("Sheffield Utd", "Leeds United", "win_b"),
-("Tottenham", "Newcastle", "draw"),
-("Man City", "Leicester City", "win_b"),
-("West Ham", "Wolves", "win_a"),
-("Fulham", "Aston Villa", "win_b"),
-("Liverpool", "Arsenal", "win_a"),
-("Chelsea", "Crystal Palace", "win_a"),
-("Everton", "Brighton", "win_a"),
-("Leeds United", "Man City", "draw"),
-("Newcastle", "Burnley", "win_a"),
-("Leicester City", "West Ham", "win_b"),
-("Southampton", "West Brom", "win_a"),
-("Arsenal", "Sheffield Utd", "win_a"),
-("Wolves", "Fulham", "win_a"),
-("Man United", "Tottenham", "win_b"),
-("Aston Villa", "Liverpool", "win_a"),
-("Everton", "Liverpool", "draw"),
-("Chelsea", "Southampton", "draw"),
-("Man City", "Arsenal", "win_a"),
-("Newcastle", "Man United", "win_b"),
-("Sheffield Utd", "Fulham", "draw"),
-("Crystal Palace", "Brighton", "draw"),
-("Tottenham", "West Ham", "draw"),
-("Leicester City", "Aston Villa", "win_b"),
-("West Brom", "Burnley", "draw"),
-("Leeds United", "Wolves", "win_b"),
-("Aston Villa", "Leeds United", "win_b"),
-("West Ham", "Man City", "draw"),
-("Fulham", "Crystal Palace", "win_b"),
-("Man United", "Chelsea", "draw"),
-("Liverpool", "Sheffield Utd", "win_a"),
-("Southampton", "Everton", "win_a"),
-("Wolves", "Newcastle", "draw"),
-("Arsenal", "Leicester City", "win_b"),
-("Brighton", "West Brom", "draw"),
-("Burnley", "Tottenham", "win_b"),
-("Wolves", "Crystal Palace", "win_a"),
-("Sheffield Utd", "Man City", "win_b"),
-("Burnley", "Chelsea", "win_b"),
-("Liverpool", "West Ham", "win_a"),
-("Aston Villa", "Southampton", "win_b"),
-("Newcastle", "Everton", "win_a"),
-("Man United", "Arsenal", "win_b"),
-("Tottenham", "Brighton", "win_a"),
-("Fulham", "West Brom", "win_a"),
-("Leeds United", "Leicester City", "win_b"),
-("Brighton", "Burnley", "draw"),
-("Southampton", "Newcastle", "win_a"),
-("Everton", "Man United", "win_b"),
-("Crystal Palace", "Leeds United", "win_a"),
-("Chelsea", "Sheffield Utd", "win_a"),
-("West Ham", "Fulham", "win_a"),
-("West Brom", "Tottenham", "win_b"),
-("Leicester City", "Wolves", "win_a"),
-("Man City", "Liverpool", "draw"),
-("Arsenal", "Aston Villa", "win_b"),
-("Newcastle", "Chelsea", "win_b"),
-("Aston Villa", "Brighton", "win_b"),
-("Tottenham", "Man City", "win_a"),
-("Man United", "West Brom", "win_a"),
-("Fulham", "Everton", "win_b"),
-("Sheffield Utd", "West Ham", "win_b"),
-("Leeds United", "Arsenal", "draw"),
-("Liverpool", "Leicester City", "win_a"),
-("Burnley", "Crystal Palace", "win_a"),
-("Wolves", "Southampton", "draw"),
-("Crystal Palace", "Newcastle", "win_b"),
-("Brighton", "Liverpool", "draw"),
-("Man City", "Burnley", "win_a"),
-("Everton", "Leeds United", "win_b"),
-("West Brom", "Sheffield Utd", "win_a"),
-("Southampton", "Man United", "win_b"),
-("Chelsea", "Tottenham", "draw"),
-("Arsenal", "Wolves", "win_b"),
-("Leicester City", "Fulham", "win_b"),
-("West Ham", "Aston Villa", "win_a"),
-("Burnley", "Everton", "draw"),
-("Man City", "Fulham", "win_a"),
-("West Ham", "Man United", "win_b"),
-("Chelsea", "Leeds United", "win_a"),
-("West Brom", "Crystal Palace", "win_b"),
-("Sheffield Utd", "Leicester City", "win_b"),
-("Tottenham", "Arsenal", "win_a"),
-("Liverpool", "Wolves", "win_a"),
-("Brighton", "Southampton", "win_b"),
-("Leeds United", "West Ham", "win_b"),
-("Wolves", "Aston Villa", "win_b"),
-("Newcastle", "West Brom", "win_a"),
-("Man United", "Man City", "draw"),
-("Everton", "Chelsea", "win_a"),
-("Southampton", "Sheffield Utd", "win_a"),
-("Crystal Palace", "Tottenham", "draw"),
-("Fulham", "Liverpool", "draw"),
-("Leicester City", "Brighton", "win_a"),
-("Arsenal", "Burnley", "win_b"),
-("Wolves", "Chelsea", "win_a"),
-("Man City", "West Brom", "draw"),
-("Leeds United", "Newcastle", "win_a"),
-("Arsenal", "Southampton", "draw"),
-("Leicester City", "Everton", "win_b"),
-("Liverpool", "Tottenham", "win_a"),
-("West Ham", "Crystal Palace", "draw"),
-("Fulham", "Brighton", "draw"),
-("Aston Villa", "Burnley", "draw"),
-("Sheffield Utd", "Man United", "win_b"),
-("Crystal Palace", "Liverpool", "win_b"),
-("Southampton", "Man City", "win_b"),
-("Everton", "Arsenal", "win_a"),
-("Newcastle", "Fulham", "draw"),
-("Brighton", "Sheffield Utd", "draw"),
-("Tottenham", "Leicester City", "win_b"),
-("Man United", "Leeds United", "win_a"),
-("West Brom", "Aston Villa", "win_b"),
-("Burnley", "Wolves", "win_a"),
-("Chelsea", "West Ham", "win_a"),
-("Leicester City", "Man United", "draw"),
-("Fulham", "Southampton", "draw"),
-("Aston Villa", "Crystal Palace", "win_a"),
-("Arsenal", "Chelsea", "win_a"),
-("Sheffield Utd", "Everton", "win_b"),
-("Man City", "Newcastle", "win_a"),
-("Leeds United", "Burnley", "win_a"),
-("West Ham", "Brighton", "draw"),
-("Liverpool", "West Brom", "draw"),
-("Wolves", "Tottenham", "draw"),
-("Crystal Palace", "Leicester City", "draw"),
-("Chelsea", "Aston Villa", "draw"),
-("Burnley", "Sheffield Utd", "win_a"),
-("West Brom", "Leeds United", "win_b"),
-("Brighton", "Arsenal", "win_b"),
-("Southampton", "West Ham", "draw"),
-("Man United", "Wolves", "win_a"),
-("Newcastle", "Liverpool", "draw"),
-("Everton", "West Ham", "win_b"),
-("Man United", "Aston Villa", "win_a"),
-("Tottenham", "Leeds United", "win_a"),
-("Crystal Palace", "Sheffield Utd", "win_a"),
-("Brighton", "Wolves", "draw"),
-("West Brom", "Arsenal", "win_b"),
-("Newcastle", "Leicester City", "win_b"),
-("Chelsea", "Man City", "win_b"),
-("Southampton", "Liverpool", "win_a"),
-("Burnley", "Man United", "win_b"),
-("Sheffield Utd", "Newcastle", "win_a"),
-("Wolves", "Everton", "win_b"),
-("Tottenham", "Fulham", "draw"),
-("Man City", "Brighton", "win_a"),
-("Arsenal", "Crystal Palace", "draw"),
-("Wolves", "West Brom", "win_b"),
-("Leeds United", "Brighton", "win_b"),
-("West Ham", "Burnley", "win_a"),
-("Fulham", "Chelsea", "win_b"),
-("Leicester City", "Southampton", "win_a"),
-("Sheffield Utd", "Tottenham", "win_b"),
-("Liverpool", "Man United", "draw"),
-("Man City", "Crystal Palace", "win_a"),
-("Arsenal", "Newcastle", "win_a"),
-("West Ham", "West Brom", "win_a"),
-("Leicester City", "Chelsea", "win_a"),
-("Man City", "Aston Villa", "win_a"),
-("Fulham", "Man United", "win_b"),
-("Liverpool", "Burnley", "win_b"),
-("Aston Villa", "Newcastle", "win_a"),
-("Newcastle", "Leeds United", "win_b"),
-("Crystal Palace", "West Ham", "win_b"),
-("Southampton", "Arsenal", "win_b"),
-("West Brom", "Man City", "win_b"),
-("Burnley", "Aston Villa", "win_a"),
-("Chelsea", "Wolves", "draw"),
-("Brighton", "Fulham", "draw"),
-("Everton", "Leicester City", "draw"),
-("Man United", "Sheffield Utd", "win_b"),
-("Tottenham", "Liverpool", "win_b"),
-("Everton", "Newcastle", "win_b"),
-("West Brom", "Fulham", "draw"),
-("Man City", "Sheffield Utd", "win_a"),
-("Crystal Palace", "Wolves", "win_a"),
-("Arsenal", "Man United", "draw"),
-("Southampton", "Aston Villa", "win_b"),
-("Chelsea", "Burnley", "win_a"),
-("Leicester City", "Leeds United", "win_b"),
-("West Ham", "Liverpool", "win_b"),
-("Brighton", "Tottenham", "win_a"),
-("Wolves", "Arsenal", "win_a"),
-("Sheffield Utd", "West Brom", "win_a"),
-("Man United", "Southampton", "win_a"),
-("Newcastle", "Crystal Palace", "win_b"),
-("Burnley", "Man City", "win_b"),
-("Fulham", "Leicester City", "win_b"),
-("Leeds United", "Everton", "win_b"),
-("Liverpool", "Brighton", "win_b"),
-("Aston Villa", "West Ham", "win_b"),
-("Tottenham", "Chelsea", "win_b"),
-("Aston Villa", "Arsenal", "win_a"),
-("Newcastle", "Southampton", "win_a"),
-("Burnley", "Brighton", "draw"),
-("Fulham", "West Ham", "draw"),
-("Man United", "Everton", "draw"),
-("Tottenham", "West Brom", "win_a"),
-("Wolves", "Leicester City", "draw"),
-("Liverpool", "Man City", "win_b"),
-("Sheffield Utd", "Chelsea", "win_b"),
-("Leeds United", "Crystal Palace", "win_a"),
-("Leicester City", "Liverpool", "win_a"),
-("Crystal Palace", "Burnley", "win_b"),
-("Man City", "Tottenham", "win_a"),
-("Brighton", "Aston Villa", "draw"),
-("Southampton", "Wolves", "win_b"),
-("West Brom", "Man United", "draw"),
-("Arsenal", "Leeds United", "win_a"),
-("Everton", "Fulham", "win_b"),
-("West Ham", "Sheffield Utd", "win_a"),
-("Chelsea", "Newcastle", "win_a"),
-("Everton", "Man City", "win_b"),
-("Burnley", "Fulham", "draw"),
-("Wolves", "Leeds United", "win_a"),
-("Southampton", "Chelsea", "draw"),
-("Burnley", "West Brom", "draw"),
-("Liverpool", "Everton", "win_b"),
-("Fulham", "Sheffield Utd", "win_a"),
-("West Ham", "Tottenham", "win_a"),
-("Aston Villa", "Leicester City", "win_b"),
-("Arsenal", "Man City", "win_b"),
-("Man United", "Newcastle", "win_a"),
-("Brighton", "Crystal Palace", "win_b"),
-("Leeds United", "Southampton", "win_a"),
-("Man City", "West Ham", "win_a"),
-("West Brom", "Brighton", "win_a"),
-("Leeds United", "Aston Villa", "win_b"),
-("Newcastle", "Wolves", "draw"),
-("Crystal Palace", "Fulham", "draw"),
-("Leicester City", "Arsenal", "win_b"),
-("Tottenham", "Burnley", "win_a"),
-("Chelsea", "Man United", "draw"),
-("Sheffield Utd", "Liverpool", "win_b"),
-("Everton", "Southampton", "win_a"),
-("Man City", "Wolves", "win_a"),
-("Burnley", "Leicester City", "draw"),
-("Sheffield Utd", "Aston Villa", "win_a"),
-("Crystal Palace", "Man United", "draw"),
-("West Brom", "Everton", "win_b"),
-("Liverpool", "Chelsea", "win_b"),
-("Fulham", "Tottenham", "win_b"),
-("Burnley", "Arsenal", "draw"),
-("Sheffield Utd", "Southampton", "win_b"),
-("Aston Villa", "Wolves", "draw"),
-("Brighton", "Leicester City", "win_b"),
-("West Brom", "Newcastle", "draw"),
-("Liverpool", "Fulham", "win_b"),
-("Man City", "Man United", "win_b"),
-("Tottenham", "Crystal Palace", "win_a"),
-("Chelsea", "Everton", "win_a"),
-("West Ham", "Leeds United", "win_a"),
-("Man City", "Southampton", "win_a"),
-("Newcastle", "Aston Villa", "draw"),
-("Leeds United", "Chelsea", "draw"),
-("Crystal Palace", "West Brom", "win_a"),
-("Everton", "Burnley", "win_b"),
-("Fulham", "Man City", "win_b"),
-("Southampton", "Brighton", "win_b"),
-("Leicester City", "Sheffield Utd", "win_a"),
-("Arsenal", "Tottenham", "win_a"),
-("Man United", "West Ham", "win_a"),
-("Wolves", "Liverpool", "win_b"),
-("Fulham", "Leeds United", "win_b"),
-("Brighton", "Newcastle", "win_a"),
-("Aston Villa", "Tottenham", "win_b"),
-("West Ham", "Arsenal", "draw"),
-("Chelsea", "West Brom", "win_b"),
-("Leeds United", "Sheffield Utd", "win_a"),
-("Leicester City", "Man City", "win_b"),
-("Arsenal", "Liverpool", "win_b"),
-("Southampton", "Burnley", "win_a"),
-("Newcastle", "Tottenham", "draw"),
-("Aston Villa", "Fulham", "win_a"),
-("Man United", "Brighton", "win_a"),
-("Everton", "Crystal Palace", "draw"),
-("Wolves", "West Ham", "win_b"),
-("Fulham", "Wolves", "win_b"),
-("Man City", "Leeds United", "win_b"),
-("Liverpool", "Aston Villa", "win_a"),
-("Crystal Palace", "Chelsea", "win_b"),
-("Burnley", "Newcastle", "win_b"),
-("West Ham", "Leicester City", "win_a"),
-("Tottenham", "Man United", "win_b"),
-("Sheffield Utd", "Arsenal", "win_b"),
-("West Brom", "Southampton", "win_a"),
-("Brighton", "Everton", "draw"),
-("Everton", "Tottenham", "draw"),
-("Newcastle", "West Ham", "win_a"),
-("Wolves", "Sheffield Utd", "win_a"),
-("Arsenal", "Fulham", "draw"),
-("Man United", "Burnley", "win_a"),
-("Leeds United", "Liverpool", "draw"),
-("Chelsea", "Brighton", "draw"),
-("Tottenham", "Southampton", "win_a"),
-("Aston Villa", "Man City", "win_b"),
-("Leicester City", "West Brom", "win_a"),
-("Arsenal", "Everton", "win_b"),
-("Liverpool", "Newcastle", "draw"),
-("West Ham", "Chelsea", "win_b"),
-("Sheffield Utd", "Brighton", "win_a"),
-("Wolves", "Burnley", "win_b"),
-("Leeds United", "Man United", "draw"),
-("Aston Villa", "West Brom", "draw"),
-("Leicester City", "Crystal Palace", "win_a"),
-("Southampton", "Leicester City", "draw"),
-("Crystal Palace", "Man City", "win_b"),
-("Brighton", "Leeds United", "win_a"),
-("Chelsea", "Fulham", "win_a"),
-("Everton", "Aston Villa", "win_b"),
-("Newcastle", "Arsenal", "win_b"),
-("Tottenham", "Sheffield Utd", "win_a"),
-("West Brom", "Wolves", "draw"),
-("Burnley", "West Ham", "win_b"),
-("Leicester City", "Newcastle", "win_b"),
-("Leeds United", "Tottenham", "win_a"),
-("Sheffield Utd", "Crystal Palace", "win_b"),
-("Man City", "Chelsea", "win_b"),
-("Liverpool", "Southampton", "win_a"),
-("Wolves", "Brighton", "win_a"),
-("Aston Villa", "Man United", "win_b"),
-("West Ham", "Everton", "win_b"),
-("Arsenal", "West Brom", "win_a"),
-("Fulham", "Burnley", "win_b"),
-("Southampton", "Crystal Palace", "win_a"),
-("Man United", "Leicester City", "win_b"),
-("Chelsea", "Arsenal", "win_b"),
-("Aston Villa", "Everton", "draw"),
-("Man United", "Liverpool", "win_b"),
-("Newcastle", "Man City", "win_b"),
-("Burnley", "Leeds United", "win_b"),
-("Southampton", "Fulham", "win_a"),
-("Brighton", "West Ham", "draw"),
-("Crystal Palace", "Aston Villa", "win_a"),
-("Tottenham", "Wolves", "win_a"),
-("West Brom", "Liverpool", "win_b"),
-("Everton", "Sheffield Utd", "win_b"),
-("Man United", "Fulham", "draw"),
-("Southampton", "Leeds United", "win_b"),
-("Brighton", "Man City", "win_a"),
-("Chelsea", "Leicester City", "win_a"),
-("Tottenham", "Aston Villa", "win_b"),
-("Everton", "Wolves", "win_a"),
-("Newcastle", "Sheffield Utd", "win_a"),
-("Crystal Palace", "Arsenal", "win_b"),
-("Burnley", "Liverpool", "win_b"),
-("West Brom", "West Ham", "win_b"),
-("Leicester City", "Tottenham", "win_b"),
-("Man City", "Everton", "win_a"),
-("Liverpool", "Crystal Palace", "win_a"),
-("Sheffield Utd", "Burnley", "win_a"),
-("Wolves", "Man United", "win_b"),
-("Arsenal", "Brighton", "win_a"),
-("Leeds United", "West Brom", "win_a"),
-("Fulham", "Newcastle", "win_b"),
-("Aston Villa", "Chelsea", "win_a"),
-("West Ham", "Southampton", "win_a"),
-("Brentford", "Arsenal", "win_a"),
-("Man United", "Leeds United", "win_a"),
-("Watford", "Aston Villa", "win_a"),
-("Chelsea", "Crystal Palace", "win_a"),
-("Everton", "Southampton", "win_a"),
-("Burnley", "Brighton", "win_b"),
-("Leicester City", "Wolves", "win_a"),
-("Norwich City", "Liverpool", "win_b"),
-("Newcastle", "West Ham", "win_b"),
-("Tottenham", "Man City", "win_a"),
-("Liverpool", "Burnley", "win_a"),
-("Leeds United", "Everton", "draw"),
-("Aston Villa", "Newcastle", "win_a"),
-("Crystal Palace", "Brentford", "draw"),
-("Man City", "Norwich City", "win_a"),
-("Brighton", "Watford", "win_a"),
-("Southampton", "Man United", "draw"),
-("Wolves", "Tottenham", "win_b"),
-("Arsenal", "Chelsea", "win_b"),
-("West Ham", "Leicester City", "win_a"),
-("Man City", "Arsenal", "win_a"),
-("West Ham", "Crystal Palace", "draw"),
-("Norwich City", "Leicester City", "win_b"),
-("Brighton", "Everton", "win_b"),
-("Newcastle", "Southampton", "draw"),
-("Aston Villa", "Brentford", "draw"),
-("Liverpool", "Chelsea", "draw"),
-("Burnley", "Leeds United", "draw"),
-("Tottenham", "Watford", "win_a"),
-("Wolves", "Man United", "win_b"),
-("Crystal Palace", "Tottenham", "win_a"),
-("Southampton", "West Ham", "draw"),
-("Man United", "Newcastle", "win_a"),
-("Arsenal", "Norwich City", "win_a"),
-("Leicester City", "Man City", "win_b"),
-("Watford", "Wolves", "win_b"),
-("Brentford", "Brighton", "win_b"),
-("Chelsea", "Aston Villa", "win_a"),
-("Leeds United", "Liverpool", "win_b"),
-("Everton", "Burnley", "win_a"),
-("Newcastle", "Leeds United", "draw"),
-("Wolves", "Brentford", "win_b"),
-("Liverpool", "Crystal Palace", "win_a"),
-("Norwich City", "Watford", "win_b"),
-("Man City", "Southampton", "draw"),
-("Burnley", "Arsenal", "win_b"),
-("Aston Villa", "Everton", "win_a"),
-("West Ham", "Man United", "win_b"),
-("Brighton", "Leicester City", "win_a"),
-("Tottenham", "Chelsea", "win_b"),
-("Chelsea", "Man City", "win_b"),
-("Man United", "Aston Villa", "win_b"),
-("Everton", "Norwich City", "win_a"),
-("Leeds United", "West Ham", "win_b"),
-("Watford", "Newcastle", "draw"),
-("Leicester City", "Burnley", "draw"),
-("Brentford", "Liverpool", "draw"),
-("Southampton", "Wolves", "win_b"),
-("Arsenal", "Tottenham", "win_a"),
-("Crystal Palace", "Brighton", "draw"),
-("Man United", "Everton", "draw"),
-("Leeds United", "Watford", "win_a"),
-("Wolves", "Newcastle", "win_a"),
-("Burnley", "Norwich City", "draw"),
-("Chelsea", "Southampton", "win_a"),
-("Brighton", "Arsenal", "draw"),
-("Crystal Palace", "Leicester City", "draw"),
-("West Ham", "Brentford", "win_b"),
-("Tottenham", "Aston Villa", "win_a"),
-("Liverpool", "Man City", "draw"),
-("Watford", "Liverpool", "win_b"),
-("Leicester City", "Man United", "win_a"),
-("Southampton", "Leeds United", "win_a"),
-("Man City", "Burnley", "win_a"),
-("Aston Villa", "Wolves", "win_b"),
-("Norwich City", "Brighton", "draw"),
-("Brentford", "Chelsea", "win_b"),
-("Everton", "West Ham", "win_b"),
-("Newcastle", "Tottenham", "win_b"),
-("Arsenal", "Crystal Palace", "draw"),
-("Arsenal", "Aston Villa", "win_a"),
-("Chelsea", "Norwich City", "win_a"),
-("Southampton", "Burnley", "draw"),
-("Crystal Palace", "Newcastle", "draw"),
-("Everton", "Watford", "win_b"),
-("Leeds United", "Wolves", "draw"),
-("Brighton", "Man City", "win_b"),
-("West Ham", "Tottenham", "win_a"),
-("Brentford", "Leicester City", "win_b"),
-("Man United", "Liverpool", "win_b"),
-("Leicester City", "Arsenal", "win_b"),
-("Watford", "Southampton", "win_b"),
-("Newcastle", "Chelsea", "win_b"),
-("Liverpool", "Brighton", "draw"),
-("Burnley", "Brentford", "win_a"),
-("Man City", "Crystal Palace", "win_b"),
-("Tottenham", "Man United", "win_b"),
-("Norwich City", "Leeds United", "win_b"),
-("Aston Villa", "West Ham", "win_b"),
-("Wolves", "Everton", "win_a"),
-("Southampton", "Aston Villa", "win_a"),
-("Man United", "Man City", "win_b"),
-("Crystal Palace", "Wolves", "win_a"),
-("Chelsea", "Burnley", "draw"),
-("Brentford", "Norwich City", "win_b"),
-("Brighton", "Newcastle", "draw"),
-("Leeds United", "Leicester City", "draw"),
-("Everton", "Tottenham", "draw"),
-("Arsenal", "Watford", "win_a"),
-("West Ham", "Liverpool", "win_a"),
-("Leicester City", "Chelsea", "win_b"),
-("Newcastle", "Brentford", "draw"),
-("Aston Villa", "Brighton", "win_a"),
-("Watford", "Man United", "win_a"),
-("Norwich City", "Southampton", "win_a"),
-("Wolves", "West Ham", "win_a"),
-("Burnley", "Crystal Palace", "draw"),
-("Liverpool", "Arsenal", "win_a"),
-("Man City", "Everton", "win_a"),
-("Tottenham", "Leeds United", "win_a"),
-("Arsenal", "Newcastle", "win_a"),
-("Crystal Palace", "Aston Villa", "win_b"),
-("Norwich City", "Wolves", "draw"),
-("Liverpool", "Southampton", "win_a"),
-("Brighton", "Leeds United", "draw"),
-("Brentford", "Everton", "win_a"),
-("Leicester City", "Watford", "win_a"),
-("Man City", "West Ham", "win_a"),
-("Chelsea", "Man United", "draw"),
-("Newcastle", "Norwich City", "draw"),
-("Leeds United", "Crystal Palace", "win_a"),
-("Wolves", "Burnley", "draw"),
-("Southampton", "Leicester City", "draw"),
-("Watford", "Chelsea", "win_b"),
-("West Ham", "Brighton", "draw"),
-("Everton", "Liverpool", "win_b"),
-("Aston Villa", "Man City", "win_b"),
-("Tottenham", "Brentford", "win_a"),
-("Man United", "Arsenal", "win_a"),
-("West Ham", "Chelsea", "win_a"),
-("Wolves", "Liverpool", "win_b"),
-("Southampton", "Brighton", "draw"),
-("Newcastle", "Burnley", "win_a"),
-("Watford", "Man City", "win_b"),
-("Tottenham", "Norwich City", "win_a"),
-("Man United", "Crystal Palace", "win_a"),
-("Leeds United", "Brentford", "draw"),
-("Aston Villa", "Leicester City", "win_a"),
-("Everton", "Arsenal", "win_a"),
-("Brentford", "Watford", "win_a"),
-("Man City", "Wolves", "win_a"),
-("Liverpool", "Aston Villa", "win_a"),
-("Chelsea", "Leeds United", "win_a"),
-("Arsenal", "Southampton", "win_a"),
-("Norwich City", "Man United", "win_b"),
-("Burnley", "West Ham", "draw"),
-("Leicester City", "Newcastle", "win_a"),
-("Crystal Palace", "Everton", "win_a"),
-("Norwich City", "Aston Villa", "win_b"),
-("Man City", "Leeds United", "win_a"),
-("Crystal Palace", "Southampton", "draw"),
-("Brighton", "Wolves", "win_b"),
-("Arsenal", "West Ham", "win_a"),
-("Chelsea", "Everton", "draw"),
-("Liverpool", "Newcastle", "win_a"),
-("Leeds United", "Arsenal", "win_b"),
-("Wolves", "Chelsea", "draw"),
-("Newcastle", "Man City", "win_b"),
-("Tottenham", "Liverpool", "draw"),
-("West Ham", "Southampton", "win_b"),
-("Man City", "Leicester City", "win_a"),
-("Norwich City", "Arsenal", "win_b"),
-("Tottenham", "Crystal Palace", "win_a"),
-("Aston Villa", "Chelsea", "win_b"),
-("Brighton", "Brentford", "win_a"),
-("Newcastle", "Man United", "draw"),
-("Southampton", "Tottenham", "draw"),
-("Crystal Palace", "Norwich City", "win_a"),
-("Watford", "West Ham", "win_b"),
-("Leicester City", "Liverpool", "win_a"),
-("Chelsea", "Brighton", "draw"),
-("Brentford", "Man City", "win_b"),
-("Man United", "Burnley", "win_a"),
-("Arsenal", "Man City", "win_b"),
-("Watford", "Tottenham", "win_b"),
-("Crystal Palace", "West Ham", "win_b"),
-("Leeds United", "Burnley", "win_a"),
-("Everton", "Brighton", "win_b"),
-("Brentford", "Aston Villa", "win_a"),
-("Chelsea", "Liverpool", "draw"),
-("Man United", "Wolves", "win_b"),
-("Southampton", "Brentford", "win_a"),
-("West Ham", "Norwich City", "win_a"),
-("Brighton", "Crystal Palace", "draw"),
-("Man City", "Chelsea", "win_a"),
-("Newcastle", "Watford", "draw"),
-("Wolves", "Southampton", "win_a"),
-("Norwich City", "Everton", "win_a"),
-("Aston Villa", "Man United", "draw"),
-("West Ham", "Leeds United", "win_b"),
-("Liverpool", "Brentford", "win_a"),
-("Brighton", "Chelsea", "draw"),
-("Leicester City", "Tottenham", "win_b"),
-("Brentford", "Man United", "win_b"),
-("Watford", "Norwich City", "win_b"),
-("Everton", "Aston Villa", "win_b"),
-("Man United", "West Ham", "win_a"),
-("Brentford", "Wolves", "win_b"),
-("Leeds United", "Newcastle", "win_b"),
-("Southampton", "Man City", "draw"),
-("Leicester City", "Brighton", "draw"),
-("Crystal Palace", "Liverpool", "win_b"),
-("Arsenal", "Burnley", "draw"),
-("Chelsea", "Tottenham", "win_a"),
-("Burnley", "Watford", "draw"),
-("Newcastle", "Everton", "win_a"),
-("West Ham", "Watford", "win_a"),
-("Burnley", "Man United", "draw"),
-("Tottenham", "Southampton", "win_b"),
-("Man City", "Brentford", "win_a"),
-("Norwich City", "Crystal Palace", "draw"),
-("Aston Villa", "Leeds United", "draw"),
-("Wolves", "Arsenal", "win_b"),
-("Liverpool", "Leicester City", "win_a"),
-("Man United", "Southampton", "draw"),
-("Brentford", "Crystal Palace", "draw"),
-("Everton", "Leeds United", "win_a"),
-("Watford", "Brighton", "win_b"),
-("Norwich City", "Man City", "win_b"),
-("Tottenham", "Wolves", "win_b"),
-("Burnley", "Liverpool", "win_b"),
-("Newcastle", "Aston Villa", "win_a"),
-("Leicester City", "West Ham", "draw"),
-("Man United", "Brighton", "win_a"),
-("West Ham", "Newcastle", "draw"),
-("Aston Villa", "Watford", "win_b"),
-("Liverpool", "Norwich City", "win_a"),
-("Crystal Palace", "Chelsea", "win_b"),
-("Arsenal", "Brentford", "win_a"),
-("Southampton", "Everton", "win_a"),
-("Brighton", "Burnley", "win_b"),
-("Man City", "Tottenham", "win_b"),
-("Leeds United", "Man United", "win_b"),
-("Wolves", "Leicester City", "win_a"),
-("Burnley", "Tottenham", "win_a"),
-("Watford", "Crystal Palace", "win_b"),
-("Liverpool", "Leeds United", "win_a"),
-("Arsenal", "Wolves", "win_a"),
-("Southampton", "Norwich City", "win_a"),
-("Leeds United", "Tottenham", "win_b"),
-("Crystal Palace", "Burnley", "draw"),
-("Brighton", "Aston Villa", "win_b"),
-("Man United", "Watford", "draw"),
-("Brentford", "Newcastle", "win_b"),
-("Everton", "Man City", "win_b"),
-("West Ham", "Wolves", "win_a"),
-("Burnley", "Leicester City", "win_b"),
-("Leicester City", "Leeds United", "win_a"),
-("Wolves", "Crystal Palace", "win_b"),
-("Aston Villa", "Southampton", "win_a"),
-("Newcastle", "Brighton", "win_a"),
-("Norwich City", "Brentford", "win_b"),
-("Burnley", "Chelsea", "win_b"),
-("Liverpool", "West Ham", "win_a"),
-("Watford", "Arsenal", "win_b"),
-("Man City", "Man United", "win_a"),
-("Tottenham", "Everton", "win_a"),
-("Wolves", "Watford", "win_a"),
-("Leeds United", "Aston Villa", "win_b"),
-("Southampton", "Newcastle", "win_b"),
-("Norwich City", "Chelsea", "win_b"),
-("Brighton", "Liverpool", "win_b"),
-("Brentford", "Burnley", "win_a"),
-("Man United", "Tottenham", "win_a"),
-("Leeds United", "Norwich City", "win_a"),
-("Chelsea", "Newcastle", "win_a"),
-("West Ham", "Aston Villa", "win_a"),
-("Southampton", "Watford", "win_b"),
-("Everton", "Wolves", "win_b"),
-("Arsenal", "Leicester City", "win_a"),
-("Crystal Palace", "Man City", "draw"),
-("Brighton", "Tottenham", "win_b"),
-("Arsenal", "Liverpool", "win_b"),
-("Everton", "Newcastle", "win_a"),
-("Wolves", "Leeds United", "win_b"),
-("Aston Villa", "Arsenal", "win_b"),
-("Leicester City", "Brentford", "win_a"),
-("Tottenham", "West Ham", "win_a"),
-("Liverpool", "Watford", "win_a"),
-("Leeds United", "Southampton", "draw"),
-("Burnley", "Man City", "win_b"),
-("Wolves", "Aston Villa", "win_a"),
-("Chelsea", "Brentford", "win_b"),
-("Brighton", "Norwich City", "draw"),
-("Man United", "Leicester City", "draw"),
-("West Ham", "Everton", "win_a"),
-("Tottenham", "Newcastle", "win_a"),
-("Crystal Palace", "Arsenal", "win_a"),
-("Burnley", "Everton", "win_a"),
-("Newcastle", "Wolves", "win_a"),
-("Everton", "Man United", "win_a"),
-("Arsenal", "Brighton", "win_b"),
-("Southampton", "Chelsea", "win_b"),
-("Watford", "Leeds United", "win_b"),
-("Aston Villa", "Tottenham", "win_b"),
-("Norwich City", "Burnley", "win_a"),
-("Brentford", "West Ham", "win_a"),
-("Leicester City", "Crystal Palace", "win_a"),
-("Man City", "Liverpool", "draw"),
-("Tottenham", "Brighton", "win_b"),
-("Man United", "Norwich City", "win_a"),
-("Southampton", "Arsenal", "win_a"),
-("Watford", "Brentford", "win_b"),
-("West Ham", "Burnley", "draw"),
-("Newcastle", "Leicester City", "win_a"),
-("Liverpool", "Man United", "win_a"),
-("Everton", "Leicester City", "draw"),
-("Chelsea", "Arsenal", "win_b"),
-("Newcastle", "Crystal Palace", "win_a"),
-("Man City", "Brighton", "win_a"),
-("Burnley", "Southampton", "win_a"),
-("Arsenal", "Man United", "win_a"),
-("Man City", "Watford", "win_a"),
-("Leicester City", "Aston Villa", "draw"),
-("Norwich City", "Newcastle", "win_b"),
-("Brentford", "Tottenham", "draw"),
-("Chelsea", "West Ham", "win_a"),
-("Burnley", "Wolves", "win_a"),
-("Brighton", "Southampton", "draw"),
-("Liverpool", "Everton", "win_a"),
-("Crystal Palace", "Leeds United", "draw"),
-("Man United", "Chelsea", "draw"),
-("Newcastle", "Liverpool", "win_b"),
-("Watford", "Burnley", "win_b"),
-("Southampton", "Crystal Palace", "win_b"),
-("Wolves", "Brighton", "win_b"),
-("Aston Villa", "Norwich City", "win_a"),
-("Leeds United", "Man City", "win_b"),
-("Tottenham", "Leicester City", "win_a"),
-("Everton", "Chelsea", "win_a"),
-("West Ham", "Arsenal", "win_b"),
-("Man United", "Brentford", "win_a"),
-("Chelsea", "Wolves", "draw"),
-("Brentford", "Southampton", "win_a"),
-("Crystal Palace", "Watford", "win_a"),
-("Burnley", "Aston Villa", "win_b"),
-("Brighton", "Man United", "win_a"),
-("Liverpool", "Tottenham", "draw"),
-("Norwich City", "West Ham", "win_b"),
-("Arsenal", "Leeds United", "win_a"),
-("Leicester City", "Everton", "win_b"),
-("Man City", "Newcastle", "win_a"),
-("Aston Villa", "Liverpool", "win_b"),
-("Leicester City", "Norwich City", "win_a"),
-("Watford", "Everton", "draw"),
-("Leeds United", "Chelsea", "win_b"),
-("Wolves", "Man City", "win_b"),
-("Tottenham", "Arsenal", "win_a"),
-("Tottenham", "Burnley", "win_a"),
-("Watford", "Leicester City", "win_b"),
-("West Ham", "Man City", "draw"),
-("Leeds United", "Brighton", "draw"),
-("Wolves", "Norwich City", "draw"),
-("Aston Villa", "Crystal Palace", "draw"),
-("Everton", "Brentford", "win_b"),
-("Newcastle", "Arsenal", "win_a"),
-("Southampton", "Liverpool", "win_b"),
-("Aston Villa", "Burnley", "draw"),
-("Chelsea", "Leicester City", "draw"),
-("Everton", "Crystal Palace", "win_a"),
-("Brighton", "West Ham", "win_a"),
-("Brentford", "Leeds United", "win_b"),
-("Leicester City", "Southampton", "win_a"),
-("Arsenal", "Everton", "win_a"),
-("Crystal Palace", "Man United", "win_a"),
-("Norwich City", "Tottenham", "win_b"),
-("Burnley", "Newcastle", "win_b"),
-("Liverpool", "Wolves", "win_a"),
-("Man City", "Aston Villa", "win_a"),
-("Chelsea", "Watford", "win_a"),
-("Crystal Palace", "Arsenal", "win_b"),
-("Fulham", "Liverpool", "draw"),
-("Tottenham", "Southampton", "win_a"),
-("Newcastle", "Nottingham Forest", "win_a"),
-("Leeds United", "Wolves", "win_a"),
-("Bournemouth", "Aston Villa", "win_a"),
-("Everton", "Chelsea", "win_b"),
-("Leicester City", "Brentford", "draw"),
-("Man United", "Brighton", "win_b"),
-("West Ham", "Man City", "win_b"),
-("Aston Villa", "Everton", "win_a"),
-("Man City", "Bournemouth", "win_a"),
-("Southampton", "Leeds United", "draw"),
-("Wolves", "Fulham", "draw"),
-("Arsenal", "Leicester City", "win_a"),
-("Brighton", "Newcastle", "draw"),
-("Brentford", "Man United", "win_a"),
-("Nottingham Forest", "West Ham", "win_a"),
-("Chelsea", "Tottenham", "draw"),
-("Liverpool", "Crystal Palace", "draw"),
-("Tottenham", "Wolves", "win_a"),
-("Leicester City", "Southampton", "win_b"),
-("Everton", "Nottingham Forest", "draw"),
-("Crystal Palace", "Aston Villa", "win_a"),
-("Fulham", "Brentford", "win_a"),
-("Bournemouth", "Arsenal", "win_b"),
-("Leeds United", "Chelsea", "win_a"),
-("West Ham", "Brighton", "win_b"),
-("Newcastle", "Man City", "draw"),
-("Man United", "Liverpool", "win_a"),
-("Southampton", "Man United", "win_b"),
-("Man City", "Crystal Palace", "win_a"),
-("Brighton", "Leeds United", "win_a"),
-("Chelsea", "Leicester City", "win_a"),
-("Brentford", "Everton", "draw"),
-("Liverpool", "Bournemouth", "win_a"),
-("Arsenal", "Fulham", "win_a"),
-("Wolves", "Newcastle", "draw"),
-("Aston Villa", "West Ham", "win_b"),
-("Nottingham Forest", "Tottenham", "win_b"),
-("Fulham", "Brighton", "win_a"),
-("Crystal Palace", "Brentford", "draw"),
-("Southampton", "Chelsea", "win_a"),
-("Leeds United", "Everton", "draw"),
-("Bournemouth", "Wolves", "draw"),
-("Man City", "Nottingham Forest", "win_a"),
-("Arsenal", "Aston Villa", "win_a"),
-("West Ham", "Tottenham", "draw"),
-("Liverpool", "Newcastle", "win_a"),
-("Leicester City", "Man United", "win_b"),
-("Everton", "Liverpool", "draw"),
-("Nottingham Forest", "Bournemouth", "win_b"),
-("Wolves", "Southampton", "win_a"),
-("Newcastle", "Crystal Palace", "draw"),
-("Brentford", "Leeds United", "win_a"),
-("Tottenham", "Fulham", "win_a"),
-("Chelsea", "West Ham", "win_a"),
-("Aston Villa", "Man City", "draw"),
-("Brighton", "Leicester City", "win_a"),
-("Man United", "Arsenal", "win_a"),
-("Aston Villa", "Southampton", "win_a"),
-("Nottingham Forest", "Fulham", "win_b"),
-("Wolves", "Man City", "win_b"),
-("Newcastle", "Bournemouth", "draw"),
-("Tottenham", "Leicester City", "win_a"),
-("Brentford", "Arsenal", "win_b"),
-("Everton", "West Ham", "win_a"),
-("Arsenal", "Tottenham", "win_a"),
-("Southampton", "Everton", "win_b"),
-("Crystal Palace", "Chelsea", "win_b"),
-("Liverpool", "Brighton", "draw"),
-("Fulham", "Newcastle", "win_b"),
-("Bournemouth", "Brentford", "draw"),
-("West Ham", "Wolves", "win_a"),
-("Man City", "Man United", "win_a"),
-("Leeds United", "Aston Villa", "draw"),
-("Leicester City", "Nottingham Forest", "win_a"),
-("Bournemouth", "Leicester City", "win_a"),
-("Newcastle", "Brentford", "win_a"),
-("Man City", "Southampton", "win_a"),
-("Chelsea", "Wolves", "win_a"),
-("Brighton", "Tottenham", "win_b"),
-("West Ham", "Fulham", "win_a"),
-("Crystal Palace", "Leeds United", "win_a"),
-("Arsenal", "Liverpool", "win_a"),
-("Everton", "Man United", "win_b"),
-("Nottingham Forest", "Aston Villa", "draw"),
-("Brentford", "Brighton", "win_a"),
-("Leicester City", "Crystal Palace", "draw"),
-("Fulham", "Bournemouth", "draw"),
-("Wolves", "Nottingham Forest", "win_a"),
-("Tottenham", "Everton", "win_a"),
-("Southampton", "West Ham", "draw"),
-("Aston Villa", "Chelsea", "win_b"),
-("Leeds United", "Arsenal", "win_b"),
-("Man United", "Newcastle", "draw"),
-("Liverpool", "Man City", "win_a"),
-("Brighton", "Nottingham Forest", "draw"),
-("Crystal Palace", "Wolves", "win_a"),
-("Bournemouth", "Southampton", "win_b"),
-("Brentford", "Chelsea", "draw"),
-("Liverpool", "West Ham", "win_a"),
-("Newcastle", "Everton", "win_a"),
-("Man United", "Tottenham", "win_a"),
-("Fulham", "Aston Villa", "win_a"),
-("Leicester City", "Leeds United", "win_a"),
-("Nottingham Forest", "Liverpool", "win_a"),
-("Everton", "Crystal Palace", "win_a"),
-("Man City", "Brighton", "win_a"),
-("Chelsea", "Man United", "draw"),
-("Aston Villa", "Brentford", "win_a"),
-("Wolves", "Leicester City", "win_b"),
-("Leeds United", "Fulham", "win_b"),
-("Southampton", "Arsenal", "draw"),
-("Tottenham", "Newcastle", "win_b"),
-("West Ham", "Bournemouth", "win_a"),
-("Leicester City", "Man City", "win_b"),
-("Brentford", "Wolves", "draw"),
-("Crystal Palace", "Southampton", "win_a"),
-("Newcastle", "Aston Villa", "win_a"),
-("Brighton", "Chelsea", "win_a"),
-("Bournemouth", "Tottenham", "win_b"),
-("Fulham", "Everton", "draw"),
-("Liverpool", "Leeds United", "win_b"),
-("Arsenal", "Nottingham Forest", "win_a"),
-("Man United", "West Ham", "win_a"),
-("Nottingham Forest", "Brentford", "draw"),
-("Leeds United", "Bournemouth", "win_a"),
-("Man City", "Fulham", "win_a"),
-("Wolves", "Brighton", "win_b"),
-("Everton", "Leicester City", "win_b"),
-("Chelsea", "Arsenal", "win_b"),
-("West Ham", "Crystal Palace", "win_b"),
-("Southampton", "Newcastle", "win_b"),
-("Aston Villa", "Man United", "win_a"),
-("Tottenham", "Liverpool", "win_b"),
-("Man City", "Brentford", "win_b"),
-("Tottenham", "Leeds United", "win_a"),
-("Liverpool", "Southampton", "win_a"),
-("Bournemouth", "Everton", "win_a"),
-("West Ham", "Leicester City", "win_b"),
-("Nottingham Forest", "Crystal Palace", "win_a"),
-("Newcastle", "Chelsea", "win_a"),
-("Wolves", "Arsenal", "win_b"),
-("Brighton", "Aston Villa", "win_b"),
-("Fulham", "Man United", "win_b"),
-("Brentford", "Tottenham", "draw"),
-("Southampton", "Brighton", "win_b"),
-("Leicester City", "Newcastle", "win_b"),
-("Crystal Palace", "Fulham", "win_b"),
-("Everton", "Wolves", "win_b"),
-("Aston Villa", "Liverpool", "win_b"),
-("Arsenal", "West Ham", "win_a"),
-("Chelsea", "Bournemouth", "win_a"),
-("Man United", "Nottingham Forest", "win_a"),
-("Leeds United", "Man City", "win_b"),
-("West Ham", "Brentford", "win_b"),
-("Liverpool", "Leicester City", "win_a"),
-("Wolves", "Man United", "win_b"),
-("Newcastle", "Leeds United", "draw"),
-("Fulham", "Southampton", "win_a"),
-("Man City", "Everton", "draw"),
-("Bournemouth", "Crystal Palace", "win_b"),
-("Brighton", "Arsenal", "win_b"),
-("Tottenham", "Aston Villa", "win_b"),
-("Nottingham Forest", "Chelsea", "draw"),
-("Brentford", "Liverpool", "win_a"),
-("Leicester City", "Fulham", "win_b"),
-("Everton", "Brighton", "win_b"),
-("Arsenal", "Newcastle", "draw"),
-("Man United", "Bournemouth", "win_a"),
-("Southampton", "Nottingham Forest", "win_b"),
-("Leeds United", "West Ham", "draw"),
-("Aston Villa", "Wolves", "draw"),
-("Crystal Palace", "Tottenham", "win_b"),
-("Chelsea", "Man City", "win_b"),
-("Fulham", "Chelsea", "win_a"),
-("Aston Villa", "Leeds United", "win_a"),
-("Man United", "Man City", "win_a"),
-("Everton", "Southampton", "win_b"),
-("Wolves", "West Ham", "win_a"),
-("Nottingham Forest", "Leicester City", "win_a"),
-("Brighton", "Liverpool", "win_a"),
-("Brentford", "Bournemouth", "win_a"),
-("Chelsea", "Crystal Palace", "win_a"),
-("Newcastle", "Fulham", "win_a"),
-("Tottenham", "Arsenal", "win_b"),
-("Crystal Palace", "Man United", "draw"),
-("Man City", "Tottenham", "win_a"),
-("Liverpool", "Chelsea", "draw"),
-("Bournemouth", "Nottingham Forest", "draw"),
-("Southampton", "Aston Villa", "win_b"),
-("Leicester City", "Brighton", "draw"),
-("West Ham", "Everton", "win_a"),
-("Crystal Palace", "Newcastle", "draw"),
-("Man City", "Wolves", "win_a"),
-("Leeds United", "Brentford", "draw"),
-("Arsenal", "Man United", "win_a"),
-("Fulham", "Tottenham", "win_b"),
-("Chelsea", "Fulham", "draw"),
-("Everton", "Arsenal", "win_a"),
-("Aston Villa", "Leicester City", "win_b"),
-("Wolves", "Liverpool", "win_a"),
-("Man United", "Crystal Palace", "win_a"),
-("Brighton", "Bournemouth", "win_a"),
-("Brentford", "Southampton", "win_a"),
-("Newcastle", "West Ham", "draw"),
-("Nottingham Forest", "Leeds United", "win_a"),
-("Tottenham", "Man City", "win_a"),
-("Man United", "Leeds United", "draw"),
-("West Ham", "Chelsea", "draw"),
-("Leicester City", "Tottenham", "win_a"),
-("Crystal Palace", "Brighton", "draw"),
-("Arsenal", "Brentford", "draw"),
-("Southampton", "Wolves", "win_b"),
-("Fulham", "Nottingham Forest", "win_a"),
-("Bournemouth", "Newcastle", "draw"),
-("Leeds United", "Man United", "win_b"),
-("Man City", "Aston Villa", "win_a"),
-("Liverpool", "Everton", "win_a"),
-("Arsenal", "Man City", "win_b"),
-("Aston Villa", "Arsenal", "win_b"),
-("Brighton", "Fulham", "win_b"),
-("Nottingham Forest", "Man City", "draw"),
-("Chelsea", "Southampton", "win_b"),
-("Everton", "Leeds United", "win_a"),
-("Wolves", "Bournemouth", "win_b"),
-("Brentford", "Crystal Palace", "draw"),
-("Newcastle", "Liverpool", "win_b"),
-("Man United", "Leicester City", "win_a"),
-("Tottenham", "West Ham", "win_a"),
-("Fulham", "Wolves", "draw"),
-("Leicester City", "Arsenal", "win_b"),
-("Everton", "Aston Villa", "win_b"),
-("West Ham", "Nottingham Forest", "win_a"),
-("Leeds United", "Southampton", "win_a"),
-("Bournemouth", "Man City", "win_b"),
-("Crystal Palace", "Liverpool", "draw"),
-("Tottenham", "Chelsea", "win_a"),
-("Arsenal", "Everton", "win_a"),
-("Liverpool", "Wolves", "win_a"),
-("Man City", "Newcastle", "win_a"),
-("Arsenal", "Bournemouth", "win_a"),
-("Aston Villa", "Crystal Palace", "win_a"),
-("Chelsea", "Leeds United", "win_a"),
-("Brighton", "West Ham", "win_a"),
-("Wolves", "Tottenham", "win_a"),
-("Southampton", "Leicester City", "win_a"),
-("Nottingham Forest", "Everton", "draw"),
-("Liverpool", "Man United", "win_a"),
-("Brentford", "Fulham", "win_a"),
-("Bournemouth", "Liverpool", "win_a"),
-("Leeds United", "Brighton", "draw"),
-("Everton", "Brentford", "win_a"),
-("Leicester City", "Chelsea", "win_b"),
-("Tottenham", "Nottingham Forest", "win_a"),
-("Crystal Palace", "Man City", "win_b"),
-("Man United", "Southampton", "draw"),
-("Fulham", "Arsenal", "win_b"),
-("West Ham", "Aston Villa", "draw"),
-("Newcastle", "Wolves", "win_a"),
-("Southampton", "Brentford", "win_b"),
-("Brighton", "Crystal Palace", "win_a"),
-("Nottingham Forest", "Newcastle", "win_b"),
-("Wolves", "Leeds United", "win_b"),
-("Brentford", "Leicester City", "draw"),
-("Aston Villa", "Bournemouth", "win_a"),
-("Southampton", "Tottenham", "draw"),
-("Chelsea", "Everton", "draw"),
-("Arsenal", "Crystal Palace", "win_a"),
-("Man City", "Liverpool", "win_a"),
-("Arsenal", "Leeds United", "win_a"),
-("Nottingham Forest", "Wolves", "draw"),
-("Brighton", "Brentford", "draw"),
-("Crystal Palace", "Leicester City", "win_a"),
-("Bournemouth", "Fulham", "win_a"),
-("Chelsea", "Aston Villa", "win_b"),
-("West Ham", "Southampton", "win_a"),
-("Newcastle", "Man United", "win_a"),
-("Everton", "Tottenham", "draw"),
-("Leeds United", "Nottingham Forest", "win_a"),
-("Bournemouth", "Brighton", "win_b"),
-("Leicester City", "Aston Villa", "win_b"),
-("Chelsea", "Liverpool", "draw"),
-("Man United", "Brentford", "win_a"),
-("West Ham", "Newcastle", "win_b"),
-("Man United", "Everton", "win_a"),
-("Fulham", "West Ham", "win_b"),
-("Aston Villa", "Nottingham Forest", "win_a"),
-("Leicester City", "Bournemouth", "win_b"),
-("Brentford", "Newcastle", "win_b"),
-("Wolves", "Chelsea", "win_a"),
-("Tottenham", "Brighton", "win_a"),
-("Southampton", "Man City", "win_b"),
-("Leeds United", "Crystal Palace", "win_b"),
-("Liverpool", "Arsenal", "draw"),
-("Aston Villa", "Newcastle", "win_a"),
-("Chelsea", "Brighton", "win_b"),
-("Southampton", "Crystal Palace", "win_b"),
-("Wolves", "Brentford", "win_a"),
-("Tottenham", "Bournemouth", "win_b"),
-("Everton", "Fulham", "win_b"),
-("Man City", "Leicester City", "win_a"),
-("West Ham", "Arsenal", "draw"),
-("Nottingham Forest", "Man United", "win_b"),
-("Leeds United", "Liverpool", "win_b"),
-("Arsenal", "Southampton", "draw"),
-("Fulham", "Leeds United", "win_a"),
-("Crystal Palace", "Everton", "draw"),
-("Brentford", "Aston Villa", "draw"),
-("Liverpool", "Nottingham Forest", "win_a"),
-("Leicester City", "Wolves", "win_a"),
-("Bournemouth", "West Ham", "win_b"),
-("Newcastle", "Tottenham", "win_a"),
-("Wolves", "Crystal Palace", "win_a"),
-("Aston Villa", "Fulham", "win_a"),
-("Leeds United", "Leicester City", "draw"),
-("Nottingham Forest", "Brighton", "win_a"),
-("Chelsea", "Brentford", "win_b"),
-("West Ham", "Liverpool", "win_b"),
-("Man City", "Arsenal", "win_a"),
-("Everton", "Newcastle", "win_b"),
-("Southampton", "Bournemouth", "win_b"),
-("Tottenham", "Man United", "draw"),
-("Crystal Palace", "West Ham", "win_a"),
-("Brighton", "Wolves", "win_a"),
-("Brentford", "Nottingham Forest", "win_a"),
-("Man United", "Aston Villa", "win_a"),
-("Bournemouth", "Leeds United", "win_a"),
-("Newcastle", "Southampton", "win_a"),
-("Fulham", "Man City", "win_b"),
-("Liverpool", "Tottenham", "win_a"),
-("Leicester City", "Everton", "draw"),
-("Arsenal", "Chelsea", "win_a"),
-("Liverpool", "Fulham", "win_a"),
-("Man City", "West Ham", "win_a"),
-("Brighton", "Man United", "win_a"),
-("Tottenham", "Crystal Palace", "win_a"),
-("Wolves", "Aston Villa", "win_a"),
-("Bournemouth", "Chelsea", "win_b"),
-("Man City", "Leeds United", "win_a"),
-("Liverpool", "Brentford", "win_a"),
-("Newcastle", "Arsenal", "win_b"),
-("West Ham", "Man United", "win_a"),
-("Fulham", "Leicester City", "win_a"),
-("Brighton", "Everton", "win_b"),
-("Nottingham Forest", "Southampton", "win_a"),
-("Leeds United", "Newcastle", "draw"),
-("Aston Villa", "Tottenham", "win_a"),
-("Chelsea", "Nottingham Forest", "draw"),
-("Crystal Palace", "Bournemouth", "win_a"),
-("Southampton", "Fulham", "win_b"),
-("Man United", "Wolves", "win_a"),
-("Everton", "Man City", "win_b"),
-("Brentford", "West Ham", "win_a"),
-("Arsenal", "Brighton", "win_b"),
-("Leicester City", "Liverpool", "win_b"),
-("Newcastle", "Brighton", "win_a"),
-("Tottenham", "Brentford", "win_b"),
-("Liverpool", "Aston Villa", "draw"),
-("Fulham", "Crystal Palace", "draw"),
-("Bournemouth", "Man United", "win_b"),
-("Wolves", "Everton", "draw"),
-("Nottingham Forest", "Arsenal", "win_a"),
-("West Ham", "Leeds United", "win_a"),
-("Brighton", "Southampton", "win_a"),
-("Man City", "Chelsea", "win_a"),
-("Newcastle", "Leicester City", "draw"),
-("Brighton", "Man City", "draw"),
-("Man United", "Chelsea", "win_a"),
-("Crystal Palace", "Nottingham Forest", "draw"),
-("Chelsea", "Newcastle", "draw"),
-("Man United", "Fulham", "win_a"),
-("Arsenal", "Wolves", "win_a"),
-("Southampton", "Liverpool", "draw"),
-("Everton", "Bournemouth", "win_a"),
-("Leicester City", "West Ham", "win_a"),
-("Aston Villa", "Brighton", "win_a"),
-("Leeds United", "Tottenham", "win_b"),
-("Brentford", "Man City", "win_a"),
+("Fulham", "Arsenal", "win_b")
+("Crystal Palace", "Southampton", "win_a")
+("Liverpool", "Leeds United", "win_a")
+("West Ham", "Newcastle", "win_b")
+("West Brom", "Leicester City", "win_b")
+("Tottenham", "Everton", "win_b")
+("Sheffield Utd", "Wolves", "win_b")
+("Brighton", "Chelsea", "win_b")
+("Everton", "West Brom", "win_a")
+("Leeds United", "Fulham", "win_a")
+("Man United", "Crystal Palace", "win_b")
+("Arsenal", "West Ham", "win_a")
+("Southampton", "Tottenham", "win_b")
+("Newcastle", "Brighton", "win_b")
+("Chelsea", "Liverpool", "win_b")
+("Leicester City", "Burnley", "win_a")
+("Aston Villa", "Sheffield Utd", "win_a")
+("Wolves", "Man City", "win_b")
+("Brighton", "Man United", "win_b")
+("Crystal Palace", "Everton", "win_b")
+("West Brom", "Chelsea", "draw")
+("Burnley", "Southampton", "win_b")
+("Sheffield Utd", "Leeds United", "win_b")
+("Tottenham", "Newcastle", "draw")
+("Man City", "Leicester City", "win_b")
+("West Ham", "Wolves", "win_a")
+("Fulham", "Aston Villa", "win_b")
+("Liverpool", "Arsenal", "win_a")
+("Chelsea", "Crystal Palace", "win_a")
+("Everton", "Brighton", "win_a")
+("Leeds United", "Man City", "draw")
+("Newcastle", "Burnley", "win_a")
+("Leicester City", "West Ham", "win_b")
+("Southampton", "West Brom", "win_a")
+("Arsenal", "Sheffield Utd", "win_a")
+("Wolves", "Fulham", "win_a")
+("Man United", "Tottenham", "win_b")
+("Aston Villa", "Liverpool", "win_a")
+("Everton", "Liverpool", "draw")
+("Chelsea", "Southampton", "draw")
+("Man City", "Arsenal", "win_a")
+("Newcastle", "Man United", "win_b")
+("Sheffield Utd", "Fulham", "draw")
+("Crystal Palace", "Brighton", "draw")
+("Tottenham", "West Ham", "draw")
+("Leicester City", "Aston Villa", "win_b")
+("West Brom", "Burnley", "draw")
+("Leeds United", "Wolves", "win_b")
+("Aston Villa", "Leeds United", "win_b")
+("West Ham", "Man City", "draw")
+("Fulham", "Crystal Palace", "win_b")
+("Man United", "Chelsea", "draw")
+("Liverpool", "Sheffield Utd", "win_a")
+("Southampton", "Everton", "win_a")
+("Wolves", "Newcastle", "draw")
+("Arsenal", "Leicester City", "win_b")
+("Brighton", "West Brom", "draw")
+("Burnley", "Tottenham", "win_b")
+("Wolves", "Crystal Palace", "win_a")
+("Sheffield Utd", "Man City", "win_b")
+("Burnley", "Chelsea", "win_b")
+("Liverpool", "West Ham", "win_a")
+("Aston Villa", "Southampton", "win_b")
+("Newcastle", "Everton", "win_a")
+("Man United", "Arsenal", "win_b")
+("Tottenham", "Brighton", "win_a")
+("Fulham", "West Brom", "win_a")
+("Leeds United", "Leicester City", "win_b")
+("Brighton", "Burnley", "draw")
+("Southampton", "Newcastle", "win_a")
+("Everton", "Man United", "win_b")
+("Crystal Palace", "Leeds United", "win_a")
+("Chelsea", "Sheffield Utd", "win_a")
+("West Ham", "Fulham", "win_a")
+("West Brom", "Tottenham", "win_b")
+("Leicester City", "Wolves", "win_a")
+("Man City", "Liverpool", "draw")
+("Arsenal", "Aston Villa", "win_b")
+("Newcastle", "Chelsea", "win_b")
+("Aston Villa", "Brighton", "win_b")
+("Tottenham", "Man City", "win_a")
+("Man United", "West Brom", "win_a")
+("Fulham", "Everton", "win_b")
+("Sheffield Utd", "West Ham", "win_b")
+("Leeds United", "Arsenal", "draw")
+("Liverpool", "Leicester City", "win_a")
+("Burnley", "Crystal Palace", "win_a")
+("Wolves", "Southampton", "draw")
+("Crystal Palace", "Newcastle", "win_b")
+("Brighton", "Liverpool", "draw")
+("Man City", "Burnley", "win_a")
+("Everton", "Leeds United", "win_b")
+("West Brom", "Sheffield Utd", "win_a")
+("Southampton", "Man United", "win_b")
+("Chelsea", "Tottenham", "draw")
+("Arsenal", "Wolves", "win_b")
+("Leicester City", "Fulham", "win_b")
+("West Ham", "Aston Villa", "win_a")
+("Burnley", "Everton", "draw")
+("Man City", "Fulham", "win_a")
+("West Ham", "Man United", "win_b")
+("Chelsea", "Leeds United", "win_a")
+("West Brom", "Crystal Palace", "win_b")
+("Sheffield Utd", "Leicester City", "win_b")
+("Tottenham", "Arsenal", "win_a")
+("Liverpool", "Wolves", "win_a")
+("Brighton", "Southampton", "win_b")
+("Leeds United", "West Ham", "win_b")
+("Wolves", "Aston Villa", "win_b")
+("Newcastle", "West Brom", "win_a")
+("Man United", "Man City", "draw")
+("Everton", "Chelsea", "win_a")
+("Southampton", "Sheffield Utd", "win_a")
+("Crystal Palace", "Tottenham", "draw")
+("Fulham", "Liverpool", "draw")
+("Leicester City", "Brighton", "win_a")
+("Arsenal", "Burnley", "win_b")
+("Wolves", "Chelsea", "win_a")
+("Man City", "West Brom", "draw")
+("Leeds United", "Newcastle", "win_a")
+("Arsenal", "Southampton", "draw")
+("Leicester City", "Everton", "win_b")
+("Liverpool", "Tottenham", "win_a")
+("West Ham", "Crystal Palace", "draw")
+("Fulham", "Brighton", "draw")
+("Aston Villa", "Burnley", "draw")
+("Sheffield Utd", "Man United", "win_b")
+("Crystal Palace", "Liverpool", "win_b")
+("Southampton", "Man City", "win_b")
+("Everton", "Arsenal", "win_a")
+("Newcastle", "Fulham", "draw")
+("Brighton", "Sheffield Utd", "draw")
+("Tottenham", "Leicester City", "win_b")
+("Man United", "Leeds United", "win_a")
+("West Brom", "Aston Villa", "win_b")
+("Burnley", "Wolves", "win_a")
+("Chelsea", "West Ham", "win_a")
+("Leicester City", "Man United", "draw")
+("Fulham", "Southampton", "draw")
+("Aston Villa", "Crystal Palace", "win_a")
+("Arsenal", "Chelsea", "win_a")
+("Sheffield Utd", "Everton", "win_b")
+("Man City", "Newcastle", "win_a")
+("Leeds United", "Burnley", "win_a")
+("West Ham", "Brighton", "draw")
+("Liverpool", "West Brom", "draw")
+("Wolves", "Tottenham", "draw")
+("Crystal Palace", "Leicester City", "draw")
+("Chelsea", "Aston Villa", "draw")
+("Burnley", "Sheffield Utd", "win_a")
+("West Brom", "Leeds United", "win_b")
+("Brighton", "Arsenal", "win_b")
+("Southampton", "West Ham", "draw")
+("Man United", "Wolves", "win_a")
+("Newcastle", "Liverpool", "draw")
+("Everton", "West Ham", "win_b")
+("Man United", "Aston Villa", "win_a")
+("Tottenham", "Leeds United", "win_a")
+("Crystal Palace", "Sheffield Utd", "win_a")
+("Brighton", "Wolves", "draw")
+("West Brom", "Arsenal", "win_b")
+("Newcastle", "Leicester City", "win_b")
+("Chelsea", "Man City", "win_b")
+("Southampton", "Liverpool", "win_a")
+("Burnley", "Man United", "win_b")
+("Sheffield Utd", "Newcastle", "win_a")
+("Wolves", "Everton", "win_b")
+("Tottenham", "Fulham", "draw")
+("Man City", "Brighton", "win_a")
+("Arsenal", "Crystal Palace", "draw")
+("Wolves", "West Brom", "win_b")
+("Leeds United", "Brighton", "win_b")
+("West Ham", "Burnley", "win_a")
+("Fulham", "Chelsea", "win_b")
+("Leicester City", "Southampton", "win_a")
+("Sheffield Utd", "Tottenham", "win_b")
+("Liverpool", "Man United", "draw")
+("Man City", "Crystal Palace", "win_a")
+("Arsenal", "Newcastle", "win_a")
+("West Ham", "West Brom", "win_a")
+("Leicester City", "Chelsea", "win_a")
+("Man City", "Aston Villa", "win_a")
+("Fulham", "Man United", "win_b")
+("Liverpool", "Burnley", "win_b")
+("Aston Villa", "Newcastle", "win_a")
+("Newcastle", "Leeds United", "win_b")
+("Crystal Palace", "West Ham", "win_b")
+("Southampton", "Arsenal", "win_b")
+("West Brom", "Man City", "win_b")
+("Burnley", "Aston Villa", "win_a")
+("Chelsea", "Wolves", "draw")
+("Brighton", "Fulham", "draw")
+("Everton", "Leicester City", "draw")
+("Man United", "Sheffield Utd", "win_b")
+("Tottenham", "Liverpool", "win_b")
+("Everton", "Newcastle", "win_b")
+("West Brom", "Fulham", "draw")
+("Man City", "Sheffield Utd", "win_a")
+("Crystal Palace", "Wolves", "win_a")
+("Arsenal", "Man United", "draw")
+("Southampton", "Aston Villa", "win_b")
+("Chelsea", "Burnley", "win_a")
+("Leicester City", "Leeds United", "win_b")
+("West Ham", "Liverpool", "win_b")
+("Brighton", "Tottenham", "win_a")
+("Wolves", "Arsenal", "win_a")
+("Sheffield Utd", "West Brom", "win_a")
+("Man United", "Southampton", "win_a")
+("Newcastle", "Crystal Palace", "win_b")
+("Burnley", "Man City", "win_b")
+("Fulham", "Leicester City", "win_b")
+("Leeds United", "Everton", "win_b")
+("Liverpool", "Brighton", "win_b")
+("Aston Villa", "West Ham", "win_b")
+("Tottenham", "Chelsea", "win_b")
+("Aston Villa", "Arsenal", "win_a")
+("Newcastle", "Southampton", "win_a")
+("Burnley", "Brighton", "draw")
+("Fulham", "West Ham", "draw")
+("Man United", "Everton", "draw")
+("Tottenham", "West Brom", "win_a")
+("Wolves", "Leicester City", "draw")
+("Liverpool", "Man City", "win_b")
+("Sheffield Utd", "Chelsea", "win_b")
+("Leeds United", "Crystal Palace", "win_a")
+("Leicester City", "Liverpool", "win_a")
+("Crystal Palace", "Burnley", "win_b")
+("Man City", "Tottenham", "win_a")
+("Brighton", "Aston Villa", "draw")
+("Southampton", "Wolves", "win_b")
+("West Brom", "Man United", "draw")
+("Arsenal", "Leeds United", "win_a")
+("Everton", "Fulham", "win_b")
+("West Ham", "Sheffield Utd", "win_a")
+("Chelsea", "Newcastle", "win_a")
+("Everton", "Man City", "win_b")
+("Burnley", "Fulham", "draw")
+("Wolves", "Leeds United", "win_a")
+("Southampton", "Chelsea", "draw")
+("Burnley", "West Brom", "draw")
+("Liverpool", "Everton", "win_b")
+("Fulham", "Sheffield Utd", "win_a")
+("West Ham", "Tottenham", "win_a")
+("Aston Villa", "Leicester City", "win_b")
+("Arsenal", "Man City", "win_b")
+("Man United", "Newcastle", "win_a")
+("Brighton", "Crystal Palace", "win_b")
+("Leeds United", "Southampton", "win_a")
+("Man City", "West Ham", "win_a")
+("West Brom", "Brighton", "win_a")
+("Leeds United", "Aston Villa", "win_b")
+("Newcastle", "Wolves", "draw")
+("Crystal Palace", "Fulham", "draw")
+("Leicester City", "Arsenal", "win_b")
+("Tottenham", "Burnley", "win_a")
+("Chelsea", "Man United", "draw")
+("Sheffield Utd", "Liverpool", "win_b")
+("Everton", "Southampton", "win_a")
+("Man City", "Wolves", "win_a")
+("Burnley", "Leicester City", "draw")
+("Sheffield Utd", "Aston Villa", "win_a")
+("Crystal Palace", "Man United", "draw")
+("West Brom", "Everton", "win_b")
+("Liverpool", "Chelsea", "win_b")
+("Fulham", "Tottenham", "win_b")
+("Burnley", "Arsenal", "draw")
+("Sheffield Utd", "Southampton", "win_b")
+("Aston Villa", "Wolves", "draw")
+("Brighton", "Leicester City", "win_b")
+("West Brom", "Newcastle", "draw")
+("Liverpool", "Fulham", "win_b")
+("Man City", "Man United", "win_b")
+("Tottenham", "Crystal Palace", "win_a")
+("Chelsea", "Everton", "win_a")
+("West Ham", "Leeds United", "win_a")
+("Man City", "Southampton", "win_a")
+("Newcastle", "Aston Villa", "draw")
+("Leeds United", "Chelsea", "draw")
+("Crystal Palace", "West Brom", "win_a")
+("Everton", "Burnley", "win_b")
+("Fulham", "Man City", "win_b")
+("Southampton", "Brighton", "win_b")
+("Leicester City", "Sheffield Utd", "win_a")
+("Arsenal", "Tottenham", "win_a")
+("Man United", "West Ham", "win_a")
+("Wolves", "Liverpool", "win_b")
+("Fulham", "Leeds United", "win_b")
+("Brighton", "Newcastle", "win_a")
+("Aston Villa", "Tottenham", "win_b")
+("West Ham", "Arsenal", "draw")
+("Chelsea", "West Brom", "win_b")
+("Leeds United", "Sheffield Utd", "win_a")
+("Leicester City", "Man City", "win_b")
+("Arsenal", "Liverpool", "win_b")
+("Southampton", "Burnley", "win_a")
+("Newcastle", "Tottenham", "draw")
+("Aston Villa", "Fulham", "win_a")
+("Man United", "Brighton", "win_a")
+("Everton", "Crystal Palace", "draw")
+("Wolves", "West Ham", "win_b")
+("Fulham", "Wolves", "win_b")
+("Man City", "Leeds United", "win_b")
+("Liverpool", "Aston Villa", "win_a")
+("Crystal Palace", "Chelsea", "win_b")
+("Burnley", "Newcastle", "win_b")
+("West Ham", "Leicester City", "win_a")
+("Tottenham", "Man United", "win_b")
+("Sheffield Utd", "Arsenal", "win_b")
+("West Brom", "Southampton", "win_a")
+("Brighton", "Everton", "draw")
+("Everton", "Tottenham", "draw")
+("Newcastle", "West Ham", "win_a")
+("Wolves", "Sheffield Utd", "win_a")
+("Arsenal", "Fulham", "draw")
+("Man United", "Burnley", "win_a")
+("Leeds United", "Liverpool", "draw")
+("Chelsea", "Brighton", "draw")
+("Tottenham", "Southampton", "win_a")
+("Aston Villa", "Man City", "win_b")
+("Leicester City", "West Brom", "win_a")
+("Arsenal", "Everton", "win_b")
+("Liverpool", "Newcastle", "draw")
+("West Ham", "Chelsea", "win_b")
+("Sheffield Utd", "Brighton", "win_a")
+("Wolves", "Burnley", "win_b")
+("Leeds United", "Man United", "draw")
+("Aston Villa", "West Brom", "draw")
+("Leicester City", "Crystal Palace", "win_a")
+("Southampton", "Leicester City", "draw")
+("Crystal Palace", "Man City", "win_b")
+("Brighton", "Leeds United", "win_a")
+("Chelsea", "Fulham", "win_a")
+("Everton", "Aston Villa", "win_b")
+("Newcastle", "Arsenal", "win_b")
+("Tottenham", "Sheffield Utd", "win_a")
+("West Brom", "Wolves", "draw")
+("Burnley", "West Ham", "win_b")
+("Leicester City", "Newcastle", "win_b")
+("Leeds United", "Tottenham", "win_a")
+("Sheffield Utd", "Crystal Palace", "win_b")
+("Man City", "Chelsea", "win_b")
+("Liverpool", "Southampton", "win_a")
+("Wolves", "Brighton", "win_a")
+("Aston Villa", "Man United", "win_b")
+("West Ham", "Everton", "win_b")
+("Arsenal", "West Brom", "win_a")
+("Fulham", "Burnley", "win_b")
+("Southampton", "Crystal Palace", "win_a")
+("Man United", "Leicester City", "win_b")
+("Chelsea", "Arsenal", "win_b")
+("Aston Villa", "Everton", "draw")
+("Man United", "Liverpool", "win_b")
+("Newcastle", "Man City", "win_b")
+("Burnley", "Leeds United", "win_b")
+("Southampton", "Fulham", "win_a")
+("Brighton", "West Ham", "draw")
+("Crystal Palace", "Aston Villa", "win_a")
+("Tottenham", "Wolves", "win_a")
+("West Brom", "Liverpool", "win_b")
+("Everton", "Sheffield Utd", "win_b")
+("Man United", "Fulham", "draw")
+("Southampton", "Leeds United", "win_b")
+("Brighton", "Man City", "win_a")
+("Chelsea", "Leicester City", "win_a")
+("Tottenham", "Aston Villa", "win_b")
+("Everton", "Wolves", "win_a")
+("Newcastle", "Sheffield Utd", "win_a")
+("Crystal Palace", "Arsenal", "win_b")
+("Burnley", "Liverpool", "win_b")
+("West Brom", "West Ham", "win_b")
+("Leicester City", "Tottenham", "win_b")
+("Man City", "Everton", "win_a")
+("Liverpool", "Crystal Palace", "win_a")
+("Sheffield Utd", "Burnley", "win_a")
+("Wolves", "Man United", "win_b")
+("Arsenal", "Brighton", "win_a")
+("Leeds United", "West Brom", "win_a")
+("Fulham", "Newcastle", "win_b")
+("Aston Villa", "Chelsea", "win_a")
+("West Ham", "Southampton", "win_a")
+("Brentford", "Arsenal", "win_a")
+("Man United", "Leeds United", "win_a")
+("Watford", "Aston Villa", "win_a")
+("Chelsea", "Crystal Palace", "win_a")
+("Everton", "Southampton", "win_a")
+("Burnley", "Brighton", "win_b")
+("Leicester City", "Wolves", "win_a")
+("Norwich City", "Liverpool", "win_b")
+("Newcastle", "West Ham", "win_b")
+("Tottenham", "Man City", "win_a")
+("Liverpool", "Burnley", "win_a")
+("Leeds United", "Everton", "draw")
+("Aston Villa", "Newcastle", "win_a")
+("Crystal Palace", "Brentford", "draw")
+("Man City", "Norwich City", "win_a")
+("Brighton", "Watford", "win_a")
+("Southampton", "Man United", "draw")
+("Wolves", "Tottenham", "win_b")
+("Arsenal", "Chelsea", "win_b")
+("West Ham", "Leicester City", "win_a")
+("Man City", "Arsenal", "win_a")
+("West Ham", "Crystal Palace", "draw")
+("Norwich City", "Leicester City", "win_b")
+("Brighton", "Everton", "win_b")
+("Newcastle", "Southampton", "draw")
+("Aston Villa", "Brentford", "draw")
+("Liverpool", "Chelsea", "draw")
+("Burnley", "Leeds United", "draw")
+("Tottenham", "Watford", "win_a")
+("Wolves", "Man United", "win_b")
+("Crystal Palace", "Tottenham", "win_a")
+("Southampton", "West Ham", "draw")
+("Man United", "Newcastle", "win_a")
+("Arsenal", "Norwich City", "win_a")
+("Leicester City", "Man City", "win_b")
+("Watford", "Wolves", "win_b")
+("Brentford", "Brighton", "win_b")
+("Chelsea", "Aston Villa", "win_a")
+("Leeds United", "Liverpool", "win_b")
+("Everton", "Burnley", "win_a")
+("Newcastle", "Leeds United", "draw")
+("Wolves", "Brentford", "win_b")
+("Liverpool", "Crystal Palace", "win_a")
+("Norwich City", "Watford", "win_b")
+("Man City", "Southampton", "draw")
+("Burnley", "Arsenal", "win_b")
+("Aston Villa", "Everton", "win_a")
+("West Ham", "Man United", "win_b")
+("Brighton", "Leicester City", "win_a")
+("Tottenham", "Chelsea", "win_b")
+("Chelsea", "Man City", "win_b")
+("Man United", "Aston Villa", "win_b")
+("Everton", "Norwich City", "win_a")
+("Leeds United", "West Ham", "win_b")
+("Watford", "Newcastle", "draw")
+("Leicester City", "Burnley", "draw")
+("Brentford", "Liverpool", "draw")
+("Southampton", "Wolves", "win_b")
+("Arsenal", "Tottenham", "win_a")
+("Crystal Palace", "Brighton", "draw")
+("Man United", "Everton", "draw")
+("Leeds United", "Watford", "win_a")
+("Wolves", "Newcastle", "win_a")
+("Burnley", "Norwich City", "draw")
+("Chelsea", "Southampton", "win_a")
+("Brighton", "Arsenal", "draw")
+("Crystal Palace", "Leicester City", "draw")
+("West Ham", "Brentford", "win_b")
+("Tottenham", "Aston Villa", "win_a")
+("Liverpool", "Man City", "draw")
+("Watford", "Liverpool", "win_b")
+("Leicester City", "Man United", "win_a")
+("Southampton", "Leeds United", "win_a")
+("Man City", "Burnley", "win_a")
+("Aston Villa", "Wolves", "win_b")
+("Norwich City", "Brighton", "draw")
+("Brentford", "Chelsea", "win_b")
+("Everton", "West Ham", "win_b")
+("Newcastle", "Tottenham", "win_b")
+("Arsenal", "Crystal Palace", "draw")
+("Arsenal", "Aston Villa", "win_a")
+("Chelsea", "Norwich City", "win_a")
+("Southampton", "Burnley", "draw")
+("Crystal Palace", "Newcastle", "draw")
+("Everton", "Watford", "win_b")
+("Leeds United", "Wolves", "draw")
+("Brighton", "Man City", "win_b")
+("West Ham", "Tottenham", "win_a")
+("Brentford", "Leicester City", "win_b")
+("Man United", "Liverpool", "win_b")
+("Leicester City", "Arsenal", "win_b")
+("Watford", "Southampton", "win_b")
+("Newcastle", "Chelsea", "win_b")
+("Liverpool", "Brighton", "draw")
+("Burnley", "Brentford", "win_a")
+("Man City", "Crystal Palace", "win_b")
+("Tottenham", "Man United", "win_b")
+("Norwich City", "Leeds United", "win_b")
+("Aston Villa", "West Ham", "win_b")
+("Wolves", "Everton", "win_a")
+("Southampton", "Aston Villa", "win_a")
+("Man United", "Man City", "win_b")
+("Crystal Palace", "Wolves", "win_a")
+("Chelsea", "Burnley", "draw")
+("Brentford", "Norwich City", "win_b")
+("Brighton", "Newcastle", "draw")
+("Leeds United", "Leicester City", "draw")
+("Everton", "Tottenham", "draw")
+("Arsenal", "Watford", "win_a")
+("West Ham", "Liverpool", "win_a")
+("Leicester City", "Chelsea", "win_b")
+("Newcastle", "Brentford", "draw")
+("Aston Villa", "Brighton", "win_a")
+("Watford", "Man United", "win_a")
+("Norwich City", "Southampton", "win_a")
+("Wolves", "West Ham", "win_a")
+("Burnley", "Crystal Palace", "draw")
+("Liverpool", "Arsenal", "win_a")
+("Man City", "Everton", "win_a")
+("Tottenham", "Leeds United", "win_a")
+("Arsenal", "Newcastle", "win_a")
+("Crystal Palace", "Aston Villa", "win_b")
+("Norwich City", "Wolves", "draw")
+("Liverpool", "Southampton", "win_a")
+("Brighton", "Leeds United", "draw")
+("Brentford", "Everton", "win_a")
+("Leicester City", "Watford", "win_a")
+("Man City", "West Ham", "win_a")
+("Chelsea", "Man United", "draw")
+("Newcastle", "Norwich City", "draw")
+("Leeds United", "Crystal Palace", "win_a")
+("Wolves", "Burnley", "draw")
+("Southampton", "Leicester City", "draw")
+("Watford", "Chelsea", "win_b")
+("West Ham", "Brighton", "draw")
+("Everton", "Liverpool", "win_b")
+("Aston Villa", "Man City", "win_b")
+("Tottenham", "Brentford", "win_a")
+("Man United", "Arsenal", "win_a")
+("West Ham", "Chelsea", "win_a")
+("Wolves", "Liverpool", "win_b")
+("Southampton", "Brighton", "draw")
+("Newcastle", "Burnley", "win_a")
+("Watford", "Man City", "win_b")
+("Tottenham", "Norwich City", "win_a")
+("Man United", "Crystal Palace", "win_a")
+("Leeds United", "Brentford", "draw")
+("Aston Villa", "Leicester City", "win_a")
+("Everton", "Arsenal", "win_a")
+("Brentford", "Watford", "win_a")
+("Man City", "Wolves", "win_a")
+("Liverpool", "Aston Villa", "win_a")
+("Chelsea", "Leeds United", "win_a")
+("Arsenal", "Southampton", "win_a")
+("Norwich City", "Man United", "win_b")
+("Burnley", "West Ham", "draw")
+("Leicester City", "Newcastle", "win_a")
+("Crystal Palace", "Everton", "win_a")
+("Norwich City", "Aston Villa", "win_b")
+("Man City", "Leeds United", "win_a")
+("Crystal Palace", "Southampton", "draw")
+("Brighton", "Wolves", "win_b")
+("Arsenal", "West Ham", "win_a")
+("Chelsea", "Everton", "draw")
+("Liverpool", "Newcastle", "win_a")
+("Leeds United", "Arsenal", "win_b")
+("Wolves", "Chelsea", "draw")
+("Newcastle", "Man City", "win_b")
+("Tottenham", "Liverpool", "draw")
+("West Ham", "Southampton", "win_b")
+("Man City", "Leicester City", "win_a")
+("Norwich City", "Arsenal", "win_b")
+("Tottenham", "Crystal Palace", "win_a")
+("Aston Villa", "Chelsea", "win_b")
+("Brighton", "Brentford", "win_a")
+("Newcastle", "Man United", "draw")
+("Southampton", "Tottenham", "draw")
+("Crystal Palace", "Norwich City", "win_a")
+("Watford", "West Ham", "win_b")
+("Leicester City", "Liverpool", "win_a")
+("Chelsea", "Brighton", "draw")
+("Brentford", "Man City", "win_b")
+("Man United", "Burnley", "win_a")
+("Arsenal", "Man City", "win_b")
+("Watford", "Tottenham", "win_b")
+("Crystal Palace", "West Ham", "win_b")
+("Leeds United", "Burnley", "win_a")
+("Everton", "Brighton", "win_b")
+("Brentford", "Aston Villa", "win_a")
+("Chelsea", "Liverpool", "draw")
+("Man United", "Wolves", "win_b")
+("Southampton", "Brentford", "win_a")
+("West Ham", "Norwich City", "win_a")
+("Brighton", "Crystal Palace", "draw")
+("Man City", "Chelsea", "win_a")
+("Newcastle", "Watford", "draw")
+("Wolves", "Southampton", "win_a")
+("Norwich City", "Everton", "win_a")
+("Aston Villa", "Man United", "draw")
+("West Ham", "Leeds United", "win_b")
+("Liverpool", "Brentford", "win_a")
+("Brighton", "Chelsea", "draw")
+("Leicester City", "Tottenham", "win_b")
+("Brentford", "Man United", "win_b")
+("Watford", "Norwich City", "win_b")
+("Everton", "Aston Villa", "win_b")
+("Man United", "West Ham", "win_a")
+("Brentford", "Wolves", "win_b")
+("Leeds United", "Newcastle", "win_b")
+("Southampton", "Man City", "draw")
+("Leicester City", "Brighton", "draw")
+("Crystal Palace", "Liverpool", "win_b")
+("Arsenal", "Burnley", "draw")
+("Chelsea", "Tottenham", "win_a")
+("Burnley", "Watford", "draw")
+("Newcastle", "Everton", "win_a")
+("West Ham", "Watford", "win_a")
+("Burnley", "Man United", "draw")
+("Tottenham", "Southampton", "win_b")
+("Man City", "Brentford", "win_a")
+("Norwich City", "Crystal Palace", "draw")
+("Aston Villa", "Leeds United", "draw")
+("Wolves", "Arsenal", "win_b")
+("Liverpool", "Leicester City", "win_a")
+("Man United", "Southampton", "draw")
+("Brentford", "Crystal Palace", "draw")
+("Everton", "Leeds United", "win_a")
+("Watford", "Brighton", "win_b")
+("Norwich City", "Man City", "win_b")
+("Tottenham", "Wolves", "win_b")
+("Burnley", "Liverpool", "win_b")
+("Newcastle", "Aston Villa", "win_a")
+("Leicester City", "West Ham", "draw")
+("Man United", "Brighton", "win_a")
+("West Ham", "Newcastle", "draw")
+("Aston Villa", "Watford", "win_b")
+("Liverpool", "Norwich City", "win_a")
+("Crystal Palace", "Chelsea", "win_b")
+("Arsenal", "Brentford", "win_a")
+("Southampton", "Everton", "win_a")
+("Brighton", "Burnley", "win_b")
+("Man City", "Tottenham", "win_b")
+("Leeds United", "Man United", "win_b")
+("Wolves", "Leicester City", "win_a")
+("Burnley", "Tottenham", "win_a")
+("Watford", "Crystal Palace", "win_b")
+("Liverpool", "Leeds United", "win_a")
+("Arsenal", "Wolves", "win_a")
+("Southampton", "Norwich City", "win_a")
+("Leeds United", "Tottenham", "win_b")
+("Crystal Palace", "Burnley", "draw")
+("Brighton", "Aston Villa", "win_b")
+("Man United", "Watford", "draw")
+("Brentford", "Newcastle", "win_b")
+("Everton", "Man City", "win_b")
+("West Ham", "Wolves", "win_a")
+("Burnley", "Leicester City", "win_b")
+("Leicester City", "Leeds United", "win_a")
+("Wolves", "Crystal Palace", "win_b")
+("Aston Villa", "Southampton", "win_a")
+("Newcastle", "Brighton", "win_a")
+("Norwich City", "Brentford", "win_b")
+("Burnley", "Chelsea", "win_b")
+("Liverpool", "West Ham", "win_a")
+("Watford", "Arsenal", "win_b")
+("Man City", "Man United", "win_a")
+("Tottenham", "Everton", "win_a")
+("Wolves", "Watford", "win_a")
+("Leeds United", "Aston Villa", "win_b")
+("Southampton", "Newcastle", "win_b")
+("Norwich City", "Chelsea", "win_b")
+("Brighton", "Liverpool", "win_b")
+("Brentford", "Burnley", "win_a")
+("Man United", "Tottenham", "win_a")
+("Leeds United", "Norwich City", "win_a")
+("Chelsea", "Newcastle", "win_a")
+("West Ham", "Aston Villa", "win_a")
+("Southampton", "Watford", "win_b")
+("Everton", "Wolves", "win_b")
+("Arsenal", "Leicester City", "win_a")
+("Crystal Palace", "Man City", "draw")
+("Brighton", "Tottenham", "win_b")
+("Arsenal", "Liverpool", "win_b")
+("Everton", "Newcastle", "win_a")
+("Wolves", "Leeds United", "win_b")
+("Aston Villa", "Arsenal", "win_b")
+("Leicester City", "Brentford", "win_a")
+("Tottenham", "West Ham", "win_a")
+("Liverpool", "Watford", "win_a")
+("Leeds United", "Southampton", "draw")
+("Burnley", "Man City", "win_b")
+("Wolves", "Aston Villa", "win_a")
+("Chelsea", "Brentford", "win_b")
+("Brighton", "Norwich City", "draw")
+("Man United", "Leicester City", "draw")
+("West Ham", "Everton", "win_a")
+("Tottenham", "Newcastle", "win_a")
+("Crystal Palace", "Arsenal", "win_a")
+("Burnley", "Everton", "win_a")
+("Newcastle", "Wolves", "win_a")
+("Everton", "Man United", "win_a")
+("Arsenal", "Brighton", "win_b")
+("Southampton", "Chelsea", "win_b")
+("Watford", "Leeds United", "win_b")
+("Aston Villa", "Tottenham", "win_b")
+("Norwich City", "Burnley", "win_a")
+("Brentford", "West Ham", "win_a")
+("Leicester City", "Crystal Palace", "win_a")
+("Man City", "Liverpool", "draw")
+("Tottenham", "Brighton", "win_b")
+("Man United", "Norwich City", "win_a")
+("Southampton", "Arsenal", "win_a")
+("Watford", "Brentford", "win_b")
+("West Ham", "Burnley", "draw")
+("Newcastle", "Leicester City", "win_a")
+("Liverpool", "Man United", "win_a")
+("Everton", "Leicester City", "draw")
+("Chelsea", "Arsenal", "win_b")
+("Newcastle", "Crystal Palace", "win_a")
+("Man City", "Brighton", "win_a")
+("Burnley", "Southampton", "win_a")
+("Arsenal", "Man United", "win_a")
+("Man City", "Watford", "win_a")
+("Leicester City", "Aston Villa", "draw")
+("Norwich City", "Newcastle", "win_b")
+("Brentford", "Tottenham", "draw")
+("Chelsea", "West Ham", "win_a")
+("Burnley", "Wolves", "win_a")
+("Brighton", "Southampton", "draw")
+("Liverpool", "Everton", "win_a")
+("Crystal Palace", "Leeds United", "draw")
+("Man United", "Chelsea", "draw")
+("Newcastle", "Liverpool", "win_b")
+("Watford", "Burnley", "win_b")
+("Southampton", "Crystal Palace", "win_b")
+("Wolves", "Brighton", "win_b")
+("Aston Villa", "Norwich City", "win_a")
+("Leeds United", "Man City", "win_b")
+("Tottenham", "Leicester City", "win_a")
+("Everton", "Chelsea", "win_a")
+("West Ham", "Arsenal", "win_b")
+("Man United", "Brentford", "win_a")
+("Chelsea", "Wolves", "draw")
+("Brentford", "Southampton", "win_a")
+("Crystal Palace", "Watford", "win_a")
+("Burnley", "Aston Villa", "win_b")
+("Brighton", "Man United", "win_a")
+("Liverpool", "Tottenham", "draw")
+("Norwich City", "West Ham", "win_b")
+("Arsenal", "Leeds United", "win_a")
+("Leicester City", "Everton", "win_b")
+("Man City", "Newcastle", "win_a")
+("Aston Villa", "Liverpool", "win_b")
+("Leicester City", "Norwich City", "win_a")
+("Watford", "Everton", "draw")
+("Leeds United", "Chelsea", "win_b")
+("Wolves", "Man City", "win_b")
+("Tottenham", "Arsenal", "win_a")
+("Tottenham", "Burnley", "win_a")
+("Watford", "Leicester City", "win_b")
+("West Ham", "Man City", "draw")
+("Leeds United", "Brighton", "draw")
+("Wolves", "Norwich City", "draw")
+("Aston Villa", "Crystal Palace", "draw")
+("Everton", "Brentford", "win_b")
+("Newcastle", "Arsenal", "win_a")
+("Southampton", "Liverpool", "win_b")
+("Aston Villa", "Burnley", "draw")
+("Chelsea", "Leicester City", "draw")
+("Everton", "Crystal Palace", "win_a")
+("Brighton", "West Ham", "win_a")
+("Brentford", "Leeds United", "win_b")
+("Leicester City", "Southampton", "win_a")
+("Arsenal", "Everton", "win_a")
+("Crystal Palace", "Man United", "win_a")
+("Norwich City", "Tottenham", "win_b")
+("Burnley", "Newcastle", "win_b")
+("Liverpool", "Wolves", "win_a")
+("Man City", "Aston Villa", "win_a")
+("Chelsea", "Watford", "win_a")
+("Crystal Palace", "Arsenal", "win_b")
+("Fulham", "Liverpool", "draw")
+("Tottenham", "Southampton", "win_a")
+("Newcastle", "Nottingham Forest", "win_a")
+("Leeds United", "Wolves", "win_a")
+("Bournemouth", "Aston Villa", "win_a")
+("Everton", "Chelsea", "win_b")
+("Leicester City", "Brentford", "draw")
+("Man United", "Brighton", "win_b")
+("West Ham", "Man City", "win_b")
+("Aston Villa", "Everton", "win_a")
+("Man City", "Bournemouth", "win_a")
+("Southampton", "Leeds United", "draw")
+("Wolves", "Fulham", "draw")
+("Arsenal", "Leicester City", "win_a")
+("Brighton", "Newcastle", "draw")
+("Brentford", "Man United", "win_a")
+("Nottingham Forest", "West Ham", "win_a")
+("Chelsea", "Tottenham", "draw")
+("Liverpool", "Crystal Palace", "draw")
+("Tottenham", "Wolves", "win_a")
+("Leicester City", "Southampton", "win_b")
+("Everton", "Nottingham Forest", "draw")
+("Crystal Palace", "Aston Villa", "win_a")
+("Fulham", "Brentford", "win_a")
+("Bournemouth", "Arsenal", "win_b")
+("Leeds United", "Chelsea", "win_a")
+("West Ham", "Brighton", "win_b")
+("Newcastle", "Man City", "draw")
+("Man United", "Liverpool", "win_a")
+("Southampton", "Man United", "win_b")
+("Man City", "Crystal Palace", "win_a")
+("Brighton", "Leeds United", "win_a")
+("Chelsea", "Leicester City", "win_a")
+("Brentford", "Everton", "draw")
+("Liverpool", "Bournemouth", "win_a")
+("Arsenal", "Fulham", "win_a")
+("Wolves", "Newcastle", "draw")
+("Aston Villa", "West Ham", "win_b")
+("Nottingham Forest", "Tottenham", "win_b")
+("Fulham", "Brighton", "win_a")
+("Crystal Palace", "Brentford", "draw")
+("Southampton", "Chelsea", "win_a")
+("Leeds United", "Everton", "draw")
+("Bournemouth", "Wolves", "draw")
+("Man City", "Nottingham Forest", "win_a")
+("Arsenal", "Aston Villa", "win_a")
+("West Ham", "Tottenham", "draw")
+("Liverpool", "Newcastle", "win_a")
+("Leicester City", "Man United", "win_b")
+("Everton", "Liverpool", "draw")
+("Nottingham Forest", "Bournemouth", "win_b")
+("Wolves", "Southampton", "win_a")
+("Newcastle", "Crystal Palace", "draw")
+("Brentford", "Leeds United", "win_a")
+("Tottenham", "Fulham", "win_a")
+("Chelsea", "West Ham", "win_a")
+("Aston Villa", "Man City", "draw")
+("Brighton", "Leicester City", "win_a")
+("Man United", "Arsenal", "win_a")
+("Aston Villa", "Southampton", "win_a")
+("Nottingham Forest", "Fulham", "win_b")
+("Wolves", "Man City", "win_b")
+("Newcastle", "Bournemouth", "draw")
+("Tottenham", "Leicester City", "win_a")
+("Brentford", "Arsenal", "win_b")
+("Everton", "West Ham", "win_a")
+("Arsenal", "Tottenham", "win_a")
+("Southampton", "Everton", "win_b")
+("Crystal Palace", "Chelsea", "win_b")
+("Liverpool", "Brighton", "draw")
+("Fulham", "Newcastle", "win_b")
+("Bournemouth", "Brentford", "draw")
+("West Ham", "Wolves", "win_a")
+("Man City", "Man United", "win_a")
+("Leeds United", "Aston Villa", "draw")
+("Leicester City", "Nottingham Forest", "win_a")
+("Bournemouth", "Leicester City", "win_a")
+("Newcastle", "Brentford", "win_a")
+("Man City", "Southampton", "win_a")
+("Chelsea", "Wolves", "win_a")
+("Brighton", "Tottenham", "win_b")
+("West Ham", "Fulham", "win_a")
+("Crystal Palace", "Leeds United", "win_a")
+("Arsenal", "Liverpool", "win_a")
+("Everton", "Man United", "win_b")
+("Nottingham Forest", "Aston Villa", "draw")
+("Brentford", "Brighton", "win_a")
+("Leicester City", "Crystal Palace", "draw")
+("Fulham", "Bournemouth", "draw")
+("Wolves", "Nottingham Forest", "win_a")
+("Tottenham", "Everton", "win_a")
+("Southampton", "West Ham", "draw")
+("Aston Villa", "Chelsea", "win_b")
+("Leeds United", "Arsenal", "win_b")
+("Man United", "Newcastle", "draw")
+("Liverpool", "Man City", "win_a")
+("Brighton", "Nottingham Forest", "draw")
+("Crystal Palace", "Wolves", "win_a")
+("Bournemouth", "Southampton", "win_b")
+("Brentford", "Chelsea", "draw")
+("Liverpool", "West Ham", "win_a")
+("Newcastle", "Everton", "win_a")
+("Man United", "Tottenham", "win_a")
+("Fulham", "Aston Villa", "win_a")
+("Leicester City", "Leeds United", "win_a")
+("Nottingham Forest", "Liverpool", "win_a")
+("Everton", "Crystal Palace", "win_a")
+("Man City", "Brighton", "win_a")
+("Chelsea", "Man United", "draw")
+("Aston Villa", "Brentford", "win_a")
+("Wolves", "Leicester City", "win_b")
+("Leeds United", "Fulham", "win_b")
+("Southampton", "Arsenal", "draw")
+("Tottenham", "Newcastle", "win_b")
+("West Ham", "Bournemouth", "win_a")
+("Leicester City", "Man City", "win_b")
+("Brentford", "Wolves", "draw")
+("Crystal Palace", "Southampton", "win_a")
+("Newcastle", "Aston Villa", "win_a")
+("Brighton", "Chelsea", "win_a")
+("Bournemouth", "Tottenham", "win_b")
+("Fulham", "Everton", "draw")
+("Liverpool", "Leeds United", "win_b")
+("Arsenal", "Nottingham Forest", "win_a")
+("Man United", "West Ham", "win_a")
+("Nottingham Forest", "Brentford", "draw")
+("Leeds United", "Bournemouth", "win_a")
+("Man City", "Fulham", "win_a")
+("Wolves", "Brighton", "win_b")
+("Everton", "Leicester City", "win_b")
+("Chelsea", "Arsenal", "win_b")
+("West Ham", "Crystal Palace", "win_b")
+("Southampton", "Newcastle", "win_b")
+("Aston Villa", "Man United", "win_a")
+("Tottenham", "Liverpool", "win_b")
+("Man City", "Brentford", "win_b")
+("Tottenham", "Leeds United", "win_a")
+("Liverpool", "Southampton", "win_a")
+("Bournemouth", "Everton", "win_a")
+("West Ham", "Leicester City", "win_b")
+("Nottingham Forest", "Crystal Palace", "win_a")
+("Newcastle", "Chelsea", "win_a")
+("Wolves", "Arsenal", "win_b")
+("Brighton", "Aston Villa", "win_b")
+("Fulham", "Man United", "win_b")
+("Brentford", "Tottenham", "draw")
+("Southampton", "Brighton", "win_b")
+("Leicester City", "Newcastle", "win_b")
+("Crystal Palace", "Fulham", "win_b")
+("Everton", "Wolves", "win_b")
+("Aston Villa", "Liverpool", "win_b")
+("Arsenal", "West Ham", "win_a")
+("Chelsea", "Bournemouth", "win_a")
+("Man United", "Nottingham Forest", "win_a")
+("Leeds United", "Man City", "win_b")
+("West Ham", "Brentford", "win_b")
+("Liverpool", "Leicester City", "win_a")
+("Wolves", "Man United", "win_b")
+("Newcastle", "Leeds United", "draw")
+("Fulham", "Southampton", "win_a")
+("Man City", "Everton", "draw")
+("Bournemouth", "Crystal Palace", "win_b")
+("Brighton", "Arsenal", "win_b")
+("Tottenham", "Aston Villa", "win_b")
+("Nottingham Forest", "Chelsea", "draw")
+("Brentford", "Liverpool", "win_a")
+("Leicester City", "Fulham", "win_b")
+("Everton", "Brighton", "win_b")
+("Arsenal", "Newcastle", "draw")
+("Man United", "Bournemouth", "win_a")
+("Southampton", "Nottingham Forest", "win_b")
+("Leeds United", "West Ham", "draw")
+("Aston Villa", "Wolves", "draw")
+("Crystal Palace", "Tottenham", "win_b")
+("Chelsea", "Man City", "win_b")
+("Fulham", "Chelsea", "win_a")
+("Aston Villa", "Leeds United", "win_a")
+("Man United", "Man City", "win_a")
+("Everton", "Southampton", "win_b")
+("Wolves", "West Ham", "win_a")
+("Nottingham Forest", "Leicester City", "win_a")
+("Brighton", "Liverpool", "win_a")
+("Brentford", "Bournemouth", "win_a")
+("Chelsea", "Crystal Palace", "win_a")
+("Newcastle", "Fulham", "win_a")
+("Tottenham", "Arsenal", "win_b")
+("Crystal Palace", "Man United", "draw")
+("Man City", "Tottenham", "win_a")
+("Liverpool", "Chelsea", "draw")
+("Bournemouth", "Nottingham Forest", "draw")
+("Southampton", "Aston Villa", "win_b")
+("Leicester City", "Brighton", "draw")
+("West Ham", "Everton", "win_a")
+("Crystal Palace", "Newcastle", "draw")
+("Man City", "Wolves", "win_a")
+("Leeds United", "Brentford", "draw")
+("Arsenal", "Man United", "win_a")
+("Fulham", "Tottenham", "win_b")
+("Chelsea", "Fulham", "draw")
+("Everton", "Arsenal", "win_a")
+("Aston Villa", "Leicester City", "win_b")
+("Wolves", "Liverpool", "win_a")
+("Man United", "Crystal Palace", "win_a")
+("Brighton", "Bournemouth", "win_a")
+("Brentford", "Southampton", "win_a")
+("Newcastle", "West Ham", "draw")
+("Nottingham Forest", "Leeds United", "win_a")
+("Tottenham", "Man City", "win_a")
+("Man United", "Leeds United", "draw")
+("West Ham", "Chelsea", "draw")
+("Leicester City", "Tottenham", "win_a")
+("Crystal Palace", "Brighton", "draw")
+("Arsenal", "Brentford", "draw")
+("Southampton", "Wolves", "win_b")
+("Fulham", "Nottingham Forest", "win_a")
+("Bournemouth", "Newcastle", "draw")
+("Leeds United", "Man United", "win_b")
+("Man City", "Aston Villa", "win_a")
+("Liverpool", "Everton", "win_a")
+("Arsenal", "Man City", "win_b")
+("Aston Villa", "Arsenal", "win_b")
+("Brighton", "Fulham", "win_b")
+("Nottingham Forest", "Man City", "draw")
+("Chelsea", "Southampton", "win_b")
+("Everton", "Leeds United", "win_a")
+("Wolves", "Bournemouth", "win_b")
+("Brentford", "Crystal Palace", "draw")
+("Newcastle", "Liverpool", "win_b")
+("Man United", "Leicester City", "win_a")
+("Tottenham", "West Ham", "win_a")
+("Fulham", "Wolves", "draw")
+("Leicester City", "Arsenal", "win_b")
+("Everton", "Aston Villa", "win_b")
+("West Ham", "Nottingham Forest", "win_a")
+("Leeds United", "Southampton", "win_a")
+("Bournemouth", "Man City", "win_b")
+("Crystal Palace", "Liverpool", "draw")
+("Tottenham", "Chelsea", "win_a")
+("Arsenal", "Everton", "win_a")
+("Liverpool", "Wolves", "win_a")
+("Man City", "Newcastle", "win_a")
+("Arsenal", "Bournemouth", "win_a")
+("Aston Villa", "Crystal Palace", "win_a")
+("Chelsea", "Leeds United", "win_a")
+("Brighton", "West Ham", "win_a")
+("Wolves", "Tottenham", "win_a")
+("Southampton", "Leicester City", "win_a")
+("Nottingham Forest", "Everton", "draw")
+("Liverpool", "Man United", "win_a")
+("Brentford", "Fulham", "win_a")
+("Bournemouth", "Liverpool", "win_a")
+("Leeds United", "Brighton", "draw")
+("Everton", "Brentford", "win_a")
+("Leicester City", "Chelsea", "win_b")
+("Tottenham", "Nottingham Forest", "win_a")
+("Crystal Palace", "Man City", "win_b")
+("Man United", "Southampton", "draw")
+("Fulham", "Arsenal", "win_b")
+("West Ham", "Aston Villa", "draw")
+("Newcastle", "Wolves", "win_a")
+("Southampton", "Brentford", "win_b")
+("Brighton", "Crystal Palace", "win_a")
+("Nottingham Forest", "Newcastle", "win_b")
+("Wolves", "Leeds United", "win_b")
+("Brentford", "Leicester City", "draw")
+("Aston Villa", "Bournemouth", "win_a")
+("Southampton", "Tottenham", "draw")
+("Chelsea", "Everton", "draw")
+("Arsenal", "Crystal Palace", "win_a")
+("Man City", "Liverpool", "win_a")
+("Arsenal", "Leeds United", "win_a")
+("Nottingham Forest", "Wolves", "draw")
+("Brighton", "Brentford", "draw")
+("Crystal Palace", "Leicester City", "win_a")
+("Bournemouth", "Fulham", "win_a")
+("Chelsea", "Aston Villa", "win_b")
+("West Ham", "Southampton", "win_a")
+("Newcastle", "Man United", "win_a")
+("Everton", "Tottenham", "draw")
+("Leeds United", "Nottingham Forest", "win_a")
+("Bournemouth", "Brighton", "win_b")
+("Leicester City", "Aston Villa", "win_b")
+("Chelsea", "Liverpool", "draw")
+("Man United", "Brentford", "win_a")
+("West Ham", "Newcastle", "win_b")
+("Man United", "Everton", "win_a")
+("Fulham", "West Ham", "win_b")
+("Aston Villa", "Nottingham Forest", "win_a")
+("Leicester City", "Bournemouth", "win_b")
+("Brentford", "Newcastle", "win_b")
+("Wolves", "Chelsea", "win_a")
+("Tottenham", "Brighton", "win_a")
+("Southampton", "Man City", "win_b")
+("Leeds United", "Crystal Palace", "win_b")
+("Liverpool", "Arsenal", "draw")
+("Aston Villa", "Newcastle", "win_a")
+("Chelsea", "Brighton", "win_b")
+("Southampton", "Crystal Palace", "win_b")
+("Wolves", "Brentford", "win_a")
+("Tottenham", "Bournemouth", "win_b")
+("Everton", "Fulham", "win_b")
+("Man City", "Leicester City", "win_a")
+("West Ham", "Arsenal", "draw")
+("Nottingham Forest", "Man United", "win_b")
+("Leeds United", "Liverpool", "win_b")
+("Arsenal", "Southampton", "draw")
+("Fulham", "Leeds United", "win_a")
+("Crystal Palace", "Everton", "draw")
+("Brentford", "Aston Villa", "draw")
+("Liverpool", "Nottingham Forest", "win_a")
+("Leicester City", "Wolves", "win_a")
+("Bournemouth", "West Ham", "win_b")
+("Newcastle", "Tottenham", "win_a")
+("Wolves", "Crystal Palace", "win_a")
+("Aston Villa", "Fulham", "win_a")
+("Leeds United", "Leicester City", "draw")
+("Nottingham Forest", "Brighton", "win_a")
+("Chelsea", "Brentford", "win_b")
+("West Ham", "Liverpool", "win_b")
+("Man City", "Arsenal", "win_a")
+("Everton", "Newcastle", "win_b")
+("Southampton", "Bournemouth", "win_b")
+("Tottenham", "Man United", "draw")
+("Crystal Palace", "West Ham", "win_a")
+("Brighton", "Wolves", "win_a")
+("Brentford", "Nottingham Forest", "win_a")
+("Man United", "Aston Villa", "win_a")
+("Bournemouth", "Leeds United", "win_a")
+("Newcastle", "Southampton", "win_a")
+("Fulham", "Man City", "win_b")
+("Liverpool", "Tottenham", "win_a")
+("Leicester City", "Everton", "draw")
+("Arsenal", "Chelsea", "win_a")
+("Liverpool", "Fulham", "win_a")
+("Man City", "West Ham", "win_a")
+("Brighton", "Man United", "win_a")
+("Tottenham", "Crystal Palace", "win_a")
+("Wolves", "Aston Villa", "win_a")
+("Bournemouth", "Chelsea", "win_b")
+("Man City", "Leeds United", "win_a")
+("Liverpool", "Brentford", "win_a")
+("Newcastle", "Arsenal", "win_b")
+("West Ham", "Man United", "win_a")
+("Fulham", "Leicester City", "win_a")
+("Brighton", "Everton", "win_b")
+("Nottingham Forest", "Southampton", "win_a")
+("Leeds United", "Newcastle", "draw")
+("Aston Villa", "Tottenham", "win_a")
+("Chelsea", "Nottingham Forest", "draw")
+("Crystal Palace", "Bournemouth", "win_a")
+("Southampton", "Fulham", "win_b")
+("Man United", "Wolves", "win_a")
+("Everton", "Man City", "win_b")
+("Brentford", "West Ham", "win_a")
+("Arsenal", "Brighton", "win_b")
+("Leicester City", "Liverpool", "win_b")
+("Newcastle", "Brighton", "win_a")
+("Tottenham", "Brentford", "win_b")
+("Liverpool", "Aston Villa", "draw")
+("Fulham", "Crystal Palace", "draw")
+("Bournemouth", "Man United", "win_b")
+("Wolves", "Everton", "draw")
+("Nottingham Forest", "Arsenal", "win_a")
+("West Ham", "Leeds United", "win_a")
+("Brighton", "Southampton", "win_a")
+("Man City", "Chelsea", "win_a")
+("Newcastle", "Leicester City", "draw")
+("Brighton", "Man City", "draw")
+("Man United", "Chelsea", "win_a")
+("Crystal Palace", "Nottingham Forest", "draw")
+("Chelsea", "Newcastle", "draw")
+("Man United", "Fulham", "win_a")
+("Arsenal", "Wolves", "win_a")
+("Southampton", "Liverpool", "draw")
+("Everton", "Bournemouth", "win_a")
+("Leicester City", "West Ham", "win_a")
+("Aston Villa", "Brighton", "win_a")
+("Leeds United", "Tottenham", "win_b")
+("Brentford", "Man City", "win_a")

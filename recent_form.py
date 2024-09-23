@@ -10,25 +10,27 @@ class FormRatingSystem:
         self.load_elo()
 
     def load_form(self):
-        """Load recent form history from a text file."""
+        """Load recent form history and final form score from a text file."""
         try:
             with open(self.form_file, 'r') as file:
                 for line in file:
                     line = line.strip()
                     if line:
-                        # Split the team name and recent form history correctly
-                        team, *form_history = line.rsplit(' ', 1)
-                        self.recent_form_history[team] = [float(f) for f in form_history]
+                        # Split the form score, team name, and history
+                        form_score, team, *form_history = line.split()
+                        form_score = float(form_score)  # Convert form score to float
+                        form_history = [float(f) for f in form_history]  # Convert the history to floats
+                        self.recent_form_history[team] = (form_score, form_history)
         except FileNotFoundError:
             print(f"File {self.form_file} not found. Starting with empty form data.")
 
     def save_form(self):
-        """Save updated recent form history to a text file, ensuring no duplicate entries."""
+        """Save updated recent form history and form score to a text file."""
         with open(self.form_file, 'w') as file:
-            for team, form_history in self.recent_form_history.items():
-                # Convert the form history back to a space-separated string
+            for team, (form_score, form_history) in self.recent_form_history.items():
+                # Save form score followed by the team name and form history
                 form_str = ' '.join([f"{f:.2f}" for f in form_history])
-                file.write(f"{team} {form_str}\n")
+                file.write(f"{form_score:.2f} {team} {form_str}\n")
 
     def load_elo(self):
         """Load Elo ratings from the Elo file."""
@@ -52,26 +54,20 @@ class FormRatingSystem:
     def get_team_data(self, team):
         """Get the recent form history and Elo rating for a team, initializing if not present."""
         if team not in self.recent_form_history:
-            self.recent_form_history[team] = []  # Initialize with an empty history
+            self.recent_form_history[team] = (0, [])  # Initialize form score to 0 and empty history
         if team not in self.elo_ratings:
             self.elo_ratings[team] = [1500, 0]  # Default Elo: 1500, 0 matches played
         return self.recent_form_history[team], self.elo_ratings[team]
 
-    def calculate_recent_form(self, form_history):
-        """Calculate the recent form score based on the last 6 matches with dynamic weighting."""
-        if len(form_history) == 0:
-            return 0  # No form yet
-        
-        # Weight each match dynamically; more recent matches have higher weights
-        weights = [i + 1 for i in range(len(form_history))]  # 1, 2, 3, ..., n for last n matches
-        weighted_form = sum([form * weight for form, weight in zip(form_history, weights)])
-        total_weight = sum(weights)
-        return weighted_form / total_weight
+    def calculate_total_recent_form(self, form_history):
+        """Calculate the total recent form score based on the last 6 matches."""
+        # Use only the last 6 matches, sum them up to calculate the total
+        return sum(form_history[-6:])
 
     def update_form(self, team_a, team_b, result):
         """Update recent form for both teams based on match result and Elo difference."""
-        form_a, (elo_a, _) = self.get_team_data(team_a)
-        form_b, (elo_b, _) = self.get_team_data(team_b)
+        (form_score_a, form_a), (elo_a, _) = self.get_team_data(team_a)
+        (form_score_b, form_b), (elo_b, _) = self.get_team_data(team_b)
 
         # Calculate Elo difference
         elo_diff = (elo_b - elo_a) / 100  # Normalize Elo difference
@@ -86,18 +82,23 @@ class FormRatingSystem:
             form_change_a = -5 + elo_diff  # Stronger team loses some points
             form_change_b = 5 - elo_diff   # Weaker team gains some points
 
-        # Update form history for team_a
+        # Update form history for team_a (append the result and keep max 6)
         form_a.append(form_change_a)
         if len(form_a) > 6:
             form_a.pop(0)  # Remove the oldest match after 6 matches
 
-        # Update form history for team_b
+        # Update form history for team_b (append the result and keep max 6)
         form_b.append(form_change_b)
         if len(form_b) > 6:
             form_b.pop(0)  # Remove the oldest match after 6 matches
 
-        self.recent_form_history[team_a] = form_a
-        self.recent_form_history[team_b] = form_b
+        # Calculate total recent form for both teams
+        total_form_a = self.calculate_total_recent_form(form_a)
+        total_form_b = self.calculate_total_recent_form(form_b)
+
+        # Update form score and history
+        self.recent_form_history[team_a] = (total_form_a, form_a)
+        self.recent_form_history[team_b] = (total_form_b, form_b)
 
     def update_elo(self, team_a, team_b, result):
         """Update Elo ratings based on match result using standard Elo formula."""
@@ -151,6 +152,5 @@ if __name__ == "__main__":
 
     # Check updated recent form after processing match results
     print("Updated Recent Form:")
-    for team, form_history in form_system.recent_form_history.items():
-        recent_form_score = form_system.calculate_recent_form(form_history)
-        print(f"{team}: Recent Form = {recent_form_score:.2f}")
+    for team, (total_form, form_history) in form_system.recent_form_history.items():
+        print(f"{team}: Recent Form = {total_form:.2f}")

@@ -1,380 +1,380 @@
-("Almeria", "Vallecano", "win_b"),
-("Sevilla", "Valencia", "win_b"),
-("Sociedad", "Girona", "draw"),
-("Las Palmas", "Mallorca", "draw"),
-("Ath Bilbao", "Real Madrid", "win_b"),
-("Celta", "Osasuna", "win_b"),
-("Villarreal", "Betis", "win_b"),
-("Getafe", "Barcelona", "draw"),
-("Cadiz", "Alaves", "win_a"),
-("Ath Madrid", "Granada", "win_a"),
-("Mallorca", "Villarreal", "win_b"),
-("Valencia", "Las Palmas", "win_a"),
-("Sociedad", "Celta", "draw"),
-("Almeria", "Real Madrid", "win_b"),
-("Osasuna", "Ath Bilbao", "win_b"),
-("Girona", "Getafe", "win_a"),
-("Barcelona", "Cadiz", "win_a"),
-("Betis", "Ath Madrid", "draw"),
-("Alaves", "Sevilla", "win_a"),
-("Granada", "Vallecano", "win_b"),
-("Las Palmas", "Sociedad", "draw"),
-("Celta", "Real Madrid", "win_b"),
-("Cadiz", "Almeria", "draw"),
-("Granada", "Mallorca", "win_a"),
-("Sevilla", "Girona", "win_b"),
-("Villarreal", "Barcelona", "win_b"),
-("Valencia", "Osasuna", "win_b"),
-("Ath Bilbao", "Betis", "win_a"),
-("Getafe", "Alaves", "win_a"),
-("Vallecano", "Ath Madrid", "win_b"),
-("Cadiz", "Villarreal", "win_a"),
-("Almeria", "Celta", "win_b"),
-("Sociedad", "Granada", "win_a"),
-("Real Madrid", "Getafe", "win_a"),
-("Alaves", "Valencia", "win_a"),
-("Betis", "Vallecano", "win_a"),
-("Girona", "Las Palmas", "win_a"),
-("Mallorca", "Ath Bilbao", "draw"),
-("Osasuna", "Barcelona", "win_b"),
-("Vallecano", "Alaves", "win_a"),
-("Ath Bilbao", "Cadiz", "win_a"),
-("Valencia", "Ath Madrid", "win_a"),
-("Celta", "Mallorca", "win_b"),
-("Barcelona", "Betis", "win_a"),
-("Getafe", "Osasuna", "win_a"),
-("Villarreal", "Almeria", "win_a"),
-("Sevilla", "Las Palmas", "win_a"),
-("Real Madrid", "Sociedad", "win_a"),
-("Granada", "Girona", "win_b"),
-("Alaves", "Ath Bilbao", "win_b"),
-("Girona", "Mallorca", "win_a"),
-("Osasuna", "Sevilla", "draw"),
-("Barcelona", "Celta", "win_a"),
-("Almeria", "Valencia", "draw"),
-("Sociedad", "Getafe", "win_a"),
-("Vallecano", "Villarreal", "draw"),
-("Betis", "Cadiz", "draw"),
-("Las Palmas", "Granada", "win_a"),
-("Ath Madrid", "Real Madrid", "win_a"),
-("Sevilla", "Almeria", "win_a"),
-("Mallorca", "Barcelona", "draw"),
-("Ath Bilbao", "Getafe", "draw"),
-("Real Madrid", "Las Palmas", "win_a"),
-("Villarreal", "Girona", "win_b"),
-("Cadiz", "Vallecano", "draw"),
-("Valencia", "Sociedad", "win_b"),
-("Celta", "Alaves", "draw"),
-("Granada", "Betis", "draw"),
-("Osasuna", "Ath Madrid", "win_b"),
-("Barcelona", "Sevilla", "win_a"),
-("Getafe", "Villarreal", "draw"),
-("Vallecano", "Mallorca", "draw"),
-("Girona", "Real Madrid", "win_b"),
-("Sociedad", "Ath Bilbao", "win_a"),
-("Almeria", "Granada", "draw"),
-("Alaves", "Osasuna", "win_b"),
-("Ath Madrid", "Cadiz", "win_a"),
-("Betis", "Valencia", "win_a"),
-("Las Palmas", "Celta", "win_a"),
-("Ath Bilbao", "Almeria", "win_a"),
-("Cadiz", "Girona", "win_b"),
-("Real Madrid", "Osasuna", "win_a"),
-("Mallorca", "Valencia", "draw"),
-("Sevilla", "Vallecano", "draw"),
-("Villarreal", "Las Palmas", "win_b"),
-("Ath Madrid", "Sociedad", "win_a"),
-("Alaves", "Betis", "draw"),
-("Celta", "Getafe", "draw"),
-("Granada", "Barcelona", "draw"),
-("Osasuna", "Granada", "win_a"),
-("Sociedad", "Mallorca", "win_a"),
-("Getafe", "Betis", "draw"),
-("Sevilla", "Real Madrid", "draw"),
-("Celta", "Ath Madrid", "win_b"),
-("Las Palmas", "Vallecano", "win_b"),
-("Girona", "Almeria", "win_a"),
-("Villarreal", "Alaves", "draw"),
-("Barcelona", "Ath Bilbao", "win_a"),
-("Valencia", "Cadiz", "win_a"),
-("Girona", "Celta", "win_a"),
-("Almeria", "Las Palmas", "win_b"),
-("Barcelona", "Real Madrid", "win_b"),
-("Mallorca", "Getafe", "draw"),
-("Cadiz", "Sevilla", "draw"),
-("Betis", "Osasuna", "win_a"),
-("Vallecano", "Sociedad", "draw"),
-("Ath Bilbao", "Valencia", "draw"),
-("Ath Madrid", "Alaves", "win_a"),
-("Granada", "Villarreal", "win_b"),
-("Las Palmas", "Ath Madrid", "win_a"),
-("Osasuna", "Girona", "win_b"),
-("Betis", "Mallorca", "win_a"),
-("Celta", "Sevilla", "draw"),
-("Sociedad", "Barcelona", "win_b"),
-("Alaves", "Almeria", "win_a"),
-("Valencia", "Granada", "win_a"),
-("Villarreal", "Ath Bilbao", "win_b"),
-("Real Madrid", "Vallecano", "draw"),
-("Getafe", "Cadiz", "win_a"),
-("Ath Bilbao", "Celta", "win_a"),
-("Vallecano", "Girona", "win_b"),
-("Almeria", "Sociedad", "win_b"),
-("Granada", "Getafe", "draw"),
-("Osasuna", "Las Palmas", "draw"),
-("Real Madrid", "Valencia", "win_a"),
-("Barcelona", "Alaves", "win_a"),
-("Sevilla", "Betis", "draw"),
-("Ath Madrid", "Villarreal", "win_a"),
-("Alaves", "Granada", "win_a"),
-("Vallecano", "Barcelona", "draw"),
-("Valencia", "Celta", "draw"),
-("Getafe", "Almeria", "win_a"),
-("Ath Madrid", "Mallorca", "win_a"),
-("Villarreal", "Osasuna", "win_a"),
-("Sociedad", "Sevilla", "win_a"),
-("Cadiz", "Real Madrid", "win_b"),
-("Betis", "Las Palmas", "win_a"),
-("Girona", "Ath Bilbao", "draw"),
-("Mallorca", "Cadiz", "draw"),
-("Las Palmas", "Getafe", "win_a"),
-("Girona", "Valencia", "win_a"),
-("Ath Bilbao", "Vallecano", "win_a"),
-("Real Madrid", "Granada", "win_a"),
-("Osasuna", "Sociedad", "draw"),
-("Mallorca", "Alaves", "draw"),
-("Almeria", "Betis", "draw"),
-("Sevilla", "Villarreal", "draw"),
-("Barcelona", "Ath Madrid", "win_a"),
-("Celta", "Cadiz", "draw"),
-("Getafe", "Valencia", "win_a"),
-("Alaves", "Las Palmas", "win_b"),
-("Betis", "Real Madrid", "draw"),
-("Villarreal", "Sociedad", "win_b"),
-("Mallorca", "Sevilla", "win_a"),
-("Ath Madrid", "Almeria", "win_a"),
-("Cadiz", "Osasuna", "draw"),
-("Barcelona", "Girona", "win_b"),
-("Granada", "Ath Bilbao", "draw"),
-("Vallecano", "Celta", "draw"),
-("Osasuna", "Vallecano", "win_a"),
-("Celta", "Granada", "win_a"),
-("Ath Bilbao", "Ath Madrid", "win_a"),
-("Sevilla", "Getafe", "win_b"),
-("Valencia", "Barcelona", "draw"),
-("Almeria", "Mallorca", "draw"),
-("Sociedad", "Betis", "draw"),
-("Las Palmas", "Cadiz", "draw"),
-("Real Madrid", "Villarreal", "win_a"),
-("Girona", "Alaves", "win_a"),
-("Vallecano", "Valencia", "win_b"),
-("Ath Madrid", "Getafe", "draw"),
-("Granada", "Sevilla", "win_b"),
-("Barcelona", "Almeria", "win_a"),
-("Ath Bilbao", "Las Palmas", "win_a"),
-("Villarreal", "Celta", "win_a"),
-("Betis", "Girona", "draw"),
-("Cadiz", "Sociedad", "draw"),
-("Alaves", "Real Madrid", "win_b"),
-("Mallorca", "Osasuna", "win_a"),
-("Ath Madrid", "Sevilla", "win_a"),
-("Getafe", "Vallecano", "win_b"),
-("Sociedad", "Alaves", "draw"),
-("Valencia", "Villarreal", "win_a"),
-("Granada", "Cadiz", "win_a"),
-("Celta", "Betis", "win_a"),
-("Real Madrid", "Mallorca", "win_a"),
-("Girona", "Ath Madrid", "win_a"),
-("Osasuna", "Almeria", "win_a"),
-("Sevilla", "Ath Bilbao", "win_b"),
-("Las Palmas", "Barcelona", "win_b"),
-("Sevilla", "Alaves", "win_b"),
-("Las Palmas", "Villarreal", "win_a"),
-("Mallorca", "Celta", "draw"),
-("Ath Bilbao", "Sociedad", "win_a"),
-("Betis", "Granada", "win_a"),
-("Almeria", "Girona", "draw"),
-("Cadiz", "Valencia", "win_b"),
-("Alaves", "Cadiz", "win_a"),
-("Vallecano", "Las Palmas", "win_b"),
-("Villarreal", "Mallorca", "draw"),
-("Valencia", "Ath Bilbao", "win_a"),
-("Celta", "Sociedad", "win_b"),
-("Osasuna", "Getafe", "win_a"),
-("Real Madrid", "Almeria", "win_a"),
-("Betis", "Barcelona", "win_b"),
-("Girona", "Sevilla", "win_a"),
-("Granada", "Ath Madrid", "win_b"),
-("Almeria", "Alaves", "win_b"),
-("Sociedad", "Vallecano", "draw"),
-("Las Palmas", "Real Madrid", "win_b"),
-("Barcelona", "Villarreal", "win_b"),
-("Mallorca", "Betis", "win_b"),
-("Celta", "Girona", "win_b"),
-("Cadiz", "Ath Bilbao", "draw"),
-("Sevilla", "Osasuna", "draw"),
-("Ath Madrid", "Valencia", "win_a"),
-("Getafe", "Granada", "win_a"),
-("Barcelona", "Osasuna", "win_a"),
-("Ath Madrid", "Vallecano", "win_a"),
-("Getafe", "Real Madrid", "win_b"),
-("Ath Bilbao", "Mallorca", "win_a"),
-("Valencia", "Almeria", "win_a"),
-("Granada", "Las Palmas", "draw"),
-("Alaves", "Barcelona", "win_b"),
-("Girona", "Sociedad", "draw"),
-("Villarreal", "Cadiz", "draw"),
-("Osasuna", "Celta", "win_b"),
-("Betis", "Getafe", "draw"),
-("Real Madrid", "Ath Madrid", "draw"),
-("Vallecano", "Sevilla", "win_b"),
-("Cadiz", "Betis", "win_b"),
-("Alaves", "Villarreal", "draw"),
-("Sociedad", "Osasuna", "win_b"),
-("Real Madrid", "Girona", "win_a"),
-("Las Palmas", "Valencia", "win_a"),
-("Getafe", "Celta", "win_a"),
-("Mallorca", "Vallecano", "win_a"),
-("Sevilla", "Ath Madrid", "win_a"),
-("Barcelona", "Granada", "draw"),
-("Almeria", "Ath Bilbao", "draw"),
-("Villarreal", "Getafe", "draw"),
-("Ath Madrid", "Las Palmas", "win_a"),
-("Osasuna", "Cadiz", "win_a"),
-("Celta", "Barcelona", "win_b"),
-("Valencia", "Sevilla", "draw"),
-("Vallecano", "Real Madrid", "draw"),
-("Granada", "Almeria", "draw"),
-("Mallorca", "Sociedad", "win_b"),
-("Betis", "Alaves", "draw"),
-("Ath Bilbao", "Girona", "win_a"),
-("Sociedad", "Villarreal", "win_b"),
-("Barcelona", "Getafe", "win_a"),
-("Alaves", "Mallorca", "draw"),
-("Almeria", "Ath Madrid", "draw"),
-("Cadiz", "Celta", "draw"),
-("Betis", "Ath Bilbao", "win_a"),
-("Las Palmas", "Osasuna", "draw"),
-("Real Madrid", "Sevilla", "win_a"),
-("Girona", "Vallecano", "win_a"),
-("Celta", "Almeria", "win_a"),
-("Sevilla", "Sociedad", "win_a"),
-("Vallecano", "Cadiz", "draw"),
-("Getafe", "Las Palmas", "draw"),
-("Valencia", "Real Madrid", "draw"),
-("Villarreal", "Granada", "win_a"),
-("Ath Madrid", "Betis", "win_a"),
-("Mallorca", "Girona", "win_a"),
-("Ath Bilbao", "Barcelona", "draw"),
-("Osasuna", "Alaves", "win_a"),
-("Barcelona", "Mallorca", "win_a"),
-("Valencia", "Getafe", "win_a"),
-("Cadiz", "Ath Madrid", "win_a"),
-("Granada", "Sociedad", "win_b"),
-("Girona", "Osasuna", "win_a"),
-("Alaves", "Vallecano", "win_a"),
-("Las Palmas", "Ath Bilbao", "win_b"),
-("Real Madrid", "Celta", "win_a"),
-("Betis", "Villarreal", "win_b"),
-("Almeria", "Sevilla", "draw"),
-("Sociedad", "Cadiz", "win_a"),
-("Mallorca", "Granada", "win_a"),
-("Osasuna", "Real Madrid", "win_b"),
-("Getafe", "Girona", "win_a"),
-("Ath Bilbao", "Alaves", "win_a"),
-("Sevilla", "Celta", "win_b"),
-("Las Palmas", "Almeria", "win_b"),
-("Villarreal", "Valencia", "win_a"),
-("Vallecano", "Betis", "win_a"),
-("Ath Madrid", "Barcelona", "win_b"),
-("Cadiz", "Granada", "win_a"),
-("Getafe", "Sevilla", "win_b"),
-("Almeria", "Osasuna", "win_b"),
-("Valencia", "Mallorca", "draw"),
-("Barcelona", "Las Palmas", "win_a"),
-("Celta", "Vallecano", "draw"),
-("Girona", "Betis", "win_a"),
-("Alaves", "Sociedad", "win_b"),
-("Real Madrid", "Ath Bilbao", "win_a"),
-("Villarreal", "Ath Madrid", "win_b"),
-("Granada", "Valencia", "win_b"),
-("Betis", "Celta", "win_a"),
-("Ath Madrid", "Girona", "win_a"),
-("Vallecano", "Getafe", "draw"),
-("Mallorca", "Real Madrid", "win_b"),
-("Cadiz", "Barcelona", "win_b"),
-("Las Palmas", "Sevilla", "win_b"),
-("Granada", "Alaves", "win_a"),
-("Ath Bilbao", "Villarreal", "draw"),
-("Sociedad", "Almeria", "draw"),
-("Osasuna", "Valencia", "win_b"),
-("Ath Bilbao", "Granada", "draw"),
-("Celta", "Las Palmas", "win_a"),
-("Vallecano", "Osasuna", "win_a"),
-("Valencia", "Betis", "win_b"),
-("Girona", "Cadiz", "win_a"),
-("Getafe", "Sociedad", "draw"),
-("Almeria", "Villarreal", "win_b"),
-("Alaves", "Ath Madrid", "win_a"),
-("Real Madrid", "Barcelona", "win_a"),
-("Sevilla", "Mallorca", "win_a"),
-("Sociedad", "Real Madrid", "win_b"),
-("Las Palmas", "Girona", "win_b"),
-("Almeria", "Getafe", "win_b"),
-("Alaves", "Celta", "win_a"),
-("Ath Madrid", "Ath Bilbao", "win_a"),
-("Cadiz", "Mallorca", "draw"),
-("Granada", "Osasuna", "win_a"),
-("Villarreal", "Vallecano", "win_a"),
-("Betis", "Sevilla", "draw"),
-("Barcelona", "Valencia", "win_a"),
-("Getafe", "Ath Bilbao", "win_b"),
-("Sociedad", "Las Palmas", "win_a"),
-("Real Madrid", "Cadiz", "win_a"),
-("Girona", "Barcelona", "win_a"),
-("Mallorca", "Ath Madrid", "win_b"),
-("Osasuna", "Betis", "win_b"),
-("Celta", "Villarreal", "win_a"),
-("Valencia", "Alaves", "win_b"),
-("Sevilla", "Granada", "win_a"),
-("Vallecano", "Almeria", "win_b"),
-("Alaves", "Girona", "draw"),
-("Mallorca", "Las Palmas", "win_a"),
-("Villarreal", "Sevilla", "win_a"),
-("Granada", "Real Madrid", "win_b"),
-("Ath Bilbao", "Osasuna", "draw"),
-("Cadiz", "Getafe", "win_a"),
-("Ath Madrid", "Celta", "win_a"),
-("Valencia", "Vallecano", "draw"),
-("Betis", "Almeria", "win_a"),
-("Barcelona", "Sociedad", "win_a"),
-("Osasuna", "Mallorca", "draw"),
-("Real Madrid", "Alaves", "win_a"),
-("Girona", "Villarreal", "win_b"),
-("Sevilla", "Cadiz", "win_b"),
-("Vallecano", "Granada", "win_a"),
-("Celta", "Ath Bilbao", "win_a"),
-("Getafe", "Ath Madrid", "win_b"),
-("Las Palmas", "Betis", "draw"),
-("Almeria", "Barcelona", "win_b"),
-("Sociedad", "Valencia", "win_a"),
-("Alaves", "Getafe", "win_a"),
-("Ath Bilbao", "Sevilla", "win_a"),
-("Ath Madrid", "Osasuna", "win_b"),
-("Barcelona", "Vallecano", "win_a"),
-("Betis", "Sociedad", "win_b"),
-("Cadiz", "Las Palmas", "draw"),
-("Granada", "Celta", "win_b"),
-("Mallorca", "Almeria", "draw"),
-("Valencia", "Girona", "win_b"),
-("Villarreal", "Real Madrid", "draw"),
-("Girona", "Granada", "win_a"),
-("Osasuna", "Villarreal", "draw"),
-("Sociedad", "Ath Madrid", "win_b"),
-("Almeria", "Cadiz", "win_a"),
-("Vallecano", "Ath Bilbao", "win_b"),
-("Real Madrid", "Betis", "draw"),
-("Getafe", "Mallorca", "win_b"),
-("Celta", "Valencia", "draw"),
-("Las Palmas", "Alaves", "draw"),
-("Sevilla", "Barcelona", "win_b"),
+("Almeria", "Vallecano", "win_b")
+("Sevilla", "Valencia", "win_b")
+("Sociedad", "Girona", "draw")
+("Las Palmas", "Mallorca", "draw")
+("Ath Bilbao", "Real Madrid", "win_b")
+("Celta", "Osasuna", "win_b")
+("Villarreal", "Betis", "win_b")
+("Getafe", "Barcelona", "draw")
+("Cadiz", "Alaves", "win_a")
+("Ath Madrid", "Granada", "win_a")
+("Mallorca", "Villarreal", "win_b")
+("Valencia", "Las Palmas", "win_a")
+("Sociedad", "Celta", "draw")
+("Almeria", "Real Madrid", "win_b")
+("Osasuna", "Ath Bilbao", "win_b")
+("Girona", "Getafe", "win_a")
+("Barcelona", "Cadiz", "win_a")
+("Betis", "Ath Madrid", "draw")
+("Alaves", "Sevilla", "win_a")
+("Granada", "Vallecano", "win_b")
+("Las Palmas", "Sociedad", "draw")
+("Celta", "Real Madrid", "win_b")
+("Cadiz", "Almeria", "draw")
+("Granada", "Mallorca", "win_a")
+("Sevilla", "Girona", "win_b")
+("Villarreal", "Barcelona", "win_b")
+("Valencia", "Osasuna", "win_b")
+("Ath Bilbao", "Betis", "win_a")
+("Getafe", "Alaves", "win_a")
+("Vallecano", "Ath Madrid", "win_b")
+("Cadiz", "Villarreal", "win_a")
+("Almeria", "Celta", "win_b")
+("Sociedad", "Granada", "win_a")
+("Real Madrid", "Getafe", "win_a")
+("Alaves", "Valencia", "win_a")
+("Betis", "Vallecano", "win_a")
+("Girona", "Las Palmas", "win_a")
+("Mallorca", "Ath Bilbao", "draw")
+("Osasuna", "Barcelona", "win_b")
+("Vallecano", "Alaves", "win_a")
+("Ath Bilbao", "Cadiz", "win_a")
+("Valencia", "Ath Madrid", "win_a")
+("Celta", "Mallorca", "win_b")
+("Barcelona", "Betis", "win_a")
+("Getafe", "Osasuna", "win_a")
+("Villarreal", "Almeria", "win_a")
+("Sevilla", "Las Palmas", "win_a")
+("Real Madrid", "Sociedad", "win_a")
+("Granada", "Girona", "win_b")
+("Alaves", "Ath Bilbao", "win_b")
+("Girona", "Mallorca", "win_a")
+("Osasuna", "Sevilla", "draw")
+("Barcelona", "Celta", "win_a")
+("Almeria", "Valencia", "draw")
+("Sociedad", "Getafe", "win_a")
+("Vallecano", "Villarreal", "draw")
+("Betis", "Cadiz", "draw")
+("Las Palmas", "Granada", "win_a")
+("Ath Madrid", "Real Madrid", "win_a")
+("Sevilla", "Almeria", "win_a")
+("Mallorca", "Barcelona", "draw")
+("Ath Bilbao", "Getafe", "draw")
+("Real Madrid", "Las Palmas", "win_a")
+("Villarreal", "Girona", "win_b")
+("Cadiz", "Vallecano", "draw")
+("Valencia", "Sociedad", "win_b")
+("Celta", "Alaves", "draw")
+("Granada", "Betis", "draw")
+("Osasuna", "Ath Madrid", "win_b")
+("Barcelona", "Sevilla", "win_a")
+("Getafe", "Villarreal", "draw")
+("Vallecano", "Mallorca", "draw")
+("Girona", "Real Madrid", "win_b")
+("Sociedad", "Ath Bilbao", "win_a")
+("Almeria", "Granada", "draw")
+("Alaves", "Osasuna", "win_b")
+("Ath Madrid", "Cadiz", "win_a")
+("Betis", "Valencia", "win_a")
+("Las Palmas", "Celta", "win_a")
+("Ath Bilbao", "Almeria", "win_a")
+("Cadiz", "Girona", "win_b")
+("Real Madrid", "Osasuna", "win_a")
+("Mallorca", "Valencia", "draw")
+("Sevilla", "Vallecano", "draw")
+("Villarreal", "Las Palmas", "win_b")
+("Ath Madrid", "Sociedad", "win_a")
+("Alaves", "Betis", "draw")
+("Celta", "Getafe", "draw")
+("Granada", "Barcelona", "draw")
+("Osasuna", "Granada", "win_a")
+("Sociedad", "Mallorca", "win_a")
+("Getafe", "Betis", "draw")
+("Sevilla", "Real Madrid", "draw")
+("Celta", "Ath Madrid", "win_b")
+("Las Palmas", "Vallecano", "win_b")
+("Girona", "Almeria", "win_a")
+("Villarreal", "Alaves", "draw")
+("Barcelona", "Ath Bilbao", "win_a")
+("Valencia", "Cadiz", "win_a")
+("Girona", "Celta", "win_a")
+("Almeria", "Las Palmas", "win_b")
+("Barcelona", "Real Madrid", "win_b")
+("Mallorca", "Getafe", "draw")
+("Cadiz", "Sevilla", "draw")
+("Betis", "Osasuna", "win_a")
+("Vallecano", "Sociedad", "draw")
+("Ath Bilbao", "Valencia", "draw")
+("Ath Madrid", "Alaves", "win_a")
+("Granada", "Villarreal", "win_b")
+("Las Palmas", "Ath Madrid", "win_a")
+("Osasuna", "Girona", "win_b")
+("Betis", "Mallorca", "win_a")
+("Celta", "Sevilla", "draw")
+("Sociedad", "Barcelona", "win_b")
+("Alaves", "Almeria", "win_a")
+("Valencia", "Granada", "win_a")
+("Villarreal", "Ath Bilbao", "win_b")
+("Real Madrid", "Vallecano", "draw")
+("Getafe", "Cadiz", "win_a")
+("Ath Bilbao", "Celta", "win_a")
+("Vallecano", "Girona", "win_b")
+("Almeria", "Sociedad", "win_b")
+("Granada", "Getafe", "draw")
+("Osasuna", "Las Palmas", "draw")
+("Real Madrid", "Valencia", "win_a")
+("Barcelona", "Alaves", "win_a")
+("Sevilla", "Betis", "draw")
+("Ath Madrid", "Villarreal", "win_a")
+("Alaves", "Granada", "win_a")
+("Vallecano", "Barcelona", "draw")
+("Valencia", "Celta", "draw")
+("Getafe", "Almeria", "win_a")
+("Ath Madrid", "Mallorca", "win_a")
+("Villarreal", "Osasuna", "win_a")
+("Sociedad", "Sevilla", "win_a")
+("Cadiz", "Real Madrid", "win_b")
+("Betis", "Las Palmas", "win_a")
+("Girona", "Ath Bilbao", "draw")
+("Mallorca", "Cadiz", "draw")
+("Las Palmas", "Getafe", "win_a")
+("Girona", "Valencia", "win_a")
+("Ath Bilbao", "Vallecano", "win_a")
+("Real Madrid", "Granada", "win_a")
+("Osasuna", "Sociedad", "draw")
+("Mallorca", "Alaves", "draw")
+("Almeria", "Betis", "draw")
+("Sevilla", "Villarreal", "draw")
+("Barcelona", "Ath Madrid", "win_a")
+("Celta", "Cadiz", "draw")
+("Getafe", "Valencia", "win_a")
+("Alaves", "Las Palmas", "win_b")
+("Betis", "Real Madrid", "draw")
+("Villarreal", "Sociedad", "win_b")
+("Mallorca", "Sevilla", "win_a")
+("Ath Madrid", "Almeria", "win_a")
+("Cadiz", "Osasuna", "draw")
+("Barcelona", "Girona", "win_b")
+("Granada", "Ath Bilbao", "draw")
+("Vallecano", "Celta", "draw")
+("Osasuna", "Vallecano", "win_a")
+("Celta", "Granada", "win_a")
+("Ath Bilbao", "Ath Madrid", "win_a")
+("Sevilla", "Getafe", "win_b")
+("Valencia", "Barcelona", "draw")
+("Almeria", "Mallorca", "draw")
+("Sociedad", "Betis", "draw")
+("Las Palmas", "Cadiz", "draw")
+("Real Madrid", "Villarreal", "win_a")
+("Girona", "Alaves", "win_a")
+("Vallecano", "Valencia", "win_b")
+("Ath Madrid", "Getafe", "draw")
+("Granada", "Sevilla", "win_b")
+("Barcelona", "Almeria", "win_a")
+("Ath Bilbao", "Las Palmas", "win_a")
+("Villarreal", "Celta", "win_a")
+("Betis", "Girona", "draw")
+("Cadiz", "Sociedad", "draw")
+("Alaves", "Real Madrid", "win_b")
+("Mallorca", "Osasuna", "win_a")
+("Ath Madrid", "Sevilla", "win_a")
+("Getafe", "Vallecano", "win_b")
+("Sociedad", "Alaves", "draw")
+("Valencia", "Villarreal", "win_a")
+("Granada", "Cadiz", "win_a")
+("Celta", "Betis", "win_a")
+("Real Madrid", "Mallorca", "win_a")
+("Girona", "Ath Madrid", "win_a")
+("Osasuna", "Almeria", "win_a")
+("Sevilla", "Ath Bilbao", "win_b")
+("Las Palmas", "Barcelona", "win_b")
+("Sevilla", "Alaves", "win_b")
+("Las Palmas", "Villarreal", "win_a")
+("Mallorca", "Celta", "draw")
+("Ath Bilbao", "Sociedad", "win_a")
+("Betis", "Granada", "win_a")
+("Almeria", "Girona", "draw")
+("Cadiz", "Valencia", "win_b")
+("Alaves", "Cadiz", "win_a")
+("Vallecano", "Las Palmas", "win_b")
+("Villarreal", "Mallorca", "draw")
+("Valencia", "Ath Bilbao", "win_a")
+("Celta", "Sociedad", "win_b")
+("Osasuna", "Getafe", "win_a")
+("Real Madrid", "Almeria", "win_a")
+("Betis", "Barcelona", "win_b")
+("Girona", "Sevilla", "win_a")
+("Granada", "Ath Madrid", "win_b")
+("Almeria", "Alaves", "win_b")
+("Sociedad", "Vallecano", "draw")
+("Las Palmas", "Real Madrid", "win_b")
+("Barcelona", "Villarreal", "win_b")
+("Mallorca", "Betis", "win_b")
+("Celta", "Girona", "win_b")
+("Cadiz", "Ath Bilbao", "draw")
+("Sevilla", "Osasuna", "draw")
+("Ath Madrid", "Valencia", "win_a")
+("Getafe", "Granada", "win_a")
+("Barcelona", "Osasuna", "win_a")
+("Ath Madrid", "Vallecano", "win_a")
+("Getafe", "Real Madrid", "win_b")
+("Ath Bilbao", "Mallorca", "win_a")
+("Valencia", "Almeria", "win_a")
+("Granada", "Las Palmas", "draw")
+("Alaves", "Barcelona", "win_b")
+("Girona", "Sociedad", "draw")
+("Villarreal", "Cadiz", "draw")
+("Osasuna", "Celta", "win_b")
+("Betis", "Getafe", "draw")
+("Real Madrid", "Ath Madrid", "draw")
+("Vallecano", "Sevilla", "win_b")
+("Cadiz", "Betis", "win_b")
+("Alaves", "Villarreal", "draw")
+("Sociedad", "Osasuna", "win_b")
+("Real Madrid", "Girona", "win_a")
+("Las Palmas", "Valencia", "win_a")
+("Getafe", "Celta", "win_a")
+("Mallorca", "Vallecano", "win_a")
+("Sevilla", "Ath Madrid", "win_a")
+("Barcelona", "Granada", "draw")
+("Almeria", "Ath Bilbao", "draw")
+("Villarreal", "Getafe", "draw")
+("Ath Madrid", "Las Palmas", "win_a")
+("Osasuna", "Cadiz", "win_a")
+("Celta", "Barcelona", "win_b")
+("Valencia", "Sevilla", "draw")
+("Vallecano", "Real Madrid", "draw")
+("Granada", "Almeria", "draw")
+("Mallorca", "Sociedad", "win_b")
+("Betis", "Alaves", "draw")
+("Ath Bilbao", "Girona", "win_a")
+("Sociedad", "Villarreal", "win_b")
+("Barcelona", "Getafe", "win_a")
+("Alaves", "Mallorca", "draw")
+("Almeria", "Ath Madrid", "draw")
+("Cadiz", "Celta", "draw")
+("Betis", "Ath Bilbao", "win_a")
+("Las Palmas", "Osasuna", "draw")
+("Real Madrid", "Sevilla", "win_a")
+("Girona", "Vallecano", "win_a")
+("Celta", "Almeria", "win_a")
+("Sevilla", "Sociedad", "win_a")
+("Vallecano", "Cadiz", "draw")
+("Getafe", "Las Palmas", "draw")
+("Valencia", "Real Madrid", "draw")
+("Villarreal", "Granada", "win_a")
+("Ath Madrid", "Betis", "win_a")
+("Mallorca", "Girona", "win_a")
+("Ath Bilbao", "Barcelona", "draw")
+("Osasuna", "Alaves", "win_a")
+("Barcelona", "Mallorca", "win_a")
+("Valencia", "Getafe", "win_a")
+("Cadiz", "Ath Madrid", "win_a")
+("Granada", "Sociedad", "win_b")
+("Girona", "Osasuna", "win_a")
+("Alaves", "Vallecano", "win_a")
+("Las Palmas", "Ath Bilbao", "win_b")
+("Real Madrid", "Celta", "win_a")
+("Betis", "Villarreal", "win_b")
+("Almeria", "Sevilla", "draw")
+("Sociedad", "Cadiz", "win_a")
+("Mallorca", "Granada", "win_a")
+("Osasuna", "Real Madrid", "win_b")
+("Getafe", "Girona", "win_a")
+("Ath Bilbao", "Alaves", "win_a")
+("Sevilla", "Celta", "win_b")
+("Las Palmas", "Almeria", "win_b")
+("Villarreal", "Valencia", "win_a")
+("Vallecano", "Betis", "win_a")
+("Ath Madrid", "Barcelona", "win_b")
+("Cadiz", "Granada", "win_a")
+("Getafe", "Sevilla", "win_b")
+("Almeria", "Osasuna", "win_b")
+("Valencia", "Mallorca", "draw")
+("Barcelona", "Las Palmas", "win_a")
+("Celta", "Vallecano", "draw")
+("Girona", "Betis", "win_a")
+("Alaves", "Sociedad", "win_b")
+("Real Madrid", "Ath Bilbao", "win_a")
+("Villarreal", "Ath Madrid", "win_b")
+("Granada", "Valencia", "win_b")
+("Betis", "Celta", "win_a")
+("Ath Madrid", "Girona", "win_a")
+("Vallecano", "Getafe", "draw")
+("Mallorca", "Real Madrid", "win_b")
+("Cadiz", "Barcelona", "win_b")
+("Las Palmas", "Sevilla", "win_b")
+("Granada", "Alaves", "win_a")
+("Ath Bilbao", "Villarreal", "draw")
+("Sociedad", "Almeria", "draw")
+("Osasuna", "Valencia", "win_b")
+("Ath Bilbao", "Granada", "draw")
+("Celta", "Las Palmas", "win_a")
+("Vallecano", "Osasuna", "win_a")
+("Valencia", "Betis", "win_b")
+("Girona", "Cadiz", "win_a")
+("Getafe", "Sociedad", "draw")
+("Almeria", "Villarreal", "win_b")
+("Alaves", "Ath Madrid", "win_a")
+("Real Madrid", "Barcelona", "win_a")
+("Sevilla", "Mallorca", "win_a")
+("Sociedad", "Real Madrid", "win_b")
+("Las Palmas", "Girona", "win_b")
+("Almeria", "Getafe", "win_b")
+("Alaves", "Celta", "win_a")
+("Ath Madrid", "Ath Bilbao", "win_a")
+("Cadiz", "Mallorca", "draw")
+("Granada", "Osasuna", "win_a")
+("Villarreal", "Vallecano", "win_a")
+("Betis", "Sevilla", "draw")
+("Barcelona", "Valencia", "win_a")
+("Getafe", "Ath Bilbao", "win_b")
+("Sociedad", "Las Palmas", "win_a")
+("Real Madrid", "Cadiz", "win_a")
+("Girona", "Barcelona", "win_a")
+("Mallorca", "Ath Madrid", "win_b")
+("Osasuna", "Betis", "win_b")
+("Celta", "Villarreal", "win_a")
+("Valencia", "Alaves", "win_b")
+("Sevilla", "Granada", "win_a")
+("Vallecano", "Almeria", "win_b")
+("Alaves", "Girona", "draw")
+("Mallorca", "Las Palmas", "win_a")
+("Villarreal", "Sevilla", "win_a")
+("Granada", "Real Madrid", "win_b")
+("Ath Bilbao", "Osasuna", "draw")
+("Cadiz", "Getafe", "win_a")
+("Ath Madrid", "Celta", "win_a")
+("Valencia", "Vallecano", "draw")
+("Betis", "Almeria", "win_a")
+("Barcelona", "Sociedad", "win_a")
+("Osasuna", "Mallorca", "draw")
+("Real Madrid", "Alaves", "win_a")
+("Girona", "Villarreal", "win_b")
+("Sevilla", "Cadiz", "win_b")
+("Vallecano", "Granada", "win_a")
+("Celta", "Ath Bilbao", "win_a")
+("Getafe", "Ath Madrid", "win_b")
+("Las Palmas", "Betis", "draw")
+("Almeria", "Barcelona", "win_b")
+("Sociedad", "Valencia", "win_a")
+("Alaves", "Getafe", "win_a")
+("Ath Bilbao", "Sevilla", "win_a")
+("Ath Madrid", "Osasuna", "win_b")
+("Barcelona", "Vallecano", "win_a")
+("Betis", "Sociedad", "win_b")
+("Cadiz", "Las Palmas", "draw")
+("Granada", "Celta", "win_b")
+("Mallorca", "Almeria", "draw")
+("Valencia", "Girona", "win_b")
+("Villarreal", "Real Madrid", "draw")
+("Girona", "Granada", "win_a")
+("Osasuna", "Villarreal", "draw")
+("Sociedad", "Ath Madrid", "win_b")
+("Almeria", "Cadiz", "win_a")
+("Vallecano", "Ath Bilbao", "win_b")
+("Real Madrid", "Betis", "draw")
+("Getafe", "Mallorca", "win_b")
+("Celta", "Valencia", "draw")
+("Las Palmas", "Alaves", "draw")
+("Sevilla", "Barcelona", "win_b")

@@ -1,20 +1,48 @@
-Man City 1648 38
-Man United 1592 37
-Chelsea 1577 36
-Liverpool 1563 36
-Leicester City 1561 36
-Arsenal 1536 36
-Leeds United 1534 37
-West Ham 1531 36
-Tottenham 1522 36
-Everton 1495 36
-Brighton 1459 38
-Aston Villa 1457 36
-Wolves 1456 36
-Crystal Palace 1451 36
-Newcastle 1449 36
-Burnley 1440 36
-Southampton 1418 37
-West Brom 1386 36
-Fulham 1382 37
-Sheffield Utd 1339 36
+Man City 1770 114
+Real Madrid 1752 76
+Barcelona 1704 76
+Liverpool 1674 114
+Arsenal 1670 114
+Man United 1643 114
+Ath Madrid 1640 76
+Newcastle 1634 114
+Girona 1621 76
+Aston Villa 1594 114
+Brentford 1587 76
+Ath Bilbao 1575 76
+Brighton 1571 114
+Villarreal 1571 76
+Sociedad 1564 76
+Tottenham 1557 114
+Betis 1546 76
+Alaves 1499 38
+Crystal Palace 1497 114
+Chelsea 1487 114
+Fulham 1482 76
+West Ham 1473 114
+Osasuna 1471 76
+Celta 1471 76
+Mallorca 1469 76
+Wolves 1468 114
+Nottingham Forest 1466 38
+Valencia 1465 76
+Sevilla 1461 76
+Everton 1454 114
+Bournemouth 1440 38
+Leicester City 1439 114
+Espanol 1434 38
+Valladolid 1434 38
+Burnley 1428 76
+Getafe 1426 76
+Vallecano 1424 76
+Las Palmas 1420 38
+Cadiz 1419 76
+Elche 1397 38
+Leeds United 1391 114
+West Brom 1377 38
+Almeria 1373 76
+Sheffield Utd 1358 38
+Southampton 1351 114
+Norwich City 1343 38
+Granada 1342 38
+Watford 1335 38
