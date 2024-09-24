@@ -101,17 +101,17 @@ class EloRatingSystem:
 # Initialize the EloRatingSystem
 elo_system = EloRatingSystem()
 
-# Example match results (team_a, team_b, result)
-match_results = [
-    ("Brighton", "Man City", "win_"),
-]
+# # Example match results (team_a, team_b, result)
+# match_results = [
+#     ("Brighton", "Man City", "win_"),
+# ]
 
-# Update Elo ratings for each match
-for team_a, team_b, result in match_results:
-    elo_system.update_ratings(team_a, team_b, result)
+# # Update Elo ratings for each match
+# for team_a, team_b, result in match_results:
+#     elo_system.update_ratings(team_a, team_b, result)
 
-# Check updated ratings after processing match results
-print("Updated Elo Ratings:")
+# # Check updated ratings after processing match results
+# print("Updated Elo Ratings:")
 # for team, (rating, matches) in elo_system.ratings.items():
 #     print(f"{team}: {rating} after {matches} matches")
 

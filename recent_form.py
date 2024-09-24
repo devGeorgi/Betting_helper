@@ -1,5 +1,5 @@
 class FormRatingSystem:
-    def __init__(self, form_file="recent_form.txt", elo_file="teams2.txt", form_decay_rate=20):
+    def __init__(self, form_file="recent_form.txt", elo_file="teams.txt", form_decay_rate=20):
         """Initialize Form Rating system with paths to form and Elo files, and form decay rate."""
         self.form_file = form_file
         self.elo_file = elo_file
@@ -16,10 +16,24 @@ class FormRatingSystem:
                 for line in file:
                     line = line.strip()
                     if line:
-                        # Split the form score, team name, and history
-                        form_score, team, *form_history = line.split()
-                        form_score = float(form_score)  # Convert form score to float
-                        form_history = [float(f) for f in form_history]  # Convert the history to floats
+                        # Split the first element (form score) and the rest (team name and history)
+                        parts = line.split()
+                        form_score = float(parts[0])  # Convert form score to float
+                        
+                        # Find where the team name ends and form history starts
+                        for i in range(1, len(parts)):
+                            try:
+                                # If we can convert this part to a float, it's part of the form history
+                                float(parts[i])
+                                team_name_end = i
+                                break
+                            except ValueError:
+                                continue
+                        
+                        # Extract team name and form history
+                        team = ' '.join(parts[1:team_name_end])
+                        form_history = [float(f) for f in parts[team_name_end:]]
+                        
                         self.recent_form_history[team] = (form_score, form_history)
         except FileNotFoundError:
             print(f"File {self.form_file} not found. Starting with empty form data.")
@@ -143,7 +157,7 @@ if __name__ == "__main__":
 
     # Example match results
     match_results = [
-        ("Barcelona", "Granada", "win_a"),
+        ("West Ham", "Chelsea", "win_b"),
     ]
 
     # Update form and Elo for each match
