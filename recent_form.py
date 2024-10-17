@@ -157,7 +157,16 @@ if __name__ == "__main__":
 
     # Example match results
     match_results = [
-        ("West Ham", "Chelsea", "win_b"),
+        ("Newcastle", "Man City", "draw"),
+        ("Chelsea", "Brighton", "win_a"),
+        ("Brentford", "West Ham", "draw"),
+        ("Everton", "Crystal Palace", "win_a"),
+        ("Arsenal", "Leicester City", "win_a"),
+        ("Nottingham Forest", "Fulham", "win_b"),
+        ("Wolves", "Liverpool", "win_b"),
+        ("Ipswich", "Aston Villa", "draw"),
+        ("Man United", "Tottenham", "win_b"),
+        ("Bournemouth", "Southampton", "win_a"),
     ]
 
     # Update form and Elo for each match

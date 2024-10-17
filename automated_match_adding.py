@@ -1,4 +1,4 @@
-from main import EloRatingSystem
+from predict import EloRatingSystem
 
 def process_matches_in_batches(elo_system, match_file, batch_size=10):
     with open(match_file, 'r') as file:
